@@ -190,6 +190,9 @@ https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiRVBGT1giLCJ2Ijoi
 #EXTINF:-1,tvg-id="NBCNewsNOW.us" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2019/05/nbc-news-now-logo.jpg?width=200&height=200" group-title=" 📡 TV INT'L",NBC News Now
 https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
 
+#EXTINF:-1,tvg-id="NBCNewsNOW.us" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2019/05/nbc-news-now-logo.jpg?width=200&height=200" group-title=" 📡 TV INT'L",NBC News Now (iHeart)
+https://n06b-e2.revma.ihrhls.com/zc6043/hls.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title=" 📡 TV INT'L",FOX NEWS
 https://livetv-fa.tubi.video/fox-live-now/index.m3u8
 
@@ -1407,6 +1410,7 @@ http://radio.talkradio.co.uk/stream
 
 #EXTINF:-1,tvg-id="KIIS FM" tvg-logo="https://support.musicgateway.com/wp-content/uploads/2020/08/800-x-500-1.png?width=200&height=200" group-title="🎵 MÚSICA",KIIS FM
 https://n02a-e2.revma.ihrhls.com/zc185/2_1dwu0pvdgarr202/playlist.m3u8
+https://stream.revma.ihrhls.com/zc185
 
 #EXTINF:-1,tvg-id="Los40.Radio" tvg-logo="https://graph.facebook.com/los40/picture?width=200&height=200" group-title="🎵 MÚSICA",LOS40
 https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
@@ -2242,4 +2246,20 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 
 #EXTINF:-1,tvg-id="VERBENA FM" tvg-logo="https://rommurcia.es/wp-content/uploads/2021/12/VERBENA1-7813773-882x600.jpg?width=200&height=200" group-title="📻 RADIO",VERBENA FM
 https://streaming12.elitecomunicacion.es:8222/stream
+
+#EXTINF:-1,tvg-id:"EL TRECE" tvg-logo="http://capit.org.ar/new/wp-content/uploads/2015/07/EL-TRECE.jpg?width=200&height=200" group-title=" 📡 TV INT'L",EL TRECE
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1,tvg-id="A40" tvg-logo="https://premierenetworks.s3.amazonaws.com/downloads/2020-08/AT40%20Ryan%20Seacrest%20Logo_0.png?width=200&height=200" group-title="📻 RADIO",AMERICAN TOP 40
+https://stream.revma.ihrhls.com/zc6545/hls.m3u8
+
+#EXTINF:-1,tvg-id="FOXNEWSRADIO" tvg-logo="https://static.foxnews.com/radio.foxnews.com/content/uploads/2023/03/FNC_RADIO_LOGO_LINEAR_RGB_HEX.png?width=200&height=200" group-title="📻 RADIO",FOX NEWS RADIO
+https://playerservices.streamtheworld.com/api/livestream-redirect/KTELAM.mp3
+
+#EXTINF:-1,tvg-id="RTE" tvg-logo="https://cdn.browsercam.com/ie.rte.radio1-header.png?width=200&height=200" group-title="📻 RADIO",RtÉ RADIO 1
+https://icecast.rte.ie/radio1
+
+#EXTINF:-1,tvg-id="VATICAN" tvg-logo="https://media.vaticannews.va/media/content/dam-archive/vaticannews/multimedia/2021/02/09/2021.02.09-Logo-Radio-Vaticana.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg?width=200&height=200" group-title="📻 RADIO",RADIO VATICANA - ES
+https://radio.vaticannews.va/stream-es-b
+
 
