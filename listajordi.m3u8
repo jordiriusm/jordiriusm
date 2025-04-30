@@ -2203,18 +2203,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1,ADN40
 https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/ajJQI39aQd69Omr0hRZw9Q/stream/d09a9bf0-efee-4182-bf96-8434a060cd4a:CBF2/master.m3u8?aid=5fea0f3673148d5d52cf6a76&adInsertionGoogleStreamId=d09a9bf0-efee-4182-bf96-8434a060cd4a%3ACBF2&pid=CymsRLfPUSZaSpXrDCij6xBgdlrsVZau&sid=GaRqVmaKVydfT0JwtF21fRCOcz0pPKM4&uid=Sj0inpE65P386Tjj2zpLzxoIAVj24zHh&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1745151854292&ot=tiYMeJ6o1cxr_ROmos8azA&proto=https&pz=us
 
-#EXTINF:-1,CANAL ONCE
+
+#EXTINF:-1,tvg-id:"ONCE" tvg-logo="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2014/10/Qck6zu9S_400x400.png?width=200&height=200" group-title=" 📡 TV INT'L",CANAL ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b2098304.m3u8
-
-#EXTINF:-1,HISPAN TV
-https://live.presstv.ir/hls/hispantv.m3u8
-
 
 #EXTINF:-1,tvg-id:"HISPAN" tvg-logo="https://davidrajadel.com/wp-content/uploads/2019/06/logo_hispanTV_bw.jpg?width=200&height=200" group-title=" 📡 TV INT'L",HISPAN TV
 https://live.presstv.ir/hls/hispantv.m3u8
-
-
-
 
 #EXTINF:-1,tvg-id="UNIVISION" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Univision-Logo-2013.png?width=200&height=200" group-title="🇺🇸 TV USA”,UNIVISION
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist_1280x720.m3u8
