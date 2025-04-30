@@ -1,0 +1,2241 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXTINF:-1,tvg-id="La1.TV" tvg-logo="http://img2.wikia.nocookie.net/__cb20100228170937/logopedia/images/8/8a/TVE1_logo_2008.png?width=200&height=200" group-title="📺 TV",La 1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+
+#EXTINF:-1,tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="📺 TV",La 2
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+
+#EXTINF:-1,tvg-id="La2Cat.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="📺 TV",La 2 Catalunya
+https://rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main_dvr.m3u8
+
+#EXTINF:-1,tvg-id="TVE_INTER.TV" tvg-logo="https://graph.facebook.com/tveInternacional/picture?width=200&height=200" group-title="📺 TV",TVE Internacional
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
+
+#EXTINF:-1,tvg-id="TVE_INTER.TV" tvg-logo="https://graph.facebook.com/tveInternacional/picture?width=200&height=200" group-title="📺 TV",TVE Int Europa-Asia
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
+
+#EXTINF:-1,tvg-id="TVE_INTER.TV" tvg-logo="https://graph.facebook.com/tveInternacional/picture?width=200&height=200" group-title="📺 TV",TVE Int Asia-Oceanía
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
+
+#EXTINF:-1,tvg-id="Star.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png?width=200&height=200" group-title="📺 TV",Star TVE
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+
+#EXTINF:-1,tvg-id="Antena3.TV" tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg?width=200&height=200" group-title="📺 TV",Antena 3
+http://185.189.225.150:85/Antena3HD/index.m3u8
+
+#EXTINF:-1,tvg-id="NOVA.TV" tvg-logo="https://fotografias.antena3.com/clipping/cmsimages01/2015/03/06/AB8DB790-3557-4F20-95C3-830A2A8A3970/58.jpg?width=200&height=200" group-title="📺 TV",NOVA
+http://185.189.225.150:85/nova/index.m3u8
+
+#EXTINF:-1,tvg-id="NEOX.TV" tvg-logo="https://static.grupojoly.com/clip/6dd1583c-1648-46ec-a6c3-04a88a13d9a0_source-aspect-ratio_default_0.jpg?width=200&height=200" group-title="📺 TV",NEOX
+http://185.189.225.150:85/neox/index.m3u8
+
+#EXTINF:-1,tvg-id="MEGA.TV" tvg-logo="http://arabast.com/wp-content/uploads/2015/06/Logotipo-de-Mega.jpg?width=200&height=200" group-title="📺 TV",MEGA
+http://185.189.225.150:85/mega/index.m3u8
+
+#EXTINF:-1,tvg-id="ATRESERIES.TV" tvg-logo="https://fotografias.atresmediapublicidad.com/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B/58.jpg?width=200&height=200" group-title="📺 TV",ATRESERIES
+http://181.78.109.48:8000/play/a00l/index.m3u8
+
+#EXTINF:-1,tvg-id="Cuatro.TV" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_circular_500_-1_d4a5.png?width=200&height=200" group-title="📺 TV",Cuatro
+http://185.189.225.150:85/CuatroHD/index.m3u8
+
+#EXTINF:-1,tvg-id="Telecinco.TV" tvg-logo="https://estaticos-cdn.prensaiberica.es/clip/d2cc7e1c-0945-40f3-b587-7abf2f36d608_16-9-discover-aspect-ratio_default_0.jpg?width=200&height=200" group-title="📺 TV",Telecinco
+http://185.189.225.150:85/TeleCincoHD/index.m3u8
+
+#EXTINF:-1,tvg-id="FDF.TV" tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2009/08/factoria_de_ficcion_logo.jpg?width=200&height=200" group-title="📺 TV",FDF
+http://185.189.225.150:85/fdf/index.m3u8
+
+#EXTINF:-1,tvg-id="Boing.TV" tvg-logo="http://www.ocendi.com/wp-content/themes/ocendi/style/post/2010/09/Logo_boing.jpg?width=200&height=200" group-title="📺 TV",BOING
+http://185.189.225.150:85/boing/index.m3u8
+
+#EXTINF:-1,tvg-id="LaSexta.TV" tvg-logo="https://i.imgur.com/aKV5voq.png?width=200&height=200" group-title="📺 TV",La Sexta
+http://185.189.225.150:85/LaSexta/index.m3u8
+
+#EXTINF:-1,tvg-id="Telemadrid.TV" tvg-logo="https://tmbroadcast.es/wp-content/uploads/2020/02/Logo-telemadrid.jpg?width=200&height=200" group-title="📺 TV",Telemadrid
+https://telemadrid-23-secure2.akamaized.net/master.m3u8
+
+#EXTINF:-1,tvg-id="Telemadrid.TV" tvg-logo="https://tmbroadcast.es/wp-content/uploads/2020/02/Logo-telemadrid.jpg?width=200&height=200" group-title="📺 TV",LaOtra
+https://laotra-1-23-secure2.akamaized.net/master.m3u8
+
+#EXTINF:-1,tvg-id="8madridTV.es" tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg?width=200&height=200" group-title="🎬 CINE",8madrid TV
+http://185.189.225.150:85/8madrid/index.m3u8
+
+#EXTINF:-1,tvg-id="BomCine.es" tvg-logo="https://i.imgur.com/65OX8Gj.png?width=200&height=200" group-title="🎬 CINE",Bom Cine
+http://185.189.225.150:85/BOM/index.m3u8
+
+#EXTINF:-1,tvg-id="AMC.es" tvg-logo="https://logo-marque.com/wp-content/uploads/2022/01/AMC-Logo-2002-2013.jpg?width=200&height=200" group-title="🎬 CINE",AMC
+http://vegafibratv.com:8085/AMC/index.m3u8
+
+#EXTINF:-1,tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="📺 TV",TRECE
+https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+
+#EXTINF:-1,tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="📺 TV",El Toro TV
+https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="📺 TV",RNE para todos
+https://rtvelivestream.akamaized.net/rtvesec/rne/rne_para_todos_main.m3u8
+
+#EXTINF:-1,tvg-id="24Horas" tvg-logo="https://www.formulatv.com/fotos/a/76000/76431/rnv3jk9q5piz0fknxk4cb741b11dfed_logo-24h_m.png?width=200&height=200" group-title="📺 TV",24h
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+
+#EXTINF:-1,tvg-id="24H.TV" tvg-logo="https://imagenes.heraldo.es/files/image_990_v3/uploads/imagenes/2022/09/14/24h.jpeg?width=200&height=200" group-title="📺 TV",24h Int'l
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_576.m3u8
+
+#EXTINF:-1,tvg-id="Euronews.TV" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="📺 TV",Euronews
+https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
+
+#EXTINF:-1,tvg-id="ElPais.TV" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title="📺 TV",El País
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+
+#EXTINF:-1,tvg-id="ElConfidencial.TV" tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title="📺 TV",El Confidencial
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+
+#EXTINF:-1,tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="📺 TV",Teledeporte
+https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
+
+#EXTINF:-1,tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="📺 TV",Clan
+https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
+
+#EXTINF:-1,tvg-id="Paramount.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png?width=200&height=200" group-title="📺 TV",Paramount Network 
+http://185.189.225.150:85/Paramount/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="📺 TV",Canal Parlamento
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.reasonwhy.es/media/cache/destacada/senado-nueva-imagen.jpg?width=200&height=200" group-title="📺 TV",Senado
+https://senadolive.akamaized.net/hls/live/2006589/punto7/master.m3u8
+
+#EXTINF:-1,tvg-id="CanalSurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="📺 TV",Canal Sur Andalucía
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
+
+#EXTINF:-1,tvg-id="AragonTV.TV" tvg-logo="https://graph.facebook.com/AragonTV/picture?width=200&height=200" group-title="📺 TV",Aragón TV
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
+#EXTINF:-1,tvg-id="CMM.TV" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title="📺 TV",Castilla-La Mancha Media
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1,tvg-id="TV3.TV" tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="📺 TV",TV3
+https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
+
+#EXTINF:-1,tvg-id="324.TV" tvg-logo="https://graph.facebook.com/324cat/picture?width=200&height=200" group-title="📺 TV",324
+https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
+
+#EXTINF:-1,tvg-id="C33.TV" tvg-logo="https://graph.facebook.com/Canal33/picture?width=200&height=200" group-title="📺 TV",33
+https://directes-tv-cat.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
+
+#EXTINF:-1,tvg-id="SX3.TV" tvg-logo="https://graph.facebook.com/SomSX3/picture?width=200&height=200" group-title="📺 TV",SX3
+https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
+
+#EXTINF:-1,tvg-id="TVC.TV" tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="📺 TV",TV3.CAT
+https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
+
+#EXTINF:-1,tvg-id="APUNT.TV" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title="📺 TV",À Punt
+https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
+
+#EXTINF:-1,tvg-id="BONDIA.TV" tvg-logo="https://diretele.com/wp-content/uploads/2020/09/bon-dia-tv.png?width=200&height=200" group-title="📺 TV",Bon Dia TV
+https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
+
+#EXTINF:-1,tvg-id="7Televalencia.TV" tvg-logo="https://pbs.twimg.com/profile_images/1876660632478437376/rbEqYeqC_200x200.jpg" group-title="📺 TV",7 TeleValencia
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+
+#EXTINF:-1,tvg-id="Extremadura.TV" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="📺 TV",Canal Extremadura
+https://cdnapisec.kaltura.com/p/5581662/sp/5581662/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1,tvg-id="ETB2.TV" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="📺 TV",ETB 2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+
+#EXTINF:-1,tvg-id="ETBSAT.TV" tvg-logo="https://4.bp.blogspot.com/-kxXCGxWvGrQ/VFlSNijf3GI/AAAAAAAABjI/czdP032QdeE/s1600/etb-sat-en-directo%2C-online%2C-en-vivo%2C-canal-vasco%2C-.png?width=200&height=200" group-title="📺 TV",ETB SAT
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+
+#EXTINF:-1,tvg-id="7RM.TV" tvg-logo="https://graph.facebook.com/la7tele/picture?width=200&height=200" group-title="📺 TV",7 R. de Murcia
+https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-id="TVGAL.TV" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="📺 TV",TVG
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1,tvg-id="TVG2.TV" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="📺 TV",TVG 2
+https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1,tvg-id="TVGA.TV" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="📺 TV",TVG América
+https://crtvg-america.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1,tvg-id="TeleMadridInt.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="📺 TV",Telemadrid Internacional
+https://new-international-23-secure2.akamaized.net/index.m3u8
+
+#EXTINF:-1,tvg-id="ATVHD.TV" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title=" 📡 TV INT'L",ATV Andorra
+https://play.cdn.enetres.net/56495F77FD124FECA75590A906965F2C021/021/playlist.m3u8
+
+#EXTINF:-1,tvg-id="RTP Açores" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/04/RTP-Açores-em-direto-Online.png?width=200&height=200" group-title=" 📡 TV INT'L",RTP Açores
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-id="RTP Madeira" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/04/RTP-Açores-em-direto-Online.png?width=200&height=200" group-title=" 📡 TV INT'L",RTP Madeira
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-id="ABCNewsLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png?width=200&height=200" group-title=" 📡 TV INT'L",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1,tvg-id="CBSNews247.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png?width=200&height=200" group-title=" 📡 TV INT'L",CBS News 24/7
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1,tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png?width=200&height=200" group-title=" 📡 TV INT'L",Fox News Channel
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+
+#EXTINF:-1,tvg-id="USANOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png?width=200&height=200" group-title=" 📡 TV INT'L",Fox Live Now
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="USANOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png?width=200&height=200" group-title=" 📡 TV INT'L",Fox Live Now 2
+https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiRVBGT1giLCJ2IjoiYWRzdHczZzBQajI4UDJBVyIsImFudmFjayI6IjdiNFdKbDM1emFIUndXemhrVWV3V1pKaUQzSk9tQWpHIiwic2hhcmVMaW5rIjoiaHR0cHM6Ly93My5tcC5sdXJhLmxpdmUvcGxheWVyL3Byb2QvdjMvYW52bG9hZC5odG1sP2tleT1leUp0SWpvaVJWQkdUMWdpTENKMklqb2lZV1J6ZEhjelp6QlFhakk0VURKQlZ5SXNJblJ2YTJWdUlqb2laWGxLTUdWWVFXbFBhVXBMVmpGUmFVeERTbWhpUjJOcFQybEtTVlY2U1RGT2FVbzVMbVY1U2pKaFYxRnBUMmxLYUZwSVRqQmtlazV1VFVaQ2NVMXFhRkZOYTBaWVNXbDNhV0ZZVG5wSmFtOXBUakpKTUZZd2NITk5lbFkyV1ZWb1UyUXhaRFpoUjNSV1dsaGtXRmRyY0hCU1JFNUxWREl4UW1GclkybG1VUzVMWDJkU05IRlBTRTFPY1VoQ1JVTk1Ua1UyZUhkTFpFdzVhR0Y0ZUZKMk56QTJORU5KVUZsUFlUYzRJaXdpWVc1MllXTnJJam9pTjJJMFYwcHNNelY2WVVoU2QxZDZhR3RWWlhkWFdrcHBSRE5LVDIxQmFrY2lmUSUzRCUzRCIsInBsdWdpbnMiOnt9LCJodG1sNSI6dHJ1ZSwidG9rZW4iOiJleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjkuZXlKMmFXUWlPaUpoWkhOMGR6Tm5NRkJxTWpoUU1rRlhJaXdpYVhOeklqb2lOMkkwVjBwc016VjZZVWhTZDFkNmFHdFZaWGRYV2twcFJETktUMjFCYWtjaWZRLktfZ1I0cU9ITU5xSEJFQ0xORTZ4d0tkTDloYXh4UnY3MDY0Q0lQWU9hNzgifQ%3D%3D
+
+#EXTINF:-1,tvg-id="NBCNewsNOW.us" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2019/05/nbc-news-now-logo.jpg?width=200&height=200" group-title=" 📡 TV INT'L",NBC News Now
+https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title=" 📡 TV INT'L",FOX NEWS
+https://livetv-fa.tubi.video/fox-live-now/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title=" 📡 TV INT'L",LIVENOW FROM FOX
+https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
+
+#EXTINF:-1,tvg-id="CheddarNews.us" tvg-logo="https://i.imgur.com/tuP9GW8.png?width=200&height=200" group-title=" 📡 TV INT'L",Cheddar News
+https://cheddar-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" user-agent="Star Wars",group-title=" 📡 TV INT'L",CNN INT
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" user-agent="Star Wars",group-title=" 📡 TV INT'L",CNN FAST
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title=" 📡 TV INT'L",CNN EN ESPAÑOL
+https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8
+
+#EXTINF:-1,tvg-id="France24English.fr" tvg-logo="https://i.imgur.com/B76eSg2.png?width=200&height=200" group-title=" 📡 TV INT'L",France 24 English
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_500.m3u8
+
+#EXTINF:-1,tvg-id="France24Espanol.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png?width=200&height=200" group-title=" 📡 TV INT'L",France 24 Español
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_500.m3u8
+
+#EXTINF:-1,tvg-id="" tvg-logo="https://icivil.org/wp-content/uploads/2017/03/FRANCE-24-LOGO.jpg?width=200&height=200" group-title=" 📡 TV INT'L",France 24 FAST English
+https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
+
+#EXTINF:-1,tvg-id="France24French.fr" tvg-logo="https://i.imgur.com/u8N6uoj.png?width=200&height=200" group-title=" 📡 TV INT'L",France 24 French
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png" group-title=" 📡 TV INT'L",BBC NEWS
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20121007054058/disney/images/3/3a/2000px-ESPN_Deportes_logo.png?width=200&height=200" group-title=" 📡 TV INT'L",ESPN DEPORTES
+http://190.92.10.66:4000/play/a003/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://eloutput.com/wp-content/uploads/2024/02/laliga-tv-inside-logo.jpg?width=200&height=200" group-title=" 📡 TV INT'L",LA LIGA INSIDE
+https://daiconnect.com/live/hls/tvup/rk-ligainside/.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.fahrenheit211.net/wp-content/uploads/2020/10/sky-logo.png?width=200&height=200" group-title=" 📡 TV INT'L",SKY NEWS
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+
+#EXTINF:-1,tvg-id="BBCNewsNorthAmerica.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png?width=200&height=200" group-title=" 📡 TV INT'L",BBC News North America
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+
+#EXTINF:-1,tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png?width=200&height=200" group-title=" 📡 TV INT'L",RT en Español
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
+#EXTINF:-1,tvg-id="AFGAN" tvg-logo="https://i0.wp.com/www.afghanlive.tv/wp-content/uploads/2020/05/afghanistan-international-tv.png?width=200&height=200" group-title=" 📡 TV INT'L",Afganistán International
+https://hls.afintl.com/hls/stream.m3u8
+
+#EXTINF:-1,tvg-id="UniversalCinema.us" tvg-logo="https://i.imgur.com/XxfET68.png?width=200&height=200" group-title="🎬 CINE",Universal Cinema
+http://190.2.212.209:8050/play/a0q3
+
+#EXTINF:-1,tvg-id="SundanceTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png?width=200&height=200" group-title="🎬 CINE",Sundance TV East
+http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
+
+#EXTINF:-1,tvg-id="TMZ" tvg-logo="https://www.kindpng.com/picc/m/403-4034745_tmz-logo-png-transparent-png.png?width=200&height=200" group-title=" 📡 TV INT'L",TMZ
+https://apollo.production-public.tubi.io/live/ac-tmz.m3u8
+
+#EXTINF:-1,tvg-id="ME TV" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/2/21/MeTV_logo_2014.png/revision/latest??width=200&height=200" group-title=" 📡 TV INT'L",ME TV
+https://cvtv.cvalley.net/hls/KMBCMeTV/live/pkgKMBCMeTVLo.m3u8
+
+#EXTINF:-1,tvg-id="ION PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png?width=200&height=200" group-title=" 📡 TV INT'L",ION PLUS
+http://fl3.moveonjoy.com/ION_Plus/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM PARIS
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1,tvg-id="RNE.Radio" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="📻 RADIO",RADIO Nacional
+https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r1_main.m3u8
+
+#EXTINF:-1,tvg-id="RNE3.Radio" tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="🎵 MÚSICA",RADIO 3 RNE
+https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r3_main.m3u8
+
+#EXTINF:-1,tvg-id="RADIO4RNE.Radio" tvg-logo="https://graph.facebook.com/Radio4RNE/picture?width=200&height=200" group-title="📻 RADIO",Ràdio 4 RNE
+https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r4_main.m3u8
+
+#EXTINF:-1,tvg-id="RNE5.Radio" tvg-logo="https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg" group-title="📻 RADIO",RADIO 5 RNE
+https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r5_madrid_main.m3u8
+
+#EXTINF:-1,tvg-logo="https://graph.facebook.com/RadioExterior/picture?width=200&height=200" group-title="📻 RADIO",Radio Exterior
+https://rtvelivestream.akamaized.net/rtvesec/rne/rne_re_main.m3u8
+
+#EXTINF:-1,tvg-id="RNEClasica.Radio" tvg-logo="https://graph.facebook.com/radioclasicartve/picture?width=200&height=200" group-title="🎵 MÚSICA",Radio Clásica RNE
+https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r2_main.m3u8
+
+#EXTINF:-1,tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="📻 RADIO",SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
+
+#EXTINF:-1,tvg-id="CadenaS.Radio" tvg-logo="https://i.ytimg.com/vi/ig1MWogR11U/maxresdefault.jpg?width=200&height=200" group-title="📻 RADIO",SER+
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT1.mp3
+
+#EXTINF:-1,tvg-id="COPE.Radio" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="📻 RADIO",COPE
+https://flucast09-h-cloud.flumotion.com/cope/net1.mp3
+
+#EXTINF:-1,tvg-id="COPE.Radio" tvg-logo="https://www.radio.es/images/broadcasts/4d/7e/121490/1/c300.png?width=200&height=200" group-title="📻 RADIO",COPE MÁS
+https://flucast09-h-cloud.flumotion.com/cope/net1.mp3
+
+#EXTINF:-1,tvg-id="OndaCero.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="📻 RADIO",Onda Cero
+https://atres-live.ondacero.es/live/ondacero/master.m3u8
+
+#EXTINF:-1,tvg-id="OndaCero.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="📻 RADIO",Onda Cero Más
+https://atres-live.ondacero.es/live/ondaceroeventos1/master.m3u8
+
+#EXTINF:-1,tvg-id="esRadio.Radio" tvg-logo="https://graph.facebook.com/esradio/picture?width=200&height=200" group-title="📻 RADIO",esRadio
+https://libertaddigital-libremercado-live.flumotion.com/libertaddigital/libremercado-high.aac
+
+#EXTINF:-1,tvg-id="InformaRadio.Radio" tvg-logo="http://guiadelaradio.com/wp-content/uploads/2022/10/Informa_Radio_72500-678x381.jpg?width=200&height=200" group-title="📻 RADIO",Informa Radio
+https://24x7.red:42045/informa
+
+#EXTINF:-1,tvg-id="RAC1.Radio" tvg-logo="https://graph.facebook.com/rac1oficial/picture?width=200&height=200" group-title="📻 RADIO",RAC1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
+
+#EXTINF:-1,tvg-id="CATRadio.Radio" tvg-logo="https://graph.facebook.com/catradio/picture?width=200&height=200" group-title="📻 RADIO",Catalunya Ràdio
+https://directes-radio-int.3catdirectes.cat/live-content/catalunya-radio-hls/master.m3u8
+
+#EXTINF:-1,tvg-id="CATInformacio.Radio" tvg-logo="https://pbs.twimg.com/profile_images/1172550299585847302/cqJkGqw7_200x200.png" group-title="📻 RADIO",Catalunya Informació
+https://directes-radio-int.3catdirectes.cat/live-content/catalunya-informacio-hls/master.m3u8
+
+#EXTINF:-1,tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title="📻 RADIO",À Punt FM
+https://bcovlive-a.akamaihd.net/0841326767184ef7acc0489071ec64da/eu-central-1/6057955885001/playlist_dvr.m3u8
+
+#EXTINF:-1,tvg-logo="https://media.emisorasmusicales.net/wp-content/uploads/2024/04/23134127/LOGO-DEF.-COMBOI-1000x1000px-RGB.png?width=200&height=200" group-title="📻 RADIO",Comboi
+https://stream.emisorasmusicales.net/listen/comboi/comboi.mp3
+
+#EXTINF:-1,tvg-logo="https://graph.facebook.com/radioeuskadi.RE/picture?width=200&height=200" group-title="📻 RADIO",Radio Euskadi
+https://multimedia.eitb.eus/live-content/radioeuskadi-hls/master.m3u8
+
+#EXTINF:-1,tvg-logo="https://graph.facebook.com/radiovitoria.eitb/picture?width=200&height=200" group-title="📻 RADIO",Radio Vitoria
+https://multimedia.eitb.eus/live-content/radiovitoria-hls/master.m3u8
+
+#EXTINF:-1,tvg-id="CanalSur.Radio" tvg-logo="https://graph.facebook.com/CanalSurRadioAndalucia/picture?width=200&height=200" group-title="📻 RADIO",Canal Sur Radio
+https://rtva-live-radio.flumotion.com/rtva/csr.mp3
+
+#EXTINF:-1,tvg-id="RADIOGalega.Radio" tvg-logo="https://graph.facebook.com/aradiogalega/picture?width=200&height=200" group-title="📻 RADIO",Radio Galega
+https://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://graph.facebook.com/RTPAoficial/picture?width=200&height=200" group-title="📻 RADIO",RPA
+https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/radio/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="📻 RADIO",Canal Extremadura Radio
+https://ingest2-video.streaming-pro.com/icecast/canalextremadura/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="📻 RADIO",RNA Andorra
+https://live-edge-eu-1.cdn.enetres.net/56495F77FD124FECA75590A906965F2C023/rna/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://graph.facebook.com/rfienespanol/picture?width=200&height=200" group-title="📻 RADIO" RADIO,Radio Francia Internacional
+https://rfienespagnol64k.ice.infomaniak.ch/rfienespagnol-64.mp3
+
+#EXTINF:-1,tvg-logo="https://graph.facebook.com/radioenlacemadrid/picture?width=200&height=200" group-title="📻 RADIO",Radio Enlace
+https://cervera.eldialdigital.com:25121/stream
+
+#EXTINF:-1,tvg-logo="https://graph.facebook.com/inforadiocomplutense/picture?width=200&height=200" group-title="📻 RADIO",Inforadio UCM
+https://stream.zeno.fm/syfk1h3e0fnuv
+
+#EXTINF:-1,tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2019/03/nbc-news-logo.jpg?width=200&height=200" group-title="📻 RADIO",NBC News Radio
+https://stream.revma.ihrhls.com/zc6043
+
+#EXTINF:-1,tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/MSNBC-Logo.png?width=200&height=200" group-title="📻 RADIO",MSNBC
+https://19313.live.streamtheworld.com/NBC_MSNBCAAC/HLS/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://cdn-profiles.tunein.com/s15289/images/logog.png?width=200&height=200" group-title="📻 RADIO",AFN ROTA
+http://27823.live.streamtheworld.com:3690/AFNE_RTA_SC
+
+#EXTINF:-1,tvg-logo="https://los40ar00.epimg.net/los40/imagenes/2024/01/19/actualidad/1705690603_054172_1705690808_noticia_normal.jpg?width=200&height=200" group-title="📻 RADIO",LOS 40 USA
+https://streams.streamkast.co/streamkast/los40/icecast.audio
+
+#EXTINF:-1,tvg-logo="https://static.wikigta.org/en/images/6/60/Worldwide_FM_(GTA_V).png?width=200&height=200" group-title="📻 RADIO",WORLDWIDE FM
+http://worldwidefm.out.airtime.pro:8000/worldwidefm_a
+
+#EXTINF:-1,tvg-id="ae-us-eastern-feed" A&E US Eastern Feed SD" group-title="🇺🇸 TV USA",A&E US Eastern Feed SD
+https://tvpass.org/live/AEEast/sd
+
+#EXTINF:-1,tvg-id="ae-us-eastern-feed" A&E US Eastern Feed HD" group-title="🇺🇸 TV USA",A&E US Eastern Feed HD
+https://tvpass.org/live/AEEast/hd
+
+#EXTINF:-1,tvg-id="abc-kabc-los-angeles-ca" ABC (KABC) Los Angeles SD" group-title="🇺🇸 TV USA",ABC (KABC) Los Angeles SD
+https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
+
+#EXTINF:-1,tvg-id="abc-kabc-los-angeles-ca" ABC (KABC) Los Angeles HD" group-title="🇺🇸 TV USA",ABC (KABC) Los Angeles HD
+https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
+
+#EXTINF:-1,tvg-id="abc-wabc-new-york-ny" ABC (WABC) New York, NY SD" group-title="🇺🇸 TV USA",ABC (WABC) New York, NY SD
+https://tvpass.org/live/WABCDT1/sd
+
+#EXTINF:-1,tvg-id="abc-wabc-new-york-ny" ABC (WABC) New York, NY HD" group-title="🇺🇸 TV USA",ABC (WABC) New York, NY HD
+https://tvpass.org/live/WABCDT1/hd
+
+#EXTINF:-1,tvg-id="acc-network" ACC Network SD" group-title="🇺🇸 TV USA",ACC Network SD
+https://tvpass.org/live/ACCNetwork/sd
+
+#EXTINF:-1,tvg-id="acc-network" ACC Network HD" group-title="🇺🇸 TV USA",ACC Network HD
+https://tvpass.org/live/ACCNetwork/hd
+
+#EXTINF:-1,tvg-id="altitude-sports-denver" Altitude Sports Denver SD" group-title="🇺🇸 TV USA",Altitude Sports Denver SD
+https://tvpass.org/live/altitude-sports-denver/sd
+
+#EXTINF:-1,tvg-id="altitude-sports-denver" Altitude Sports Denver HD" group-title="🇺🇸 TV USA",Altitude Sports Denver HD
+https://tvpass.org/live/altitude-sports-denver/hd
+
+#EXTINF:-1,tvg-id="amc-eastern-feed" AMC Eastern Feed SD" group-title="🇺🇸 TV USA",AMC Eastern Feed SD
+https://tvpass.org/live/AMCEast/sd
+
+#EXTINF:-1,tvg-id="amc-eastern-feed" AMC Eastern Feed HD" group-title="🇺🇸 TV USA",AMC Eastern Feed HD
+https://tvpass.org/live/AMCEast/hd
+
+#EXTINF:-1,tvg-id="american-heroes-channel" American Heroes Channel SD" group-title="🇺🇸 TV USA",American Heroes Channel SD
+https://tvpass.org/live/AmericanHeroesChannel/sd
+
+#EXTINF:-1,tvg-id="american-heroes-channel" American Heroes Channel HD" group-title="🇺🇸 TV USA",American Heroes Channel HD
+https://tvpass.org/live/AmericanHeroesChannel/hd
+
+#EXTINF:-1,tvg-id="animal-planet-us-east" Animal Planet US East SD" group-title="🇺🇸 TV USA",Animal Planet US East SD
+https://tvpass.org/live/AnimalPlanetEast/sd
+
+#EXTINF:-1,tvg-id="animal-planet-us-east" Animal Planet US East HD" group-title="🇺🇸 TV USA",Animal Planet US East HD
+https://tvpass.org/live/AnimalPlanetEast/hd
+
+#EXTINF:-1,tvg-id="bbc-america-east" BBC America East SD" group-title="🇺🇸 TV USA",BBC America East SD
+https://tvpass.org/live/BBCAmericaEast/sd
+
+#EXTINF:-1,tvg-id="bbc-america-east" BBC America East HD" group-title="🇺🇸 TV USA",BBC America East HD
+https://tvpass.org/live/BBCAmericaEast/hd
+
+#EXTINF:-1,tvg-id="bbc-news-north-america-hd" BBC News North America HD SD" group-title="🇺🇸 TV USA",BBC News North America HD SD
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
+
+#EXTINF:-1,tvg-id="bbc-news-north-america-hd" BBC News North America HD HD" group-title="🇺🇸 TV USA",BBC News North America HD HD
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/hd
+
+#EXTINF:-1,tvg-id="bet-eastern-feed" BET Eastern Feed SD" group-title="🇺🇸 TV USA",BET Eastern Feed SD
+https://tvpass.org/live/BETEast/sd
+
+#EXTINF:-1,tvg-id="bet-eastern-feed" BET Eastern Feed HD" group-title="🇺🇸 TV USA",BET Eastern Feed HD
+https://tvpass.org/live/BETEast/hd
+
+#EXTINF:-1,tvg-id="bet-her" BET Her SD" group-title="🇺🇸 TV USA",BET Her SD
+https://tvpass.org/live/BETHerEast/sd
+
+#EXTINF:-1,tvg-id="bet-her" BET Her HD" group-title="🇺🇸 TV USA",BET Her HD
+https://tvpass.org/live/BETHerEast/hd
+
+#EXTINF:-1,tvg-id="big-ten-network" Big Ten Network SD" group-title="🇺🇸 TV USA",Big Ten Network SD
+https://tvpass.org/live/BTN/sd
+
+#EXTINF:-1,tvg-id="big-ten-network" Big Ten Network HD" group-title="🇺🇸 TV USA",Big Ten Network HD
+https://tvpass.org/live/BTN/hd
+
+#EXTINF:-1,tvg-id="bloomberg-tv-usa" Bloomberg TV USA SD" group-title="🇺🇸 TV USA",Bloomberg TV USA SD
+https://tvpass.org/live/BloombergTV/sd
+
+#EXTINF:-1,tvg-id="bloomberg-tv-usa" Bloomberg TV USA HD" group-title="🇺🇸 TV USA",Bloomberg TV USA HD
+https://tvpass.org/live/BloombergTV/hd
+
+#EXTINF:-1,tvg-id="boomerang" Boomerang SD" group-title="🇺🇸 TV USA",Boomerang SD
+https://tvpass.org/live/Boomerang/sd
+
+#EXTINF:-1,tvg-id="boomerang" Boomerang HD" group-title="🇺🇸 TV USA",Boomerang HD
+https://tvpass.org/live/Boomerang/hd
+
+#EXTINF:-1,tvg-id="bravo-usa-eastern-feed" Bravo USA Eastern Feed SD" group-title="🇺🇸 TV USA",Bravo USA Eastern Feed SD
+https://tvpass.org/live/BravoEast/sd
+
+#EXTINF:-1,tvg-id="bravo-usa-eastern-feed" Bravo USA Eastern Feed HD" group-title="🇺🇸 TV USA",Bravo USA Eastern Feed HD
+https://tvpass.org/live/BravoEast/hd
+
+#EXTINF:-1,tvg-id="cspan" C-SPAN SD" group-title="🇺🇸 TV USA",C-SPAN SD
+https://tvpass.org/live/CSPAN/sd
+
+#EXTINF:-1,tvg-id="cspan" C-SPAN HD" group-title="🇺🇸 TV USA",C-SPAN HD
+https://tvpass.org/live/CSPAN/hd
+
+#EXTINF:-1,tvg-id="cspan-2" C-SPAN 2 SD" group-title="🇺🇸 TV USA",C-SPAN 2 SD
+https://tvpass.org/live/CSPAN2/sd
+
+#EXTINF:-1,tvg-id="cspan-2" C-SPAN 2 HD" group-title="🇺🇸 TV USA",C-SPAN 2 HD
+https://tvpass.org/live/CSPAN2/hd
+
+#EXTINF:-1,tvg-id="cartoon-network-usa-eastern-feed" Cartoon Network USA Eastern Feed SD" group-title="🇺🇸 TV USA",Cartoon Network USA Eastern Feed SD
+https://tvpass.org/live/CartoonNetworkEast/sd
+
+#EXTINF:-1,tvg-id="cartoon-network-usa-eastern-feed" Cartoon Network USA Eastern Feed HD" group-title="🇺🇸 TV USA",Cartoon Network USA Eastern Feed HD
+https://tvpass.org/live/CartoonNetworkEast/hd
+
+#EXTINF:-1,tvg-id="cbs-kcbs-los-angeles-ca" CBS (KCBS) Los Angeles SD" group-title="🇺🇸 TV USA",CBS (KCBS) Los Angeles SD
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
+
+#EXTINF:-1,tvg-id="cbs-kcbs-los-angeles-ca" CBS (KCBS) Los Angeles HD" group-title="🇺🇸 TV USA",CBS (KCBS) Los Angeles HD
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
+
+#EXTINF:-1,tvg-id="cbs-wcbs-new-york-ny" CBS (WCBS) New York, NY SD" group-title="🇺🇸 TV USA",CBS (WCBS) New York, NY SD
+https://tvpass.org/live/WCBSDT1/sd
+
+#EXTINF:-1,tvg-id="cbs-wcbs-new-york-ny" CBS (WCBS) New York, NY HD" group-title="🇺🇸 TV USA",CBS (WCBS) New York, NY HD
+https://tvpass.org/live/WCBSDT1/hd
+
+#EXTINF:-1,tvg-id="cbs-sports-network-usa" CBS Sports Network USA SD" group-title="🇺🇸 TV USA",CBS Sports Network USA SD
+https://tvpass.org/live/CBSSportsNetworkUSA/sd
+
+#EXTINF:-1,tvg-id="cbs-sports-network-usa" CBS Sports Network USA HD" group-title="🇺🇸 TV USA",CBS Sports Network USA HD
+https://tvpass.org/live/CBSSportsNetworkUSA/hd
+
+#EXTINF:-1,tvg-id="chicago-sports-network" Chicago Sports Network SD" group-title="🇺🇸 TV USA",Chicago Sports Network SD
+https://tvpass.org/live/chicago-sports-network/sd
+
+#EXTINF:-1,tvg-id="chicago-sports-network" Chicago Sports Network HD" group-title="🇺🇸 TV USA",Chicago Sports Network HD
+https://tvpass.org/live/chicago-sports-network/hd
+
+#EXTINF:-1,tvg-id="cinemax-eastern-feed" Cinemax Eastern Feed SD" group-title="🇺🇸 TV USA",Cinemax Eastern Feed SD
+https://tvpass.org/live/CinemaxEast/sd
+
+#EXTINF:-1,tvg-id="cinemax-eastern-feed" Cinemax Eastern Feed HD" group-title="🇺🇸 TV USA",Cinemax Eastern Feed HD
+https://tvpass.org/live/CinemaxEast/hd
+
+#EXTINF:-1,tvg-id="cmt-us-eastern-feed" CMT US Eastern Feed SD" group-title="🇺🇸 TV USA",CMT US Eastern Feed SD
+https://tvpass.org/live/CMTEast/sd
+
+#EXTINF:-1,tvg-id="cmt-us-eastern-feed" CMT US Eastern Feed HD" group-title="🇺🇸 TV USA",CMT US Eastern Feed HD
+https://tvpass.org/live/CMTEast/hd
+
+#EXTINF:-1,tvg-id="cnbc-usa" CNBC USA SD" group-title="🇺🇸 TV USA",CNBC USA SD
+https://tvpass.org/live/CNBC/sd
+
+#EXTINF:-1,tvg-id="cnbc-usa" CNBC USA HD" group-title="🇺🇸 TV USA",CNBC USA HD
+https://tvpass.org/live/CNBC/hd
+
+#EXTINF:-1,tvg-id="cnn" CNN US SD" group-title="🇺🇸 TV USA",CNN US SD
+https://tvpass.org/live/CNN/sd
+
+#EXTINF:-1,tvg-id="cnn" CNN US HD" group-title="🇺🇸 TV USA",CNN US HD
+https://tvpass.org/live/CNN/hd
+
+#EXTINF:-1,tvg-id="comedy-central-us-eastern-feed" Comedy Central (US) Eastern Feed SD" group-title="🇺🇸 TV USA",Comedy Central (US) Eastern Feed SD
+https://tvpass.org/live/ComedyCentralEast/sd
+
+#EXTINF:-1,tvg-id="comedy-central-us-eastern-feed" Comedy Central (US) Eastern Feed HD" group-title="🇺🇸 TV USA",Comedy Central (US) Eastern Feed HD
+https://tvpass.org/live/ComedyCentralEast/hd
+
+#EXTINF:-1,tvg-id="crime-investigation-network-usa-hd" Crime & Investigation Network USA HD SD" group-title="🇺🇸 TV USA",Crime & Investigation Network USA HD SD
+https://tvpass.org/live/CrimePlusInvestigation/sd
+
+#EXTINF:-1,tvg-id="crime-investigation-network-usa-hd" Crime & Investigation Network USA HD HD" group-title="🇺🇸 TV USA",Crime & Investigation Network USA HD HD
+https://tvpass.org/live/CrimePlusInvestigation/hd
+
+#EXTINF:-1,tvg-id="cw-kfmbtv2-san-diego-ca" CW (KFMB-TV2) San Diego SD" group-title="🇺🇸 TV USA",CW (KFMB-TV2) San Diego SD
+https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
+
+#EXTINF:-1,tvg-id="cw-kfmbtv2-san-diego-ca" CW (KFMB-TV2) San Diego HD" group-title="🇺🇸 TV USA",CW (KFMB-TV2) San Diego HD
+https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
+
+#EXTINF:-1,tvg-id="cw-wdcw-district-of-columbia" CW (WDCW) District of Columbia SD" group-title="🇺🇸 TV USA",CW (WDCW) District of Columbia SD
+https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
+
+#EXTINF:-1,tvg-id="cw-wdcw-district-of-columbia" CW (WDCW) District of Columbia HD" group-title="🇺🇸 TV USA",CW (WDCW) District of Columbia HD
+https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
+
+#EXTINF:-1,tvg-id="destination-america" Destination America SD" group-title="🇺🇸 TV USA",Destination America SD
+https://tvpass.org/live/DestinationAmerica/sd
+
+#EXTINF:-1,tvg-id="destination-america" Destination America HD" group-title="🇺🇸 TV USA",Destination America HD
+https://tvpass.org/live/DestinationAmerica/hd
+
+#EXTINF:-1,tvg-id="discovery-channel-us-eastern-feed" Discovery Channel (US) Eastern Feed SD" group-title="🇺🇸 TV USA",Discovery Channel (US) Eastern Feed SD
+https://tvpass.org/live/DiscoveryChannelEast/sd
+
+#EXTINF:-1,tvg-id="discovery-channel-us-eastern-feed" Discovery Channel (US) Eastern Feed HD" group-title="🇺🇸 TV USA",Discovery Channel (US) Eastern Feed HD
+https://tvpass.org/live/DiscoveryChannelEast/hd
+
+#EXTINF:-1,tvg-id="discovery-family-channel" Discovery Family Channel SD" group-title="🇺🇸 TV USA",Discovery Family Channel SD
+https://tvpass.org/live/DiscoveryFamily/sd
+
+#EXTINF:-1,tvg-id="discovery-family-channel" Discovery Family Channel HD" group-title="🇺🇸 TV USA",Discovery Family Channel HD
+https://tvpass.org/live/DiscoveryFamily/hd
+
+#EXTINF:-1,tvg-id="discovery-life-channel" Discovery Life Channel SD" group-title="🇺🇸 TV USA",Discovery Life Channel SD
+https://tvpass.org/live/DiscoveryLife/sd
+
+#EXTINF:-1,tvg-id="discovery-life-channel" Discovery Life Channel HD" group-title="🇺🇸 TV USA",Discovery Life Channel HD
+https://tvpass.org/live/DiscoveryLife/hd
+
+#EXTINF:-1,tvg-id="disney-eastern-feed" Disney Eastern Feed SD" group-title="🇺🇸 TV USA",Disney Eastern Feed SD
+https://tvpass.org/live/DisneyChannelEast/sd
+
+#EXTINF:-1,tvg-id="disney-eastern-feed" Disney Eastern Feed HD" group-title="🇺🇸 TV USA",Disney Eastern Feed HD
+https://tvpass.org/live/DisneyChannelEast/hd
+
+#EXTINF:-1,tvg-id="disney-junior-usa-east" Disney Junior USA East SD" group-title="🇺🇸 TV USA",Disney Junior USA East SD
+https://tvpass.org/live/DisneyJuniorEast/sd
+
+#EXTINF:-1,tvg-id="disney-junior-usa-east" Disney Junior USA East HD" group-title="🇺🇸 TV USA",Disney Junior USA East HD
+https://tvpass.org/live/DisneyJuniorEast/hd
+
+#EXTINF:-1,tvg-id="disney-xd-usa-eastern-feed" Disney XD USA Eastern Feed SD" group-title="🇺🇸 TV USA",Disney XD USA Eastern Feed SD
+https://tvpass.org/live/DisneyXDEast/sd
+
+#EXTINF:-1,tvg-id="disney-xd-usa-eastern-feed" Disney XD USA Eastern Feed HD" group-title="🇺🇸 TV USA",Disney XD USA Eastern Feed HD
+https://tvpass.org/live/DisneyXDEast/hd
+
+#EXTINF:-1,tvg-id="e-entertainment-usa-eastern-feed" E! Entertainment USA Eastern Feed SD" group-title="🇺🇸 TV USA",E! Entertainment USA Eastern Feed SD
+https://tvpass.org/live/EEast/sd
+
+#EXTINF:-1,tvg-id="e-entertainment-usa-eastern-feed" E! Entertainment USA Eastern Feed HD" group-title="🇺🇸 TV USA",E! Entertainment USA Eastern Feed HD
+https://tvpass.org/live/EEast/hd
+
+#EXTINF:-1,tvg-id="espn" ESPN SD" group-title="🇺🇸 TV USA",ESPN SD
+https://tvpass.org/live/ESPN/sd
+
+#EXTINF:-1,tvg-id="espn" ESPN HD" group-title="🇺🇸 TV USA",ESPN HD
+https://tvpass.org/live/ESPN/hd
+
+#EXTINF:-1,tvg-id="espn-deportes" ESPN Deportes SD" group-title="🇺🇸 TV USA",ESPN Deportes SD
+https://tvpass.org/live/espn-deportes/sd
+
+#EXTINF:-1,tvg-id="espn-deportes" ESPN Deportes HD" group-title="🇺🇸 TV USA",ESPN Deportes HD
+https://tvpass.org/live/espn-deportes/hd
+
+#EXTINF:-1,tvg-id="espn-news" ESPN News SD" group-title="🇺🇸 TV USA",ESPN News SD
+https://tvpass.org/live/ESPNews/sd
+
+#EXTINF:-1,tvg-id="espn-news" ESPN News HD" group-title="🇺🇸 TV USA",ESPN News HD
+https://tvpass.org/live/ESPNews/hd
+
+#EXTINF:-1,tvg-id="espn-u" ESPN U SD" group-title="🇺🇸 TV USA",ESPN U SD
+https://tvpass.org/live/ESPNU/sd
+
+#EXTINF:-1,tvg-id="espn-u" ESPN U HD" group-title="🇺🇸 TV USA",ESPN U HD
+https://tvpass.org/live/ESPNU/hd
+
+#EXTINF:-1,tvg-id="espn2" ESPN2 SD" group-title="🇺🇸 TV USA",ESPN2 SD
+https://tvpass.org/live/ESPN2/sd
+
+#EXTINF:-1,tvg-id="espn2" ESPN2 HD" group-title="🇺🇸 TV USA",ESPN2 HD
+https://tvpass.org/live/ESPN2/hd
+
+#EXTINF:-1,tvg-id="food-network-usa-eastern-feed" Food Network USA Eastern Feed SD" group-title="🇺🇸 TV USA",Food Network USA Eastern Feed SD
+https://tvpass.org/live/FoodNetworkEast/sd
+
+#EXTINF:-1,tvg-id="food-network-usa-eastern-feed" Food Network USA Eastern Feed HD" group-title="🇺🇸 TV USA",Food Network USA Eastern Feed HD
+https://tvpass.org/live/FoodNetworkEast/hd
+
+#EXTINF:-1,tvg-id="fox-kttv-los-angeles-ca" FOX (KTTV) Los Angeles SD" group-title="🇺🇸 TV USA",FOX (KTTV) Los Angeles SD
+https://tvpass.org/live/fox-kttv-los-angeles-ca/sd
+
+#EXTINF:-1,tvg-id="fox-kttv-los-angeles-ca" FOX (KTTV) Los Angeles HD" group-title="🇺🇸 TV USA",FOX (KTTV) Los Angeles HD
+https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
+
+#EXTINF:-1,tvg-id="fox-wnyw-new-york-ny" FOX (WNYW) New York, NY SD" group-title="🇺🇸 TV USA",FOX (WNYW) New York, NY SD
+https://tvpass.org/live/WNYWDT1/sd
+
+#EXTINF:-1,tvg-id="fox-wnyw-new-york-ny" FOX (WNYW) New York, NY HD" group-title="🇺🇸 TV USA",FOX (WNYW) New York, NY HD
+https://tvpass.org/live/WNYWDT1/hd
+
+#EXTINF:-1,tvg-id="fox-business" Fox Business SD" group-title="🇺🇸 TV USA",Fox Business SD
+https://tvpass.org/live/FoxBusiness/sd
+
+#EXTINF:-1,tvg-id="fox-business" Fox Business HD" group-title="🇺🇸 TV USA",Fox Business HD
+https://tvpass.org/live/FoxBusiness/hd
+
+#EXTINF:-1,tvg-id="fox-news" Fox News SD" group-title="🇺🇸 TV USA",Fox News SD
+https://tvpass.org/live/FoxNewsChannel/sd
+
+#EXTINF:-1,tvg-id="fox-news" Fox News HD" group-title="🇺🇸 TV USA",Fox News HD
+https://tvpass.org/live/FoxNewsChannel/hd
+
+#EXTINF:-1,tvg-id="fox-sports-1" Fox Sports 1 SD" group-title="🇺🇸 TV USA",Fox Sports 1 SD
+https://tvpass.org/live/FoxSports1/sd
+
+#EXTINF:-1,tvg-id="fox-sports-1" Fox Sports 1 HD" group-title="🇺🇸 TV USA",Fox Sports 1 HD
+https://tvpass.org/live/FoxSports1/hd
+
+#EXTINF:-1,tvg-id="fox-sports-2" Fox Sports 2 SD" group-title="🇺🇸 TV USA",Fox Sports 2 SD
+https://tvpass.org/live/FoxSports2/sd
+
+#EXTINF:-1,tvg-id="fox-sports-2" Fox Sports 2 HD" group-title="🇺🇸 TV USA",Fox Sports 2 HD
+https://tvpass.org/live/FoxSports2/hd
+
+#EXTINF:-1,tvg-id="freeform-east-feed" Freeform East Feed SD" group-title="🇺🇸 TV USA",Freeform East Feed SD
+https://tvpass.org/live/FreeformEast/sd
+
+#EXTINF:-1,tvg-id="freeform-east-feed" Freeform East Feed HD" group-title="🇺🇸 TV USA",Freeform East Feed HD
+https://tvpass.org/live/FreeformEast/hd
+
+#EXTINF:-1,tvg-id="fuse-tv-eastern-feed" FUSE TV Eastern feed SD" group-title="🇺🇸 TV USA",FUSE TV Eastern feed SD
+https://tvpass.org/live/FuseEast/sd
+
+#EXTINF:-1,tvg-id="fuse-tv-eastern-feed" FUSE TV Eastern feed HD" group-title="🇺🇸 TV USA",FUSE TV Eastern feed HD
+https://tvpass.org/live/FuseEast/hd
+
+#EXTINF:-1,tvg-id="fx-movie-channel" FX Movie Channel SD" group-title="🇺🇸 TV USA",FX Movie Channel SD
+https://tvpass.org/live/FXMovieChannel/sd
+
+#EXTINF:-1,tvg-id="fx-movie-channel" FX Movie Channel HD" group-title="🇺🇸 TV USA",FX Movie Channel HD
+https://tvpass.org/live/FXMovieChannel/hd
+
+#EXTINF:-1,tvg-id="fx-networks-east-coast" FX Networks East Coast SD" group-title="🇺🇸 TV USA",FX Networks East Coast SD
+https://tvpass.org/live/FXEast/sd
+
+#EXTINF:-1,tvg-id="fx-networks-east-coast" FX Networks East Coast HD" group-title="🇺🇸 TV USA",FX Networks East Coast HD
+https://tvpass.org/live/FXEast/hd
+
+#EXTINF:-1,tvg-id="fxx-usa-eastern" FXX USA Eastern SD" group-title="🇺🇸 TV USA",FXX USA Eastern SD
+https://tvpass.org/live/FXXEast/sd
+
+#EXTINF:-1,tvg-id="fxx-usa-eastern" FXX USA Eastern HD" group-title="🇺🇸 TV USA",FXX USA Eastern HD
+https://tvpass.org/live/FXXEast/hd
+
+#EXTINF:-1,tvg-id="fyi-usa-eastern" FYI USA Eastern SD" group-title="🇺🇸 TV USA",FYI USA Eastern SD
+https://tvpass.org/live/FYIEast/sd
+
+#EXTINF:-1,tvg-id="fyi-usa-eastern" FYI USA Eastern HD" group-title="🇺🇸 TV USA",FYI USA Eastern HD
+https://tvpass.org/live/FYIEast/hd
+
+#EXTINF:-1,tvg-id="game-show-network-east" Game Show Network East SD" group-title="🇺🇸 TV USA",Game Show Network East SD
+https://tvpass.org/live/game-show-network-east/sd
+
+#EXTINF:-1,tvg-id="game-show-network-east" Game Show Network East HD" group-title="🇺🇸 TV USA",Game Show Network East HD
+https://tvpass.org/live/game-show-network-east/hd
+
+#EXTINF:-1,tvg-id="golf-channel-usa" Golf Channel USA SD" group-title="🇺🇸 TV USA",Golf Channel USA SD
+https://tvpass.org/live/GolfChannel/sd
+
+#EXTINF:-1,tvg-id="golf-channel-usa" Golf Channel USA HD" group-title="🇺🇸 TV USA",Golf Channel USA HD
+https://tvpass.org/live/GolfChannel/hd
+
+#EXTINF:-1,tvg-id="hallmark-eastern-feed" Hallmark Eastern Feed SD" group-title="🇺🇸 TV USA",Hallmark Eastern Feed SD
+https://tvpass.org/live/HallmarkChannelEast/sd
+
+#EXTINF:-1,tvg-id="hallmark-eastern-feed" Hallmark Eastern Feed HD" group-title="🇺🇸 TV USA",Hallmark Eastern Feed HD
+https://tvpass.org/live/HallmarkChannelEast/hd
+
+#EXTINF:-1,tvg-id="hallmark-family-hd" Hallmark Family HD SD" group-title="🇺🇸 TV USA",Hallmark Family HD SD
+https://tvpass.org/live/HallmarkDrama/sd
+
+#EXTINF:-1,tvg-id="hallmark-family-hd" Hallmark Family HD HD" group-title="🇺🇸 TV USA",Hallmark Family HD HD
+https://tvpass.org/live/HallmarkDrama/hd
+
+#EXTINF:-1,tvg-id="hallmark-mystery-eastern-hd" Hallmark Mystery Eastern HD SD" group-title="🇺🇸 TV USA",Hallmark Mystery Eastern HD SD
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
+
+#EXTINF:-1,tvg-id="hallmark-mystery-eastern-hd" Hallmark Mystery Eastern HD HD" group-title="🇺🇸 TV USA",Hallmark Mystery Eastern HD HD
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
+
+#EXTINF:-1,tvg-id="hbo-eastern-feed" HBO Eastern Feed SD" group-title="🇺🇸 TV USA",HBO Eastern Feed SD
+https://tvpass.org/live/HBOEast/sd
+
+#EXTINF:-1,tvg-id="hbo-eastern-feed" HBO Eastern Feed HD" group-title="🇺🇸 TV USA",HBO Eastern Feed HD
+https://tvpass.org/live/HBOEast/hd
+
+#EXTINF:-1,tvg-id="hbo-2-eastern-feed" HBO 2 Eastern Feed SD" group-title="🇺🇸 TV USA",HBO 2 Eastern Feed SD
+https://tvpass.org/live/HBO2East/sd
+
+#EXTINF:-1,tvg-id="hbo-2-eastern-feed" HBO 2 Eastern Feed HD" group-title="🇺🇸 TV USA",HBO 2 Eastern Feed HD
+https://tvpass.org/live/HBO2East/hd
+
+#EXTINF:-1,tvg-id="hbo-comedy-hd-east" HBO Comedy HD East SD" group-title="🇺🇸 TV USA",HBO Comedy HD East SD
+https://tvpass.org/live/HBOComedyEast/sd
+
+#EXTINF:-1,tvg-id="hbo-comedy-hd-east" HBO Comedy HD East HD" group-title="🇺🇸 TV USA",HBO Comedy HD East HD
+https://tvpass.org/live/HBOComedyEast/hd
+
+#EXTINF:-1,tvg-id="hbo-family-eastern-feed" HBO Family Eastern Feed SD" group-title="🇺🇸 TV USA",HBO Family Eastern Feed SD
+https://tvpass.org/live/HBOFamilyEast/sd
+
+#EXTINF:-1,tvg-id="hbo-family-eastern-feed" HBO Family Eastern Feed HD" group-title="🇺🇸 TV USA",HBO Family Eastern Feed HD
+https://tvpass.org/live/HBOFamilyEast/hd
+
+#EXTINF:-1,tvg-id="hbo-signature-hbo-3-eastern" HBO Signature (HBO 3) Eastern SD" group-title="🇺🇸 TV USA",HBO Signature (HBO 3) Eastern SD
+https://tvpass.org/live/HBOSignatureEast/sd
+
+#EXTINF:-1,tvg-id="hbo-signature-hbo-3-eastern" HBO Signature (HBO 3) Eastern HD" group-title="🇺🇸 TV USA",HBO Signature (HBO 3) Eastern HD
+https://tvpass.org/live/HBOSignatureEast/hd
+
+#EXTINF:-1,tvg-id="hbo-zone-hd-east" HBO Zone HD East SD" group-title="🇺🇸 TV USA",HBO Zone HD East SD
+https://tvpass.org/live/HBOZoneEast/sd
+
+#EXTINF:-1,tvg-id="hbo-zone-hd-east" HBO Zone HD East HD" group-title="🇺🇸 TV USA",HBO Zone HD East HD
+https://tvpass.org/live/HBOZoneEast/hd
+
+#EXTINF:-1,tvg-id="hgtv-usa-eastern-feed" HGTV USA Eastern Feed SD" group-title="🇺🇸 TV USA",HGTV USA Eastern Feed SD
+https://tvpass.org/live/HGTVEast/sd
+
+#EXTINF:-1,tvg-id="hgtv-usa-eastern-feed" HGTV USA Eastern Feed HD" group-title="🇺🇸 TV USA",HGTV USA Eastern Feed HD
+https://tvpass.org/live/HGTVEast/hd
+
+#EXTINF:-1,tvg-id="history-channel-us-eastern-feed" History Channel US Eastern Feed SD" group-title="🇺🇸 TV USA",History Channel US Eastern Feed SD
+https://tvpass.org/live/HistoryEast/sd
+
+#EXTINF:-1,tvg-id="history-channel-us-eastern-feed" History Channel US Eastern Feed HD" group-title="🇺🇸 TV USA",History Channel US Eastern Feed HD
+https://tvpass.org/live/HistoryEast/hd
+
+#EXTINF:-1,tvg-id="hln" HLN SD" group-title="🇺🇸 TV USA",HLN SD
+https://tvpass.org/live/HLN/sd
+
+#EXTINF:-1,tvg-id="hln" HLN HD" group-title="🇺🇸 TV USA",HLN HD
+https://tvpass.org/live/HLN/hd
+
+#EXTINF:-1,tvg-id="independent-film-channel-us" Independent Film Channel US SD" group-title="🇺🇸 TV USA",Independent Film Channel US SD
+https://tvpass.org/live/IFCEast/sd
+
+#EXTINF:-1,tvg-id="independent-film-channel-us" Independent Film Channel US HD" group-title="🇺🇸 TV USA",Independent Film Channel US HD
+https://tvpass.org/live/IFCEast/hd
+
+#EXTINF:-1,tvg-id="investigation-discovery-usa-eastern" Investigation Discovery USA Eastern SD" group-title="🇺🇸 TV USA",Investigation Discovery USA Eastern SD
+https://tvpass.org/live/InvestigationDiscoveryEast/sd
+
+#EXTINF:-1,tvg-id="investigation-discovery-usa-eastern" Investigation Discovery USA Eastern HD" group-title="🇺🇸 TV USA",Investigation Discovery USA Eastern HD
+https://tvpass.org/live/InvestigationDiscoveryEast/hd
+
+#EXTINF:-1,tvg-id="ion-eastern-feed" ION Eastern Feed SD" group-title="🇺🇸 TV USA",ION Eastern Feed SD
+https://tvpass.org/live/IONTVEast/sd
+
+#EXTINF:-1,tvg-id="ion-eastern-feed" ION Eastern Feed HD" group-title="🇺🇸 TV USA",ION Eastern Feed HD
+https://tvpass.org/live/IONTVEast/hd
+
+#EXTINF:-1,tvg-id="lifetime-movies-east" Lifetime Movies East SD" group-title="🇺🇸 TV USA",Lifetime Movies East SD
+https://tvpass.org/live/LifetimeMoviesEast/sd
+
+#EXTINF:-1,tvg-id="lifetime-movies-east" Lifetime Movies East HD" group-title="🇺🇸 TV USA",Lifetime Movies East HD
+https://tvpass.org/live/LifetimeMoviesEast/hd
+
+#EXTINF:-1,tvg-id="lifetime-network-us-eastern-feed" Lifetime Network US Eastern Feed SD" group-title="🇺🇸 TV USA",Lifetime Network US Eastern Feed SD
+https://tvpass.org/live/LifetimeEast/sd
+
+#EXTINF:-1,tvg-id="lifetime-network-us-eastern-feed" Lifetime Network US Eastern Feed HD" group-title="🇺🇸 TV USA",Lifetime Network US Eastern Feed HD
+https://tvpass.org/live/LifetimeEast/hd
+
+#EXTINF:-1,tvg-id="logo-east" LOGO East SD" group-title="🇺🇸 TV USA",LOGO East SD
+https://tvpass.org/live/LogoEast/sd
+
+#EXTINF:-1,tvg-id="logo-east" LOGO East HD" group-title="🇺🇸 TV USA",LOGO East HD
+https://tvpass.org/live/LogoEast/hd
+
+#EXTINF:-1,tvg-id="marquee-sports-network" Marquee Sports Network SD" group-title="🇺🇸 TV USA",Marquee Sports Network SD
+https://tvpass.org/live/marquee-sports-network/sd
+
+#EXTINF:-1,tvg-id="marquee-sports-network" Marquee Sports Network HD" group-title="🇺🇸 TV USA",Marquee Sports Network HD
+https://tvpass.org/live/marquee-sports-network/hd
+
+#EXTINF:-1,tvg-id="metv-toons-wjlp2-new-jersey" MeTV Toons (WJLP2) New Jersey SD" group-title="🇺🇸 TV USA",MeTV Toons (WJLP2) New Jersey SD
+https://tvpass.org/live/metv-toons/sd
+
+#EXTINF:-1,tvg-id="metv-toons-wjlp2-new-jersey" MeTV Toons (WJLP2) New Jersey HD" group-title="🇺🇸 TV USA",MeTV Toons (WJLP2) New Jersey HD
+https://tvpass.org/live/metv-toons/hd
+
+#EXTINF:-1,tvg-id="metv-wjlp-new-jerseynew-york" MeTV Wjlp New Jerseynew York SD" group-title="🇺🇸 TV USA",MeTV Wjlp New Jerseynew York SD
+https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
+
+#EXTINF:-1,tvg-id="metv-wjlp-new-jerseynew-york" MeTV Wjlp New Jerseynew York HD" group-title="🇺🇸 TV USA",MeTV Wjlp New Jerseynew York HD
+https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
+
+#EXTINF:-1,tvg-id="midatlantic-sports-network" Midatlantic Sports Network SD" group-title="🇺🇸 TV USA",Midatlantic Sports Network SD
+https://tvpass.org/live/midatlantic-sports-network/sd
+
+#EXTINF:-1,tvg-id="midatlantic-sports-network" Midatlantic Sports Network HD" group-title="🇺🇸 TV USA",Midatlantic Sports Network HD
+https://tvpass.org/live/midatlantic-sports-network/hd
+
+#EXTINF:-1,tvg-id="mlb-network" MLB Network SD" group-title="🇺🇸 TV USA",MLB Network SD
+https://tvpass.org/live/MLBNetwork/sd
+
+#EXTINF:-1,tvg-id="mlb-network" MLB Network HD" group-title="🇺🇸 TV USA",MLB Network HD
+https://tvpass.org/live/MLBNetwork/hd
+
+#EXTINF:-1,tvg-id="monumental-sports-network" Monumental Sports Network SD" group-title="🇺🇸 TV USA",Monumental Sports Network SD
+https://tvpass.org/live/monumental-sports-network/sd
+
+#EXTINF:-1,tvg-id="monumental-sports-network" Monumental Sports Network HD" group-title="🇺🇸 TV USA",Monumental Sports Network HD
+https://tvpass.org/live/monumental-sports-network/hd
+
+#EXTINF:-1,tvg-id="moremax-eastern" MoreMax Eastern SD" group-title="🇺🇸 TV USA",MoreMax Eastern SD
+https://tvpass.org/live/MoreMaxEast/sd
+
+#EXTINF:-1,tvg-id="moremax-eastern" MoreMax Eastern HD" group-title="🇺🇸 TV USA",MoreMax Eastern HD
+https://tvpass.org/live/MoreMaxEast/hd
+
+#EXTINF:-1,tvg-id="motor-trend-hd" Motor Trend HD SD" group-title="🇺🇸 TV USA",Motor Trend HD SD
+https://tvpass.org/live/Motortrend/sd
+
+#EXTINF:-1,tvg-id="motor-trend-hd" Motor Trend HD HD" group-title="🇺🇸 TV USA",Motor Trend HD HD
+https://tvpass.org/live/Motortrend/hd
+
+#EXTINF:-1,tvg-id="moviemax-max-6-east" MovieMax (Max 6) East SD" group-title="🇺🇸 TV USA",MovieMax (Max 6) East SD
+https://tvpass.org/live/MovieMaxEast/sd
+
+#EXTINF:-1,tvg-id="moviemax-max-6-east" MovieMax (Max 6) East HD" group-title="🇺🇸 TV USA",MovieMax (Max 6) East HD
+https://tvpass.org/live/MovieMaxEast/hd
+
+#EXTINF:-1,tvg-id="msg-madison-square-gardens" MSG Madison Square Gardens SD" group-title="🇺🇸 TV USA",MSG Madison Square Gardens SD
+https://tvpass.org/live/msg-madison-square-gardens/sd
+
+#EXTINF:-1,tvg-id="msg-madison-square-gardens" MSG Madison Square Gardens HD" group-title="🇺🇸 TV USA",MSG Madison Square Gardens HD
+https://tvpass.org/live/msg-madison-square-gardens/hd
+
+#EXTINF:-1,tvg-id="msg-plus" MSG Plus SD" group-title="🇺🇸 TV USA",MSG Plus SD
+https://tvpass.org/live/msg-plus/sd
+
+#EXTINF:-1,tvg-id="msg-plus" MSG Plus HD" group-title="🇺🇸 TV USA",MSG Plus HD
+https://tvpass.org/live/msg-plus/hd
+
+#EXTINF:-1,tvg-id="msnbc-usa" MSNBC USA SD" group-title="🇺🇸 TV USA",MSNBC USA SD
+https://tvpass.org/live/MSNBC/sd
+
+#EXTINF:-1,tvg-id="msnbc-usa" MSNBC USA HD" group-title="🇺🇸 TV USA",MSNBC USA HD
+https://tvpass.org/live/MSNBC/hd
+
+#EXTINF:-1,tvg-id="mtv-2-east" MTV 2 East SD" group-title="🇺🇸 TV USA",MTV 2 East SD
+https://tvpass.org/live/mtv-2-east/sd
+
+#EXTINF:-1,tvg-id="mtv-2-east" MTV 2 East HD" group-title="🇺🇸 TV USA",MTV 2 East HD
+https://tvpass.org/live/mtv-2-east/hd
+
+#EXTINF:-1,tvg-id="mtv-usa-eastern-feed" MTV USA Eastern Feed SD" group-title="🇺🇸 TV USA",MTV USA Eastern Feed SD
+https://tvpass.org/live/MTVEast/sd
+
+#EXTINF:-1,tvg-id="mtv-usa-eastern-feed" MTV USA Eastern Feed HD" group-title="🇺🇸 TV USA",MTV USA Eastern Feed HD
+https://tvpass.org/live/MTVEast/hd
+
+#EXTINF:-1,tvg-id="national-geographic-us-eastern" National Geographic US Eastern SD" group-title="🇺🇸 TV USA",National Geographic US Eastern SD
+https://tvpass.org/live/NationalGeographicEast/sd
+
+#EXTINF:-1,tvg-id="national-geographic-us-eastern" National Geographic US Eastern HD" group-title="🇺🇸 TV USA",National Geographic US Eastern HD
+https://tvpass.org/live/NationalGeographicEast/hd
+
+#EXTINF:-1,tvg-id="national-geographic-wild" National Geographic Wild SD" group-title="🇺🇸 TV USA",National Geographic Wild SD
+https://tvpass.org/live/NationalGeographicWildEast/sd
+
+#EXTINF:-1,tvg-id="national-geographic-wild" National Geographic Wild HD" group-title="🇺🇸 TV USA",National Geographic Wild HD
+https://tvpass.org/live/NationalGeographicWildEast/hd
+
+#EXTINF:-1,tvg-id="nba-tv-usa" NBA TV USA SD" group-title="🇺🇸 TV USA",NBA TV USA SD
+https://tvpass.org/live/NBATV/sd
+
+#EXTINF:-1,tvg-id="nba-tv-usa" NBA TV USA HD" group-title="🇺🇸 TV USA",NBA TV USA HD
+https://tvpass.org/live/NBATV/hd
+
+#EXTINF:-1,tvg-id="nbc-knbc-los-angeles-ca" NBC (KNBC) Los Angeles SD" group-title="🇺🇸 TV USA",NBC (KNBC) Los Angeles SD
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
+
+#EXTINF:-1,tvg-id="nbc-knbc-los-angeles-ca" NBC (KNBC) Los Angeles HD" group-title="🇺🇸 TV USA",NBC (KNBC) Los Angeles HD
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
+
+#EXTINF:-1,tvg-id="nbc-wnbc-new-york-ny" NBC (WNBC) New York, NY SD" group-title="🇺🇸 TV USA",NBC (WNBC) New York, NY SD
+https://tvpass.org/live/WNBCDT1/sd
+
+#EXTINF:-1,tvg-id="nbc-wnbc-new-york-ny" NBC (WNBC) New York, NY HD" group-title="🇺🇸 TV USA",NBC (WNBC) New York, NY HD
+https://tvpass.org/live/WNBCDT1/hd
+
+#EXTINF:-1,tvg-id="nbc-sports-bay-area" NBC Sports Bay Area SD" group-title="🇺🇸 TV USA",NBC Sports Bay Area SD
+https://tvpass.org/live/nbc-sports-bay-area/sd
+
+#EXTINF:-1,tvg-id="nbc-sports-bay-area" NBC Sports Bay Area HD" group-title="🇺🇸 TV USA",NBC Sports Bay Area HD
+https://tvpass.org/live/nbc-sports-bay-area/hd
+
+#EXTINF:-1,tvg-id="nbc-sports-boston" NBC Sports Boston SD" group-title="🇺🇸 TV USA",NBC Sports Boston SD
+https://tvpass.org/live/nbc-sports-boston/sd
+
+#EXTINF:-1,tvg-id="nbc-sports-boston" NBC Sports Boston HD" group-title="🇺🇸 TV USA",NBC Sports Boston HD
+https://tvpass.org/live/nbc-sports-boston/hd
+
+#EXTINF:-1,tvg-id="nbc-sports-california" NBC Sports California SD" group-title="🇺🇸 TV USA",NBC Sports California SD
+https://tvpass.org/live/nbc-sports-california/sd
+
+#EXTINF:-1,tvg-id="nbc-sports-california" NBC Sports California HD" group-title="🇺🇸 TV USA",NBC Sports California HD
+https://tvpass.org/live/nbc-sports-california/hd
+
+#EXTINF:-1,tvg-id="nbc-sports-philadelphia" NBC Sports Philadelphia SD" group-title="🇺🇸 TV USA",NBC Sports Philadelphia SD
+https://tvpass.org/live/nbc-sports-philadelphia/sd
+
+#EXTINF:-1,tvg-id="nbc-sports-philadelphia" NBC Sports Philadelphia HD" group-title="🇺🇸 TV USA",NBC Sports Philadelphia HD
+https://tvpass.org/live/nbc-sports-philadelphia/hd
+
+#EXTINF:-1,tvg-id="new-england-sports-network" New England Sports Network SD" group-title="🇺🇸 TV USA",New England Sports Network SD
+https://tvpass.org/live/new-england-sports-network/sd
+
+#EXTINF:-1,tvg-id="new-england-sports-network" New England Sports Network HD" group-title="🇺🇸 TV USA",New England Sports Network HD
+https://tvpass.org/live/new-england-sports-network/hd
+
+#EXTINF:-1,tvg-id="newsmax-tv" NewsMax TV SD" group-title="🇺🇸 TV USA",NewsMax TV SD
+https://tvpass.org/live/NewsmaxTV/sd
+
+#EXTINF:-1,tvg-id="newsmax-tv" NewsMax TV HD" group-title="🇺🇸 TV USA",NewsMax TV HD
+https://tvpass.org/live/NewsmaxTV/hd
+
+#EXTINF:-1,tvg-id="nfl-network" NFL Network SD" group-title="🇺🇸 TV USA",NFL Network SD
+https://tvpass.org/live/NFLNetwork/sd
+
+#EXTINF:-1,tvg-id="nfl-network" NFL Network HD" group-title="🇺🇸 TV USA",NFL Network HD
+https://tvpass.org/live/NFLNetwork/hd
+
+#EXTINF:-1,tvg-id="nfl-redzone" NFL RedZone SD" group-title="🇺🇸 TV USA",NFL RedZone SD
+https://tvpass.org/live/NFLRedZone/sd
+
+#EXTINF:-1,tvg-id="nfl-redzone" NFL RedZone HD" group-title="🇺🇸 TV USA",NFL RedZone HD
+https://tvpass.org/live/NFLRedZone/hd
+
+#EXTINF:-1,tvg-id="nhl-network-usa" NHL Network USA SD" group-title="🇺🇸 TV USA",NHL Network USA SD
+https://tvpass.org/live/NHLNetwork/sd
+
+#EXTINF:-1,tvg-id="nhl-network-usa" NHL Network USA HD" group-title="🇺🇸 TV USA",NHL Network USA HD
+https://tvpass.org/live/NHLNetwork/hd
+
+#EXTINF:-1,tvg-id="nick-jr-east" Nick Jr. East SD" group-title="🇺🇸 TV USA",Nick Jr. East SD
+https://tvpass.org/live/NickJrEast/sd
+
+#EXTINF:-1,tvg-id="nick-jr-east" Nick Jr. East HD" group-title="🇺🇸 TV USA",Nick Jr. East HD
+https://tvpass.org/live/NickJrEast/hd
+
+#EXTINF:-1,tvg-id="nickelodeon-usa-east-feed" Nickelodeon USA East Feed SD" group-title="🇺🇸 TV USA",Nickelodeon USA East Feed SD
+https://tvpass.org/live/NickelodeonEast/sd
+
+#EXTINF:-1,tvg-id="nickelodeon-usa-east-feed" Nickelodeon USA East Feed HD" group-title="🇺🇸 TV USA",Nickelodeon USA East Feed HD
+https://tvpass.org/live/NickelodeonEast/hd
+
+#EXTINF:-1,tvg-id="nicktoons-east" Nicktoons East SD" group-title="🇺🇸 TV USA",Nicktoons East SD
+https://tvpass.org/live/NicktoonsEast/sd
+
+#EXTINF:-1,tvg-id="nicktoons-east" Nicktoons East HD" group-title="🇺🇸 TV USA",Nicktoons East HD
+https://tvpass.org/live/NicktoonsEast/hd
+
+#EXTINF:-1,tvg-id="oprah-winfrey-network-usa-eastern" Oprah Winfrey Network USA Eastern SD" group-title="🇺🇸 TV USA",Oprah Winfrey Network USA Eastern SD
+https://tvpass.org/live/OWNEast/sd
+
+#EXTINF:-1,tvg-id="oprah-winfrey-network-usa-eastern" Oprah Winfrey Network USA Eastern HD" group-title="🇺🇸 TV USA",Oprah Winfrey Network USA Eastern HD
+https://tvpass.org/live/OWNEast/hd
+
+#EXTINF:-1,tvg-id="outdoor-channel-us" Outdoor Channel US SD" group-title="🇺🇸 TV USA",Outdoor Channel US SD
+https://tvpass.org/live/OutdoorChannel/sd
+
+#EXTINF:-1,tvg-id="outdoor-channel-us" Outdoor Channel US HD" group-title="🇺🇸 TV USA",Outdoor Channel US HD
+https://tvpass.org/live/OutdoorChannel/hd
+
+#EXTINF:-1,tvg-id="oxygen-eastern-feed" Oxygen Eastern Feed SD" group-title="🇺🇸 TV USA",Oxygen Eastern Feed SD
+https://tvpass.org/live/OxygenEast/sd
+
+#EXTINF:-1,tvg-id="oxygen-eastern-feed" Oxygen Eastern Feed HD" group-title="🇺🇸 TV USA",Oxygen Eastern Feed HD
+https://tvpass.org/live/OxygenEast/hd
+
+#EXTINF:-1,tvg-id="pbs-wnet-new-york-ny" PBS (WNET) New York, NY SD" group-title="🇺🇸 TV USA",PBS (WNET) New York, NY SD
+https://tvpass.org/live/WNET/sd
+
+#EXTINF:-1,tvg-id="pbs-wnet-new-york-ny" PBS (WNET) New York, NY HD" group-title="🇺🇸 TV USA",PBS (WNET) New York, NY HD
+https://tvpass.org/live/WNET/hd
+
+#EXTINF:-1,tvg-id="reelzchannel" ReelzChannel SD" group-title="🇺🇸 TV USA",ReelzChannel SD
+https://tvpass.org/live/Reelz/sd
+
+#EXTINF:-1,tvg-id="reelzchannel" ReelzChannel HD" group-title="🇺🇸 TV USA",ReelzChannel HD
+https://tvpass.org/live/Reelz/hd
+
+#EXTINF:-1,tvg-id="science" Science SD" group-title="🇺🇸 TV USA",Science SD
+https://tvpass.org/live/Science/sd
+
+#EXTINF:-1,tvg-id="science" Science HD" group-title="🇺🇸 TV USA",Science HD
+https://tvpass.org/live/Science/hd
+
+#EXTINF:-1,tvg-id="sec-network" SEC Network SD" group-title="🇺🇸 TV USA",SEC Network SD
+https://tvpass.org/live/SECN/sd
+
+#EXTINF:-1,tvg-id="sec-network" SEC Network HD" group-title="🇺🇸 TV USA",SEC Network HD
+https://tvpass.org/live/SECN/hd
+
+#EXTINF:-1,tvg-id="paramount-with-showtime-eastern-feed" Showtime Eastern Feed SD" group-title="🇺🇸 TV USA",Showtime Eastern Feed SD
+https://tvpass.org/live/ShowtimeEast/sd
+
+#EXTINF:-1,tvg-id="paramount-with-showtime-eastern-feed" Showtime Eastern Feed HD" group-title="🇺🇸 TV USA",Showtime Eastern Feed HD
+https://tvpass.org/live/ShowtimeEast/hd
+
+#EXTINF:-1,tvg-id="showtime-2-eastern" Showtime 2 Eastern SD" group-title="🇺🇸 TV USA",Showtime 2 Eastern SD
+https://tvpass.org/live/Showtime2East/sd
+
+#EXTINF:-1,tvg-id="showtime-2-eastern" Showtime 2 Eastern HD" group-title="🇺🇸 TV USA",Showtime 2 Eastern HD
+https://tvpass.org/live/Showtime2East/hd
+
+#EXTINF:-1,tvg-id="sny-sportsnet-new-york-comcast" SNY Sportsnet New York Comcast SD" group-title="🇺🇸 TV USA",SNY Sportsnet New York Comcast SD
+https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
+
+#EXTINF:-1,tvg-id="sny-sportsnet-new-york-comcast" SNY Sportsnet New York Comcast HD" group-title="🇺🇸 TV USA",SNY Sportsnet New York Comcast HD
+https://tvpass.org/live/sny-sportsnet-new-york-comcast/hd
+
+#EXTINF:-1,tvg-id="space-city-home-network" Space City Home Network SD" group-title="🇺🇸 TV USA",Space City Home Network SD
+https://tvpass.org/live/space-city-home-network/sd
+
+#EXTINF:-1,tvg-id="space-city-home-network" Space City Home Network HD" group-title="🇺🇸 TV USA",Space City Home Network HD
+https://tvpass.org/live/space-city-home-network/hd
+
+#EXTINF:-1,tvg-id="spectrum-sportsnet-la" Spectrum SportsNet LA SD" group-title="🇺🇸 TV USA",Spectrum SportsNet LA SD
+https://tvpass.org/live/spectrum-sportsnet-la/sd
+
+#EXTINF:-1,tvg-id="spectrum-sportsnet-la" Spectrum SportsNet LA HD" group-title="🇺🇸 TV USA",Spectrum SportsNet LA HD
+https://tvpass.org/live/spectrum-sportsnet-la/hd
+
+#EXTINF:-1,tvg-id="spectrum-sportsnet" Spectrum Sportsnet Lakers SD" group-title="🇺🇸 TV USA",Spectrum Sportsnet Lakers SD
+https://tvpass.org/live/spectrum-sportsnet/sd
+
+#EXTINF:-1,tvg-id="spectrum-sportsnet" Spectrum Sportsnet Lakers HD" group-title="🇺🇸 TV USA",Spectrum Sportsnet Lakers HD
+https://tvpass.org/live/spectrum-sportsnet/hd
+
+#EXTINF:-1,tvg-id="sportsnet-east" Sportsnet (East) SD" group-title="🇺🇸 TV USA",Sportsnet (East) SD
+https://tvpass.org/live/sportsnet-east/sd
+
+#EXTINF:-1,tvg-id="sportsnet-east" Sportsnet (East) HD" group-title="🇺🇸 TV USA",Sportsnet (East) HD
+https://tvpass.org/live/sportsnet-east/hd
+
+#EXTINF:-1,tvg-id="sportsnet-360" Sportsnet 360 SD" group-title="🇺🇸 TV USA",Sportsnet 360 SD
+https://tvpass.org/live/sportsnet-360/sd
+
+#EXTINF:-1,tvg-id="sportsnet-360" Sportsnet 360 HD" group-title="🇺🇸 TV USA",Sportsnet 360 HD
+https://tvpass.org/live/sportsnet-360/hd
+
+#EXTINF:-1,tvg-id="sportsnet-one" Sportsnet One SD" group-title="🇺🇸 TV USA",Sportsnet One SD
+https://tvpass.org/live/sportsnet-one/sd
+
+#EXTINF:-1,tvg-id="sportsnet-one" Sportsnet One HD" group-title="🇺🇸 TV USA",Sportsnet One HD
+https://tvpass.org/live/sportsnet-one/hd
+
+#EXTINF:-1,tvg-id="sportsnet-ontario" Sportsnet Ontario SD" group-title="🇺🇸 TV USA",Sportsnet Ontario SD
+https://tvpass.org/live/sportsnet-ontario/sd
+
+#EXTINF:-1,tvg-id="sportsnet-ontario" Sportsnet Ontario HD" group-title="🇺🇸 TV USA",Sportsnet Ontario HD
+https://tvpass.org/live/sportsnet-ontario/hd
+
+#EXTINF:-1,tvg-id="sportsnet-pacific" Sportsnet Pacific SD" group-title="🇺🇸 TV USA",Sportsnet Pacific SD
+https://tvpass.org/live/sportsnet-pacific/sd
+
+#EXTINF:-1,tvg-id="sportsnet-pacific" Sportsnet Pacific HD" group-title="🇺🇸 TV USA",Sportsnet Pacific HD
+https://tvpass.org/live/sportsnet-pacific/hd
+
+#EXTINF:-1,tvg-id="sportsnet-pittsburgh" Sportsnet Pittsburgh SD" group-title="🇺🇸 TV USA",Sportsnet Pittsburgh SD
+https://tvpass.org/live/sportsnet-pittsburgh/sd
+
+#EXTINF:-1,tvg-id="sportsnet-pittsburgh" Sportsnet Pittsburgh HD" group-title="🇺🇸 TV USA",Sportsnet Pittsburgh HD
+https://tvpass.org/live/sportsnet-pittsburgh/hd
+
+#EXTINF:-1,tvg-id="sportsnet-west" Sportsnet West SD" group-title="🇺🇸 TV USA",Sportsnet West SD
+https://tvpass.org/live/sportsnet-west/sd
+
+#EXTINF:-1,tvg-id="sportsnet-west" Sportsnet West HD" group-title="🇺🇸 TV USA",Sportsnet West HD
+https://tvpass.org/live/sportsnet-west/hd
+
+#EXTINF:-1,tvg-id="starz-eastern" Starz Eastern SD" group-title="🇺🇸 TV USA",Starz Eastern SD
+https://tvpass.org/live/StarzEast/sd
+
+#EXTINF:-1,tvg-id="starz-eastern" Starz Eastern HD" group-title="🇺🇸 TV USA",Starz Eastern HD
+https://tvpass.org/live/StarzEast/hd
+
+#EXTINF:-1,tvg-id="sundancetv-usa-east" SundanceTV USA East SD" group-title="🇺🇸 TV USA",SundanceTV USA East SD
+https://tvpass.org/live/SundanceTVEast/sd
+
+#EXTINF:-1,tvg-id="sundancetv-usa-east" SundanceTV USA East HD" group-title="🇺🇸 TV USA",SundanceTV USA East HD
+https://tvpass.org/live/SundanceTVEast/hd
+
+#EXTINF:-1,tvg-id="syfy-eastern-feed" Syfy Eastern Feed SD" group-title="🇺🇸 TV USA",Syfy Eastern Feed SD
+https://tvpass.org/live/SyfyEast/sd
+
+#EXTINF:-1,tvg-id="syfy-eastern-feed" Syfy Eastern Feed HD" group-title="🇺🇸 TV USA",Syfy Eastern Feed HD
+https://tvpass.org/live/SyfyEast/hd
+
+#EXTINF:-1,tvg-id="tbs-east" TBS East SD" group-title="🇺🇸 TV USA",TBS East SD
+https://tvpass.org/live/TBSEast/sd
+
+#EXTINF:-1,tvg-id="tbs-east" TBS East HD" group-title="🇺🇸 TV USA",TBS East HD
+https://tvpass.org/live/TBSEast/hd
+
+#EXTINF:-1,tvg-id="teennick-eastern" TeenNick Eastern SD" group-title="🇺🇸 TV USA",TeenNick Eastern SD
+https://tvpass.org/live/TeenNickEast/sd
+
+#EXTINF:-1,tvg-id="teennick-eastern" TeenNick Eastern HD" group-title="🇺🇸 TV USA",TeenNick Eastern HD
+https://tvpass.org/live/TeenNickEast/hd
+
+#EXTINF:-1,tvg-id="telemundo-eastern-feed" Telemundo Eastern Feed SD" group-title="🇺🇸 TV USA",Telemundo Eastern Feed SD
+https://tvpass.org/live/TelemundoEast/sd
+
+#EXTINF:-1,tvg-id="telemundo-eastern-feed" Telemundo Eastern Feed HD" group-title="🇺🇸 TV USA",Telemundo Eastern Feed HD
+https://tvpass.org/live/TelemundoEast/hd
+
+#EXTINF:-1,tvg-id="the-cooking-channel" The Cooking Channel SD" group-title="🇺🇸 TV USA",The Cooking Channel SD
+https://tvpass.org/live/CookingChannel/sd
+
+#EXTINF:-1,tvg-id="the-cooking-channel" The Cooking Channel HD" group-title="🇺🇸 TV USA",The Cooking Channel HD
+https://tvpass.org/live/CookingChannel/hd
+
+#EXTINF:-1,tvg-id="the-tennis-channel" The Tennis Channel SD" group-title="🇺🇸 TV USA",The Tennis Channel SD
+https://tvpass.org/live/TennisChannel/sd
+
+#EXTINF:-1,tvg-id="the-tennis-channel" The Tennis Channel HD" group-title="🇺🇸 TV USA",The Tennis Channel HD
+https://tvpass.org/live/TennisChannel/hd
+
+#EXTINF:-1,tvg-id="the-weather-channel" The Weather Channel SD" group-title="🇺🇸 TV USA",The Weather Channel SD
+https://tvpass.org/live/TheWeatherChannel/sd
+
+#EXTINF:-1,tvg-id="the-weather-channel" The Weather Channel HD" group-title="🇺🇸 TV USA",The Weather Channel HD
+https://tvpass.org/live/TheWeatherChannel/hd
+
+#EXTINF:-1,tvg-id="tlc-usa-eastern" TLC USA Eastern SD" group-title="🇺🇸 TV USA",TLC USA Eastern SD
+https://tvpass.org/live/TLCEast/sd
+
+#EXTINF:-1,tvg-id="tlc-usa-eastern" TLC USA Eastern HD" group-title="🇺🇸 TV USA",TLC USA Eastern HD
+https://tvpass.org/live/TLCEast/hd
+
+#EXTINF:-1,tvg-id="tmc-us-eastern-feed" TMC (US) Eastern Feed SD" group-title="🇺🇸 TV USA",TMC (US) Eastern Feed SD
+https://tvpass.org/live/TheMovieChannelEast/sd
+
+#EXTINF:-1,tvg-id="tmc-us-eastern-feed" TMC (US) Eastern Feed HD" group-title="🇺🇸 TV USA",TMC (US) Eastern Feed HD
+https://tvpass.org/live/TheMovieChannelEast/hd
+
+#EXTINF:-1,tvg-id="tnt-eastern-feed" TNT Eastern Feed SD" group-title="🇺🇸 TV USA",TNT Eastern Feed SD
+https://tvpass.org/live/TNTEast/sd
+
+#EXTINF:-1,tvg-id="tnt-eastern-feed" TNT Eastern Feed HD" group-title="🇺🇸 TV USA",TNT Eastern Feed HD
+https://tvpass.org/live/TNTEast/hd
+
+#EXTINF:-1,tvg-id="travel-us-east" Travel US East SD" group-title="🇺🇸 TV USA",Travel US East SD
+https://tvpass.org/live/TravelChannelEast/sd
+
+#EXTINF:-1,tvg-id="travel-us-east" Travel US East HD" group-title="🇺🇸 TV USA",Travel US East HD
+https://tvpass.org/live/TravelChannelEast/hd
+
+#EXTINF:-1,tvg-id="trutv-usa-eastern" truTV USA Eastern SD" group-title="🇺🇸 TV USA",truTV USA Eastern SD
+https://tvpass.org/live/truTVEast/sd
+
+#EXTINF:-1,tvg-id="trutv-usa-eastern" truTV USA Eastern HD" group-title="🇺🇸 TV USA",truTV USA Eastern HD
+https://tvpass.org/live/truTVEast/hd
+
+#EXTINF:-1,tvg-id="tsn1" TSN1 SD" group-title="🇺🇸 TV USA",TSN1 SD
+https://tvpass.org/live/tsn1/sd
+
+#EXTINF:-1,tvg-id="tsn1" TSN1 HD" group-title="🇺🇸 TV USA",TSN1 HD
+https://tvpass.org/live/tsn1/hd
+
+#EXTINF:-1,tvg-id="tsn2" TSN2 SD" group-title="🇺🇸 TV USA",TSN2 SD
+https://tvpass.org/live/tsn2/sd
+
+#EXTINF:-1,tvg-id="tsn2" TSN2 HD" group-title="🇺🇸 TV USA",TSN2 HD
+https://tvpass.org/live/tsn2/hd
+
+#EXTINF:-1,tvg-id="tsn3" TSN3 SD" group-title="🇺🇸 TV USA",TSN3 SD
+https://tvpass.org/live/tsn3/sd
+
+#EXTINF:-1,tvg-id="tsn3" TSN3 HD" group-title="🇺🇸 TV USA",TSN3 HD
+https://tvpass.org/live/tsn3/hd
+
+#EXTINF:-1,tvg-id="tsn4" TSN4 SD" group-title="🇺🇸 TV USA",TSN4 SD
+https://tvpass.org/live/tsn4/sd
+
+#EXTINF:-1,tvg-id="tsn4" TSN4 HD" group-title="🇺🇸 TV USA",TSN4 HD
+https://tvpass.org/live/tsn4/hd
+
+#EXTINF:-1,tvg-id="tsn5" TSN5 SD" group-title="🇺🇸 TV USA",TSN5 SD
+https://tvpass.org/live/tsn5/sd
+
+#EXTINF:-1,tvg-id="tsn5" TSN5 HD" group-title="🇺🇸 TV USA",TSN5 HD
+https://tvpass.org/live/tsn5/hd
+
+#EXTINF:-1,tvg-id="turner-classic-movies-usa" Turner Classic Movies USA SD" tvg-logo="https://brandemia.org/contenido/subidas/2021/09/02-tcm-1.jpg?width=200&height=200" group-title="🇺🇸 TV USA",Turner Classic Movies USA SD 
+https://tvpass.org/live/TCMEast/sd
+
+#EXTINF:-1,tvg-id="turner-classic-movies-usa" Turner Classic Movies USA HD" tvg-logo="https://brandemia.org/contenido/subidas/2021/09/02-tcm-1.jpg?width=200&height=200" group-title="🇺🇸 TV USA",Turner Classic Movies USA HD 
+https://tvpass.org/live/TCMEast/hd
+
+#EXTINF:-1,tvg-id="tv-land-eastern" TV Land Eastern SD" group-title="🇺🇸 TV USA",TV Land Eastern SD
+https://tvpass.org/live/tv-land-eastern/sd
+
+#EXTINF:-1,tvg-id="tv-land-eastern" TV Land Eastern HD" group-title="🇺🇸 TV USA",TV Land Eastern HD
+https://tvpass.org/live/tv-land-eastern/hd
+
+#EXTINF:-1,tvg-id="tv-one" TV One SD" group-title="🇺🇸 TV USA",TV One SD
+https://tvpass.org/live/TVOne/sd
+
+#EXTINF:-1,tvg-id="tv-one" TV One HD" group-title="🇺🇸 TV USA",TV One HD
+https://tvpass.org/live/TVOne/hd
+
+#EXTINF:-1,tvg-id="universal-kids" Universal Kids SD" group-title="🇺🇸 TV USA",Universal Kids SD
+https://tvpass.org/live/UniversalKidsEast/sd
+
+#EXTINF:-1,tvg-id="universal-kids" Universal Kids HD" group-title="🇺🇸 TV USA",Universal Kids HD
+https://tvpass.org/live/UniversalKidsEast/hd
+
+#EXTINF:-1,tvg-id="univision-eastern-feed" Univision Eastern Feed SD" group-title="🇺🇸 TV USA",Univision Eastern Feed SD
+https://tvpass.org/live/UnivisionEast/sd
+
+#EXTINF:-1,tvg-id="univision-eastern-feed" Univision Eastern Feed HD" group-title="🇺🇸 TV USA",Univision Eastern Feed HD
+https://tvpass.org/live/UnivisionEast/hd
+
+#EXTINF:-1,tvg-id="usa-network-east-feed" USA Network East Feed SD" group-title="🇺🇸 TV USA",USA Network East Feed SD
+https://tvpass.org/live/USANetworkEast/sd
+
+#EXTINF:-1,tvg-id="usa-network-east-feed" USA Network East Feed HD" group-title="🇺🇸 TV USA",USA Network East Feed HD
+https://tvpass.org/live/USANetworkEast/hd
+
+#EXTINF:-1,tvg-id="vh1-eastern-feed" VH1 Eastern Feed SD" group-title="🇺🇸 TV USA",VH1 Eastern Feed SD
+https://tvpass.org/live/VH1East/sd
+
+#EXTINF:-1,tvg-id="vh1-eastern-feed" VH1 Eastern Feed HD" group-title="🇺🇸 TV USA",VH1 Eastern Feed HD
+https://tvpass.org/live/VH1East/hd
+
+#EXTINF:-1,tvg-id="vice" VICE SD" group-title="🇺🇸 TV USA",VICE SD
+https://tvpass.org/live/VICETV/sd
+
+#EXTINF:-1,tvg-id="vice" VICE HD" group-title="🇺🇸 TV USA",VICE HD
+https://tvpass.org/live/VICETV/hd
+
+#EXTINF:-1,tvg-id="we-womens-entertainment-eastern" WE (Women's Entertainment) Eastern SD" group-title="🇺🇸 TV USA",WE (Women's Entertainment) Eastern SD
+https://tvpass.org/live/WeTVEast/sd
+
+#EXTINF:-1,tvg-id="we-womens-entertainment-eastern" WE (Women's Entertainment) Eastern HD" group-title="🇺🇸 TV USA",WE (Women's Entertainment) Eastern HD
+https://tvpass.org/live/WeTVEast/hd
+
+#EXTINF:-1,tvg-id="wpix-new-york-superstation" WPIX New York (SUPERSTATION) SD" group-title="🇺🇸 TV USA",WPIX New York (SUPERSTATION) SD
+https://tvpass.org/live/WPIX/sd
+
+#EXTINF:-1,tvg-id="wpix-new-york-superstation" WPIX New York (SUPERSTATION) HD" group-title="🇺🇸 TV USA",WPIX New York (SUPERSTATION) HD
+https://tvpass.org/live/WPIX/hd
+
+#EXTINF:-1,tvg-id="yes-network" Yes Network SD" group-title="🇺🇸 TV USA",Yes Network SD
+https://tvpass.org/live/yes-network/sd
+
+#EXTINF:-1,tvg-id="yes-network" Yes Network HD" group-title="🇺🇸 TV USA",Yes Network HD
+https://tvpass.org/live/yes-network/hd
+
+#EXTINF:-1,tvg-id="Flooxer.TV" tvg-logo="https://img.europapress.net/fotoweb/fotonoticia_20151117160020_1280.jpg?width=200&height=200" group-title="📶 FAST",flooxer
+https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
+
+#EXTINF:-1,tvg-id="A3P_Clasicos.TV" tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="📶 FAST",Atresplayer Clásicos
+https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
+
+#EXTINF:-1,tvg-id="A3P_Comedia.TV" tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="📶 FAST",Atresplayer Comedia
+https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
+
+#EXTINF:-1,tvg-id="A3P_MentesInqui.TV" tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="📶 FAST",Atresplayer Mentes Inquietas
+https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
+
+#EXTINF:-1,tvg-id="A3P_Multicine.TV" tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="📶 FAST",Atresplayer Multicine
+https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
+
+#EXTINF:-1,tvg-id="A3P_Hormiguero.TV" tvg-logo="https://graph.facebook.com/elhormiguero/picture?width=200&height=200" group-title="📶 FAST",El Hormiguero
+https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
+
+#EXTINF:-1,tvg-id="A3P_ClubComedia.TV" tvg-logo="https://graph.facebook.com/ElClubDeLaComediaEnlaSexta/picture?width=200&height=200" group-title="📶 FAST",El club de la comedia
+https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
+
+#EXTINF:-1,tvg-id="A3P_EqInvestigacion.TV" tvg-logo="https://graph.facebook.com/EqInvestigacion/picture?width=200&height=200" group-title="📶 FAST",Equipo de investigación
+https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
+
+#EXTINF:-1,tvg-id="A3P_AquiNoHayQ.TV" tvg-logo="https://graph.facebook.com/AQUINHQV/picture?width=200&height=200" group-title="📶 FAST",Aquí no hay quién viva
+https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
+
+#EXTINF:-1,tvg-id="A3P_FisicaOQuimica.TV" tvg-logo="https://graph.facebook.com/fisicaoquimica/picture?width=200&height=200" group-title="📶 FAST",Física o química
+https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61.m3u8
+
+#EXTINF:-1,tvg-id="RTVE_Estrellas.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="📶 FAST",RTVE La Moderna
+https://ztnr.rtve.es/ztnr/2472038.m3u8
+
+#EXTINF:-1,tvg-id="RTVE_Cuentame.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="📶 FAST",RTVE Cuéntame
+https://ztnr.rtve.es/ztnr/6909843.m3u8
+
+#EXTINF:-1,tvg-id="RTVE_SomosCine.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="📶 FAST",RTVE Somos Cine
+https://ztnr.rtve.es/ztnr/6909845.m3u8
+
+#EXTINF:-1,tvg-id="RTVE_Promesa.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="📶 FAST",RTVE La promesa
+https://ztnr.rtve.es/ztnr/2472039.m3u8
+
+#EXTINF:-1,tvg-id="RTVE_Epoca.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="📶 FAST",RTVE Maestros de la Moda
+https://ztnr.rtve.es/ztnr/2472035.m3u8
+
+#EXTINF:-1,tvg-id="RTVE_Series.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="📶 FAST",RTVE Saber y ganar
+https://ztnr.rtve.es/ztnr/6922467.m3u8
+
+#EXTINF:-1,tvg-id="RTVE_Conciertos_R3.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="📶 FAST",RTVE Conciertos Radio 3
+https://ztnr.rtve.es/ztnr/6924117.m3u8
+
+#EXTINF:-1,tvg-id="RTVE_LateXou.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="📶 FAST",RTVE Late Xou
+https://ztnr.rtve.es/ztnr/2472037.m3u8
+
+#EXTINF:-1,tvg-id="BIKINI FM" tvg-logo="https://cdn-profiles.tunein.com/s199413/images/logod.png?t=638116970160000000?width=200&height=200" group-title="🎵 MÚSICA",BIKINI FM
+https://stream.emisorasmusicales.net/listen/bikini_fm/bikinifm-vlc.mp3
+
+#EXTINF:-1,tvg-id="VIRGIN RADIO" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/Virgin-Radio_Logo_Main_Screen.png?t=638116970160000000?width=200&height=200" group-title="🎵 MÚSICA",VIRGIN RADIO
+https://radio.virginradio.co.uk/stream
+
+#EXTINF:-1,tvg-id="BBC Radio 1" tvg-logo="https://www.musicweek.com/cimages/7d17222dce3b0be95851547713bc8e35.png?t=638116970160000000?width=200&height=200" group-title="📻 RADIO",BBC Radio 1
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_one.m3u8
+
+#EXTINF:-1,tvg-id="BBC Radio 2" tvg-logo="https://static.wikia.nocookie.net/bbc/images/5/5f/BBC_Radio_2.png/revision/latest?cb=20210622203417?width=200&height=200" group-title="📻 RADIO",BBC Radio 2
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_two.m3u8
+
+#EXTINF:-1,tvg-id="BBC Radio 4" tvg-logo="https://www.theosthinktank.co.uk/cmsfiles/BBC-Radio-4-logo-update.png?width=200&height=200" group-title="📻 RADIO",BBC Radio 4
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_fourfm.m3u8
+
+#EXTINF:-1,tvg-id="LA750" tvg-logo="https://www.enlaradio.com.ar/wp-content/uploads/2023/02/elr_am750-1-600x337.jpg?width=200&height=200" group-title="📻 RADIO",LA750
+http://playerservices.streamtheworld.com/api/livestream-redirect/AM750.mp3
+
+#EXTINF:-1,tvg-id="CNNARGENTINA" tvg-logo="https://www.parsatv.com/index_files/channels/cnnradio.jpg?width=200&height=200" group-title="📻 RADIO",CNNARGENTINA
+https://unlimited5-us.dps.live/cnn-ar/aac/icecast.audio?type=.mp3
+
+#EXTINF:-1,tvg-id="WKIT" tvg-logo="http://www.zoneradio.com/wkit/images/wkit_logo_with_black_conture_cropped.png?width=200&height=200" group-title="📻 RADIO",WKIT
+https://ice6.securenetsystems.net/WKIT
+
+#EXTINF:-1,tvg-id="NPR" tvg-logo="https://logo-logos.com/2016/10/NPR_logo.png?width=200&height=200" group-title="📻 RADIO",NPR
+https://npr-ice.streamguys1.com/live.mp3
+
+#EXTINF:-1,tvg-id="SWR4" tvg-logo="https://www.swr.de/administration/design/logos/swr4/sdb-logo-state-4,1564394102611,logo-220~_v-16x9@2dXL_-77ed5d09bafd4e3cf6a5a0264e5e16ea35f14925.jpg?width=200&height=200" group-title="📻 RADIO",SWR4
+https://liveradio.swr.de/rddez3a/swr4ka/
+
+#EXTINF:-1,tvg-id="Vaughan Radio" tvg-logo="https://myradioonline.es/public/uploads/radio_img/vaughan-radio/fb_cover.jpg?width=200&height=200" group-title="📻 RADIO",Vaughan Radio
+https://cdn-peer031.streaming-pro.com:8058/vaughanradio.mp3
+
+#EXTINF:-1,tvg-id="CNN AUDIO TV" tvg-logo="https://logowik.com/content/uploads/images/422_cnn_logo.jpg?width=200&height=200" group-title="📻 RADIO",CNN AUDIO TV
+https://tunein.cdnstream1.com/3519_96.aac
+
+#EXTINF:-1,tvg-id="France Info" tvg-logo="https://s.rfi.fr/media/display/edc8a1b8-0fd0-11ea-b422-005056bf7c53/w:980/p:16x9/Logo_France_Info_1_0.png?width=200&height=200" group-title="📻 RADIO",France Info
+https://icecast.radiofrance.fr/franceinfo-midfi.mp3
+
+#EXTINF:-1,tvg-id="talkRadio" tvg-logo="https://images.seeklogo.com/logo-png/39/1/talkradio-logo-png_seeklogo-394469.png?width=200&height=200" group-title="📻 RADIO",talkRadio
+http://radio.talkradio.co.uk/stream
+
+#EXTINF:-1,tvg-id="KIIS FM" tvg-logo="https://support.musicgateway.com/wp-content/uploads/2020/08/800-x-500-1.png?width=200&height=200" group-title="🎵 MÚSICA",KIIS FM
+https://n02a-e2.revma.ihrhls.com/zc185/2_1dwu0pvdgarr202/playlist.m3u8
+
+#EXTINF:-1,tvg-id="Los40.Radio" tvg-logo="https://graph.facebook.com/los40/picture?width=200&height=200" group-title="🎵 MÚSICA",LOS40
+https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
+
+#EXTINF:-1,tvg-id="Los40Classic.Radio" tvg-logo="https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200" group-title="🎵 MÚSICA",LOS40 Classic
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
+
+#EXTINF:-1,tvg-id="KissFm.Radio" tvg-logo="https://graph.facebook.com/kissfm.es/picture?width=200&height=200" group-title="🎵 MÚSICA",Kiss FM
+https://kissfm.kissfmradio.cires21.com/kissfm.mp3
+
+#EXTINF:-1,tvg-id="FlaixFM.Radio" tvg-logo="https://pbs.twimg.com/profile_images/1051761197127745541/whMnn4_K_200x200.jpg" group-title="🎵 MÚSICA",Flaix FM
+https://stream.flaixfm.cat/icecast
+
+#EXTINF:-1,tvg-id="Flaixbac.Radio" tvg-logo="https://pbs.twimg.com/profile_images/1164926188307001344/PtDeZDOO_200x200.jpg" group-title="🎵 MÚSICA",Flaixbac
+https://stream.flaixbac.cat/icecast
+
+#EXTINF:-1,tvg-id="HitFM.Radio" tvg-logo="https://graph.facebook.com/hitfm.es/picture?width=200&height=200" group-title="🎵 MÚSICA",Hit FM
+https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3
+
+#EXTINF:-1,tvg-id="MegaStar.Radio" tvg-logo="https://graph.facebook.com/MegaStarFM/picture?width=200&height=200" group-title="🎵 MÚSICA",MegaStar FM
+https://megastar-cope.flumotion.com/playlist.m3u8
+
+#EXTINF:-1,tvg-id="MelodiaFM.Radio" tvg-logo="https://graph.facebook.com/tumelodiafm/picture?width=200&height=200" group-title="🎵 MÚSICA",Melodía FM
+https://atres-live.melodia-fm.com/live/melodiafm/master.m3u8
+
+#EXTINF:-1,tvg-logo="https://graph.facebook.com/radiomontecarlo/picture?width=200&height=200" group-title="📻 RADIO",Radio Montecarlo
+https://icy.unitedradio.it/RMC.mp3
+
+#EXTINF:-1,tvg-logo="https://graph.facebook.com/radioklara/picture?width=200&height=200" group-title="📻 RADIO",Ràdio Klara
+https://cervera.eldialdigital.com:21111/stream
+
+#EXTINF:-1,tvg-logo="https://images.radiovolna.net/_files/images/stations/10582/a6192be932495ada27a4e0faa859d05e.jpg?width=200&height=200" group-title="📻 RADIO",Plaza Radio
+https://stream1.solstreaming.com:8112/stream
+
+#EXTINF:-1,tvg-logo="https://www.globalsoundgroup.com/wp-content/uploads/2021/04/Radio-Caroline.jpeg?width=200&height=200" group-title="🎵 MÚSICA",Radio Caroline
+http://sc6.radiocaroline.net:8040/stream.mp3
+
+#EXTINF:-1,tvg-logo="https://static1.purepeople.com/articles/5/26/49/25/@/3747226-logo-de-la-station-de-radio-rtl-950x0-2.jpeg?width=200&height=200" group-title="🎵 MÚSICA",RTL
+https://streamer-02.rtl.fr/rtl-1-44-128
+
+#EXTINF:-1,tvg-logo="" group-title="📻 RADIO",Punto del Plata
+https://27433.live.streamtheworld.com/AM750AAC.aac
+
+#EXTINF:-1,tvg-logo="" group-title="📻 RADIO",,Onda del Plata
+https://icecasthd.net/proxy/ondaplata/ondadelplata
+
+#EXTINF:-1,tvg-logo="" group-title="📻 RADIO",Radio Habana
+https://icecast.teveo.cu/McW3fLhs
+
+#EXTINF:-1,tvg-logo="" group-title="📻 RADIO",Radio Rebelde
+https://icecast.teveo.cu/kHKL7tWd
+
+#EXTINF:-1,tvg-logo="https://images.hdqwalls.com/download/dua-lipa-2018-new-5k-qt-1920x1080.jpg?width=200&height=200" group-title="🎤 TEMA",DUA LIPA
+http://streaming.exclusive.radio/er/dualipa/icecast.audio
+
+#EXTINF:-1,tvg-logo="https://d3d0lqu00lnqvz.cloudfront.net/media/media/3b45ba41-d7eb-4532-ac4e-4e676e504c95.jpg?width=200&height=200" group-title="🎤 TEMA",ALANIS MORISSETTE
+http://streaming.exclusive.radio/er/alanismorissette/Icecast.audio
+
+#EXTINF:-1,tvg-logo="https://www.nme.com/wp-content/uploads/2022/05/Springsteen-2021.jpg?width=200&height=200" group-title="🎤 TEMA",BRUCE SPRINGSTEEN
+http://streaming.exclusive.radio/er/springsteen/icecast.audio
+
+#EXTINF:-1,tvg-logo="https://cdn.wegow.com/media/artists/carly-simon/carly-simon-1588753265.3617656.2560x1440.jpg?width=200&height=200" group-title="🎤 TEMA",CARLY SIMON
+http://streaming.exclusive.radio/er/carlysimon/icecast.audio
+
+#EXTINF:-1,tvg-logo="https://www.gannett-cdn.com/-mm-/7c2c00b4c4f72a8199cf7bee9f3a58dd1752ad85/c=113-0-3087-1680/local/-/media/2018/01/09/Naples/Naples/636510835519037851-jamestaylor.jpg?width=200&height=200" group-title="🎤 TEMA",JAMES TAYLOR
+http://streaming.exclusive.radio/er/jamestaylor/icecast.audio
+
+#EXTINF:-1,tvg-logo="https://images.radio-canada.ca/v1/ici-premiere/16x9/histo-joan-baez-chanteuse.jpg?width=200&height=200" group-title="🎤 TEMA",JOAN BAEZ
+http://streaming.exclusive.radio/er/joanbaez/icecast.audio
+
+#EXTINF:-1,tvg-logo="https://i.insider.com/63fd1865d5d80a0018276857?width=200&height=200" group-title="🎤 TEMA",KATY PERRY
+http://streaming.exclusive.radio/er/katyperry/icecast.audio
+
+#EXTINF:-1,tvg-logo="https://www.aceshowbiz.com/display/images/photo/2022/09/19/00192384.jpg?width=200&height=200" group-title="🎤 TEMA",LADY GAGA
+http://streaming.exclusive.radio/er/ladygaga/icecast.audio
+
+#EXTINF:-1,tvg-logo="https://images2.alphacoders.com/545/thumb-1920-545505.jpg?width=200&height=200" group-title="🎤 TEMA",MADONNA
+http://streaming.exclusive.radio/er/madonna/icecast.audio
+
+#EXTINF:-1,tvg-logo="https://www.highreshdwallpapers.com/wp-content/uploads/2014/01/Miley-Cyrus-HD-Wallpaper-Pack-1.png?width=200&height=200" group-title="🎤 TEMA",MILEY CYRUS
+http://streaming.exclusive.radio/er/mileycyrus/icecast.audio
+
+#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-dS9H96b_-DM/Vlk-UriSjhI/AAAAAAAATaw/Ql7TWBwG4OA/s1600/ska.jpg?width=200&height=200" group-title="🎤 TEMA",SHAKIRA
+http://streaming.exclusive.radio/er/shakira/icecast.audio
+
+#EXTINF:-1,tvg-logo="https://images2.alphacoders.com/545/thumb-1920-545505.jpg?width=200&height=200" group-title="🎤 TEMA",SHERYL CROW
+http://streaming.exclusive.radio/er/sherylcrow/icecast.audio
+
+#EXTINF:-1,tvg-logo="https://biographiesareus.com/wp-content/uploads/2025/03/sia-1024x576.jpg?width=200&height=200" group-title="🎤 TEMA",SIA
+http://streaming.exclusive.radio/er/sia/icecast.audio
+
+#EXTINF:-1,tvg-logo="https://salvemusic.com.ua/wp-content/uploads/2019/06/beatles-77-scaled.jpg?width=200&height=200" group-title="🎤 TEMA",THE BEATLES
+http://streaming.exclusive.radio/er/beatles/icecast.audio
+
+#EXTINF:-1,tvg-logo="https://static.vecteezy.com/system/resources/previews/009/681/004/original/born-in-1962-vintage-retro-birthday-original-1962-aged-to-perfection-free-vector.jpg?width=200&height=200" group-title="🎤 TEMA",1962
+https://streaming.ticktock.radio/tt-app/1962/icecast.audio
+
+#EXTINF:-1,group-title="🎬 CINE" tvg-id=PlutoCC" tvg-logo="https://images.pluto.tv/channels/64b9671cdac71b0008f371df/featuredImage.jpg?width=200&height=200",Pluto Cine Clásico
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1,tvg-logo="https://ntvb.tmsimg.com/assets/p184181_b_h10_ad.jpg?width=200&height=200" group-title="🎬 CINE",ALFRED HITCHCOCK PRESENTS
+https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,tvg-id="HOLLYWOOD.TV" tvg-logo="https://amcnetworks.es/wp-content/uploads/2018/08/HOLLYWOOD.jpg?width=200&height=200" group-title="🎬 CINE",Hollywood
+http://185.189.225.150:85/Hollywood/index.m3u8
+
+#EXTINF:-1,tvg-id="EUROSPORT2.TV" tvg-logo="https://www.universfreebox.com/UserFiles/image/eurosport2.jpg?width=200&height=200" group-title="🛰️ GRUPO",Eurosport 2
+http://185.189.225.150:85/Eurosport2/index.m3u8
+
+#EXTINF:-1,tvg-id="AXN.TV" tvg-logo="https://pluspng.com/img-png/axn-logo-png-passion-in-the-axn-rebrand-665.jpg?width=200&height=200" group-title="🛰️ GRUPO",AXN
+http://185.189.225.150:85/AXN/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.glasnet.nl/images/bbc1.png" group-title="🛰️ GRUPO",BBC One
+http://185.189.225.150:85/BBC1/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://tvhistoria.com.br/wp-content/uploads/2020/12/canal-amc-logo.jpg?width=200&height=200" group-title="🛰️ GRUPO",AMC
+http://185.189.225.150:85/AMC/index.m3u8
+
+#EXTINF:-1,group-title="🛰️ GRUPO",Boing
+http://185.189.225.150:85/boing/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://brandemia.org/contenido/subidas/2021/09/02-tcm-1.jpg?width=200&height=200" group-title="🛰️ GRUPO",TCM 
+http://185.189.225.150:85/TCM/index.m3u8
+
+#EXTINF:-1,tvg-id="SOMOS.TV" tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/05f74609458855e3dd64ff0edfcf6fb1_SOMOS.png?width=200&height=200" group-title="🛰️ GRUPO",Somos
+http://185.189.225.150:85/somos/index.m3u8
+
+#EXTINF:-1,group-title="🛰️ GRUPO",BabyTV
+http://185.189.225.150:85/BabyTV/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://popnow.com.br/wp-content/uploads/2021/02/original_1614011637_STAR-CHANNEL-LOGO.jpg?width=200&height=200" group-title="🛰️ GRUPO",Star
+http://185.189.225.150:85/star/index.m3u8
+
+#EXTINF:-1,group-title="🛰️ GRUPO",RTL
+http://185.189.225.150:85/RTL/index.m3u8
+
+#EXTINF:-1,group-title="🛰️ GRUPO",National Geographic
+http://185.189.225.150:85/NationalGeographic/index.m3u8
+
+#EXTINF:-1,group-title="🛰️ GRUPO",MTV
+http://185.189.225.150:85/MTV/index.m3u8
+
+#EXTINF:-1,group-title="🛰️ GRUPO",TV2
+http://185.189.225.150:85/TV2/index.m3u8
+
+#EXTINF:-1,group-title="🛰️ GRUPO",CCTV
+http://185.189.225.150:85/cctv/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.calle13.es/sites/default/files/logo-calle3_16x9_v01.jpg?width=200&height=200" group-title="🛰️ GRUPO",Calle 13
+http://185.189.225.150:85/calle13/index.m3u8
+
+#EXTINF:-1,group-title="🛰️ GRUPO",Comedy Central
+http://185.189.225.150:85/comedycentral/index.m3u8
+
+#EXTINF:-1,group-title="🛰️ GRUPO",Food Network
+http://185.189.225.150:85/foodnetwork/index.m3u8
+
+#EXTINF:-1,group-title="🛰️ GRUPO",Nickelodeon
+http://185.189.225.150:85/nickelodeon/index.m3u8
+
+#EXTINF:-1,group-title="🛰️ GRUPO",Mega
+http://185.189.225.150:85/mega/index.m3u8
+
+#EXTINF:-1,group-title="🛰️ GRUPO",Nova
+http://185.189.225.150:85/nova/index.m3u8
+
+#EXTINF:-1,group-title="🛰️ GRUPO",Odisea
+http://185.189.225.150:85/odisea/index.m3u8
+
+#EXTINF:-1,group-title="🛰️ GRUPO",Syfy
+http://185.189.225.150:85/syfy/index.m3u8
+
+#EXTINF:-1,group-title="🛰️ GRUPO",TV3
+http://185.189.225.150:85/tv3/index.m3u8
+
+#EXTINF:-1,group-title="🛰️ GRUPO",Nat Geo Wild
+http://185.189.225.150:85/natgeowild/index.m3u8
+
+#EXTINF:-1,group-title="🛰️ GRUPO",Paramount
+http://185.189.225.150:85/Paramount/index.m3u8
+
+#EXTINF:-1,group-title="🛰️ GRUPO",MTV Hits
+http://185.189.225.150:85/MTVHits/index.m3u8
+
+#EXTINF:-1,group-title="🛰️ GRUPO",Eurosport 1
+http://185.189.225.150:85/Eurosport1/index.m3u8
+
+#EXTINF:-1,group-title="🛰️ GRUPO",12 TV
+http://185.189.225.150:85/12TV/index.m3u8
+
+#EXTINF:-1,tvg-id="AccuWeatherNOW.us",group-title="❌ XUMO",AccuWeather Now [Geo-blocked] 
+https://accuweather-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",group-title="❌ XUMO",Alfred Hitchcock Presents 
+https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,tvg-id="",Alien Nation group-title="❌ XUMO"
+https://linear-888.frequency.stream/dist/xumo/888/hls/master/playlist.m3u8
+
+#EXTINF:-1,tvg-id="AllWeddingsWEtv.us",All Weddings We TV group-title="❌ XUMO"
+https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="AmericasTestKitchen.us",America's Test Kitchen [Geo-blocked] group-title="❌ XUMO"
+https://amg01420-americastestkitchen-amg01420c1-xumo-us-878.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",American Crimes group-title="❌ XUMO"
+https://xumo-xumoent-vc-113-at8kn.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,tvg-id="",American Ninja Warrior group-title="❌ XUMO"
+https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,tvg-id="PBSAntiquesRoadshow.us",Antiques Roadshow PBS group-title="❌ XUMO"
+https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="AntiquesRoadshowUK.us",Antiques Roadshow UK group-title="❌ XUMO"
+https://bbc-antiquesroadshowuk-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="AtHomewithFamilyHandyman.us",At Home with Family Handyman group-title="❌ XUMO"
+https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
+
+#EXTINF:-1,tvg-id="Backstage.us",Backstage [Geo-blocked] group-title="❌ XUMO"
+https://fuse-backstage-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Bad Girls Club group-title="❌ XUMO"
+https://xumo-xumoent-vc-118-jed5p.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,tvg-id="",Barney and Friends group-title="❌ XUMO"
+https://cinedigm-barney-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="Baywatch.us",Baywatch [Geo-blocked] group-title="❌ XUMO"
+https://baywatch-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",BBC Earth group-title="❌ XUMO"
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",BBC Impossible group-title="❌ XUMO"
+https://bbc-impossible-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",BBC Top Gear group-title="❌ XUMO"
+https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
+
+#EXTINF:-1,tvg-id="beINSPORTSXTRA.us",BeIN Sports XTRA group-title="❌ XUMO"
+https://bein-xtra-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="beINSPORTSXTRAenEspanol.us",BeIN Sports XTRA en Espanol group-title="❌ XUMO"
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Big 12 Studios group-title="❌ XUMO"
+https://amg01258-raycom-amg01258c7-xumo-us-5514.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="BlackNewsChannel.us",Black News Channel (1080p) group-title="❌ XUMO"
+https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="BlackNewsChannel.us",Black News Channel (1080p) group-title="❌ XUMO"
+https://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="BounceXL.us",Bounce XL group-title="❌ XUMO"
+https://scripps-bouncexl-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Bravo Vault group-title="❌ XUMO"
+https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,tvg-id="CanelaTV.us",Canela TV group-title="❌ XUMO"
+https://amg00658-canelamediainc-canelatv-xumo-paqe5.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="CBCNewsNetwork.ca",CBC News group-title="❌ XUMO"
+https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8
+
+#EXTINF:-1,tvg-id="",Celebrity Name Game [Geo-blocked] group-title="❌ XUMO"
+https://amg00353-amg00353c19-xumo-us-2608.playouts.now.amagi.tv/lionsgate-clbng/playlist.m3u8
+
+#EXTINF:-1,tvg-id="Circle.us",Circle (1080p) group-title="❌ XUMO"
+https://circle-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="ComedyDynamics.us",Comedy Dynamics group-title="❌ XUMO"
+https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Cook's Country Channel [Geo-blocked] group-title="❌ XUMO"
+https://amg01420-amg01420c5-xumo-us-3817.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="CourtTV.us",Court TV group-title="❌ XUMO"
+https://scripps-courttv-2-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Court TV Legendary Trials group-title="❌ XUMO"
+https://scripps-ctvlegendary-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",CraftsyTV group-title="❌ XUMO"
+https://linear-492.frequency.stream/dist/xumo/492/hls/master/playlist.m3u8
+
+#EXTINF:-1,tvg-id="DangerTV.us",DangerTV group-title="❌ XUMO"
+https://dangertv-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="DemandAfrica.us",Demand Africa group-title="❌ XUMO"
+https://demandafrica-xumo-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Designated Survivor [Geo-blocked] group-title="❌ XUMO"
+https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="DoctorWhoClassic.us",Doctor Who Classic group-title="❌ XUMO"
+https://bbc-classicdrwho-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="DogWhisperer.uk",Dog Whisperer with Cesar Millan [Geo-blocked] group-title="❌ XUMO"
+https://amg01201-cinedigm-amg01201c30-xumo-us-2277.playouts.now.amagi.tv/cinedigm-dogwhisperer-hls/playlist.m3u8
+
+#EXTINF:-1,tvg-id="DoveChannel.us",Dove Channel group-title="❌ XUMO"
+https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",E! Keeping Up group-title="❌ XUMO"
+https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,tvg-id="",Ebony TV [Geo-blocked] group-title="❌ XUMO"
+https://amg00353-lionsgatestudios-amg00353c11-xumo-us-2108.playouts.now.amagi.tv/EbonyTV-pl/playlist.m3u8
+
+#EXTINF:-1,tvg-id="ElectricNow.us",Electric Now (1080p) group-title="❌ XUMO"
+https://elec-en-xumo.otteravision.com/elec/en/elec_en.m3u8
+
+#EXTINF:-1,tvg-id="EstrellaNews.us",Estrella News group-title="❌ XUMO"
+https://estrellanews-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="EstrellaTV.us",Estrella TV group-title="❌ XUMO"
+https://estrellatv-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Family Feud Classic group-title="❌ XUMO"
+https://amg00145-amg00145c3-xumo-us-3802.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="Filmex.mx",Filmex (Xumo) (1080p) [Geo-blocked] group-title="❌ XUMO"
+https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="FilmexClasico.mx",Filmex Clásico (1080p) [Geo-blocked] group-title="❌ XUMO"
+https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Fork & Flight group-title="❌ XUMO"
+https://amg00346-vizioono-forkandfligt-xumo-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="LiveNOWfromFOX.us",FOX Live Now [Geo-blocked] group-title="❌ XUMO"
+https://amg00488-foxdigital-newsnow-xumo-qbvgp.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="FoxSports.us",FOX Sports [Geo-blocked] group-title="❌ XUMO"
+https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
+
+#EXTINF:-1,tvg-id="FoxWeather.us",FOX Weather group-title="❌ XUMO"
+https://amg01542-foxweatherllc-foxweather-xumo-ve91o.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="FoxWeather.us",Fox Weather group-title="❌ XUMO"
+https://foxweather-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Gardening with Monty Don group-title="❌ XUMO"
+https://all3media-gardening-with-monty-don-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="GritXtra.us",Grit Xtra group-title="❌ XUMO"
+https://scripps-gritxtra-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="GustoTV.ca",GustoTV group-title="❌ XUMO"
+https://gusto-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Hallmark en Espanol [Geo-blocked] group-title="❌ XUMO"
+https://amg00235-amg00235c3-xumo-us-3820.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="HiYAH.us",Hi-Yah! group-title="❌ XUMO"
+https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Homeful group-title="❌ XUMO"
+https://amg00090-blueantllc-homefull-xumo-rn9cd.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="Hungry.us",Hungry group-title="❌ XUMO"
+https://food-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="IHeart90s.us",iHeartRadio 90s group-title="❌ XUMO"
+https://iheart-iheart90s-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",iHeartRadio Alternative group-title="❌ XUMO"
+https://iheart-iheartaltradio-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",iHeartRadio Beso group-title="❌ XUMO"
+https://iheart-iheartlatinohits-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",iHeartRadio Country group-title="❌ XUMO"
+https://iheart-iheartcountry-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",iHeartRadio Hip-Hop group-title="❌ XUMO"
+https://iheart-iheartthebeat-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Investigation group-title="❌ XUMO"
+https://amg00346-vizioono-investigation-xumo-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="IONTVEast.us",ION group-title="❌ XUMO"
+https://scripps-ion-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="WFXTDT2.us",ION Mystery (1080p) group-title="❌ XUMO"
+https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="IONPlusEast.us",ION Plus group-title="❌ XUMO"
+https://ion-ion-plus-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="JewishLifeTelevision.us",Jewish Life Television group-title="❌ XUMO"
+https://jlt-jltv-xumo.otteravision.com/jlt/jltv/jltv.m3u8
+
+#EXTINF:-1,tvg-id="",Joel Osteen Network group-title="❌ XUMO"
+https://linear-860.frequency.stream/dist/xumo/860/hls/master/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",JTV Jewelry Love [Geo-blocked] group-title="❌ XUMO"
+https://jewelrytv-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Laff More group-title="❌ XUMO"
+https://scripps-laffmore-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Lassie group-title="❌ XUMO"
+https://xumo-xumoent-ch833-p47sj.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,tvg-id="",Latino Vibes [Geo-blocked] group-title="❌ XUMO"
+https://amg00375-fusemedia-latinovibes-xumo-qyjhw.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Leave It to Beaver group-title="❌ XUMO"
+https://xumo-xumoent-ch826-z0h0h.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,tvg-id="",Little House on the Prairie group-title="❌ XUMO"
+https://xumo-xumoent-vc-121-ghge7.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,tvg-id="LoveNature.ca",Love Nature [Geo-blocked] group-title="❌ XUMO"
+https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="LoveNatureenEspanol.us",Love Nature en Espanol [Geo-blocked] group-title="❌ XUMO"
+https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Love The Planet [Geo-blocked] group-title="❌ XUMO"
+https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="MidsomerMurders.us",Midsomer Murders group-title="❌ XUMO"
+https://all3media-midsomer-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Million Dollar Listing Vault group-title="❌ XUMO"
+https://xumo-xumoent-ch838-coy7x.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,tvg-id="Motorvision.de",Motorvision group-title="❌ XUMO"
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+
+#EXTINF:-1,tvg-id="MovieSphere.us",MovieSphere group-title="❌ XUMO"
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Murder She Wrote group-title="❌ XUMO"
+https://xumo-xumoent-vc-119-t7wx7.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,tvg-id="MST3K.us",Mystery Science Theater 3000 [Geo-blocked] group-title="❌ XUMO"
+https://amg00163-shoutfactory-mst3k-xumo-r2pwd.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Nash Bridges Channel [Geo-blocked] group-title="❌ XUMO"
+https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="KNBCDT1.us",NBC 4 Los Angeles CA (KNBC) [Geo-blocked] group-title="❌ XUMO"
+https://amg00884-nbcuniversal-nbcla-pcr-xumo-ksnf2.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="WNBCDT1.us",NBC 4 New York NY (WNBC) [Geo-blocked] group-title="❌ XUMO"
+https://amg00884-nbcuniversal-nbcny-pcr-xumo-isw50.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="WRCDT1.us",NBC 4 Washington DC (WRC) [Geo-blocked] group-title="❌ XUMO"
+https://amg00884-nbcuniversal-wanews-xumo-oamde.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="WMAQDT1.us",NBC 5 Chicago IL (WMAQ) [Geo-blocked] group-title="❌ XUMO"
+https://amg00884-nbcuniversal-nbcch-pcr-xumo-e9lcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="KXASDT1.us",NBC 5 Dallas-Fort Worth TX (KXAS) [Geo-blocked] group-title="❌ XUMO"
+https://amg00884-nbcuniversal-dfwnews-xumo-r5in7.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="WTVJDT1.us",NBC 6 Miami FL (WTVJ) [Geo-blocked] group-title="❌ XUMO"
+https://amg00884-nbcuniversal-nbcnsf-pcr-xumo-78jf2.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="KNSDDT1.us",NBC 7 San Diego CA (KNSD) [Geo-blocked] group-title="❌ XUMO"
+https://amg00884-nbcuniversal-nbcsd-pcr-xumo-o4a18.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="WBTSCD1.us",NBC 10 Boston NH (WBTS) [Geo-blocked] group-title="❌ XUMO"
+https://amg00884-nbcuniversal-nbcbos-pcr-xumo-9xxph.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="WCAUDT1.us",NBC 10 Philadelphia PA (WCAU) [Geo-blocked] group-title="❌ XUMO"
+https://amg00884-nbcuniversal-nbcpa-pcr-xumo-q61uw.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="KNTVDT1.us",NBC 11 San Jose CA (KNTV) [Geo-blocked] group-title="❌ XUMO"
+https://amg00884-nbcuniversal-nbcsf-pcr-xumo-xetsp.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="WVITDT1.us",NBC 30 West Hartford CT (WVIT) [Geo-blocked] group-title="❌ XUMO"
+https://amg00884-nbcuniversal-ctnews-xumo-cdfzg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",NBC Comedy Vault group-title="❌ XUMO"
+https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,tvg-id="NBCNewsNOW.us",NBC News Now group-title="❌ XUMO"
+https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,tvg-id="",NBC Sports group-title="❌ XUMO"
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,tvg-id="NinjaKidzTV.us",Ninja Kidz TV group-title="❌ XUMO"
+https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Nosey Confess group-title="❌ XUMO"
+https://nosey-confessbynosey-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="OutdoorAmerica.us",Outdoor America group-title="❌ XUMO"
+https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",OuterSphere [Geo-blocked] group-title="❌ XUMO"
+https://amg00353-amg00353c17-xumo-us-2554.playouts.now.amagi.tv/lionsgate-otspr-xumo/playlist.m3u8
+
+#EXTINF:-1,tvg-id="OutsideTVPlus.us",Outside TV Plus (1080p) group-title="❌ XUMO"
+https://outsidetvplus-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="PBSNature.us",PBS Nature [Geo-blocked] group-title="❌ XUMO"
+https://amg01597-wnetnewyorkpubl-pbsnature-xumo-8xorq.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="pocketwatch.us",pocket.watch group-title="❌ XUMO"
+https://pocketwatch-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="PokerGo.us",PokerGO group-title="❌ XUMO"
+https://linear-426.frequency.stream/dist/xumo/426/hls/master/playlist.m3u8
+
+#EXTINF:-1,tvg-id="Portlandia.us",Portlandia group-title="❌ XUMO"
+https://amc-portlandia-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Property & Reno [Geo-blocked] group-title="❌ XUMO"
+https://linear-476.frequency.stream/dist/xumo/476/hls/master/playlist.m3u8
+
+#EXTINF:-1,tvg-id="PursuitUP.us",PursuitUp group-title="❌ XUMO"
+https://linear-205.frequency.stream/dist/xumo/205/hls/master/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",QVC's The Big Dish [Geo-blocked] group-title="❌ XUMO"
+https://amg01717-qvc-amg01717c3-xumo-us-2876.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Real Disaster Channel [Geo-blocked] group-title="❌ XUMO"
+https://linear-475.frequency.stream/dist/xumo/475/hls/master/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Real Housewives Vault group-title="❌ XUMO"
+https://xumo-xumoent-vc-123-8gq0q.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,tvg-id="",Reelz Famous & Infamous group-title="❌ XUMO"
+https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8
+
+#EXTINF:-1,tvg-id="ReutersTV.us",Reuters Now group-title="❌ XUMO"
+https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
+
+#EXTINF:-1,tvg-id="Revolt.us",Revolt Mixtape group-title="❌ XUMO"
+https://revolttv-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Rig TV group-title="❌ XUMO"
+https://buzzr-rigtv-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Salem News Channel [Geo-blocked] group-title="❌ XUMO"
+https://amg00732-salemnewsfast-amg00732c2-xumo-us-1316.playouts.now.amagi.tv/snc-xm/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Saved by the Bell group-title="❌ XUMO"
+https://xumo-xumoent-vc-111-0pd1g.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,tvg-id="",Scares by Shudder group-title="❌ XUMO"
+https://amc-scaresbyshudder-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="ScrippsNews.us",Scripps News group-title="❌ XUMO"
+https://scripps-newsy-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Shades of Black [Geo-blocked] group-title="❌ XUMO"
+https://xumo-fusebeats.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Shaun the Sheep & Friends group-title="❌ XUMO"
+https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
+
+#EXTINF:-1,tvg-id="ShopLC.us",Shop LC (1080p) group-title="❌ XUMO" group-title="❌ XUMO"
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8
+
+#EXTINF:-1,tvg-id="ShoutFactoryTV.us",Shout! Factory TV (1080p) group-title="❌ XUMO"
+https://shoutfactory-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",SNL Vault group-title="❌ XUMO"
+https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,tvg-id="SonyCanalCompetencias.us",Sony Canal Competencias group-title="❌ XUMO"
+https://spt-competencias-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="SonyKALHindi.us",Sony KAL Hindi group-title="❌ XUMO"
+https://spt-sonykal-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="StoriesbyAMC.us",Stories by AMC group-title="❌ XUMO"
+https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Strongman Champions League group-title="❌ XUMO"
+https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Supermarket Sweep [Geo-blocked] group-title="❌ XUMO"
+https://amg00145-letsplayinc-supermarketswep-xumo-59bvy.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="SwerveSports.us",Swerve Combat group-title="❌ XUMO"
+https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
+
+#EXTINF:-1,tvg-id="Tastemade.us",Tastemade (1080p) group-title="❌ XUMO"
+https://tastemade-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="TastemadeenEspanol.us",Tastemade en Espanol [Geo-blocked] group-title="❌ XUMO"
+https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="TastemadeTravel.us",Tastemade Travel [Geo-blocked] group-title="❌ XUMO"
+https://tm-tmtar-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Telemundo Accion group-title="❌ XUMO"
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,tvg-id="",Telemundo Noticias Ahora group-title="❌ XUMO"
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,tvg-id="",Telemundo Noticias California group-title="❌ XUMO"
+https://amg00884-nbcuniversal-nbctelemundowest-xumo-xc0n5.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Telemundo Noticias Florida group-title="❌ XUMO"
+https://amg00884-nbcuniversal-nbctelemundoflorida-xumo-atn0m.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Telemundo Noticias Noreste group-title="❌ XUMO"
+https://amg00884-nbcuniversal-nbctelemundonortheast-xumo-ok3ha.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Telemundo Noticias Texas group-title="❌ XUMO"
+https://amg00884-nbcuniversal-nbctelemundotexas-xumo-eeb56.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Telemundo Romance group-title="❌ XUMO"
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,tvg-id="TheBobRossChannel.us",The Bob Ross Channel (1080p) group-title="❌ XUMO"
+https://bobross-xumous.cinedigm.com/midroll/amagi_hls_data_xumo-host-bobross-xumo/CDN/master.m3u8
+
+#EXTINF:-1,tvg-id="",The Conners [Geo-blocked] group-title="❌ XUMO"
+https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="TheDesignNetwork.us",The Design Network [Geo-blocked] group-title="❌ XUMO"
+https://amg00441-amg00441c1-xumo-us-5144.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="TheJamieOliverChannel.us",The Jamie Oliver Channel group-title="❌ XUMO"
+https://jamieoliver-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",The Lone Ranger group-title="❌ XUMO"
+https://xumo-xumoent-ch829-wojlf.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,tvg-id="ThePriceIsRightTheBarkerEra.us",The Price is Right: The Barker Era [Geo-blocked] group-title="❌ XUMO"
+https://amg00145-letsplayinc-thepriceisright-xumo-eqq6a.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="TheWalkingDeadUniverse.us",The Walking Dead Universe group-title="❌ XUMO"
+https://amc-twdfanexperience-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="TheYoungTurks.us",The Young Turks (TYT) (1080p) [Not 24/7] group-title="❌ XUMO"
+https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
+
+#EXTINF:-1,tvg-id="ToonGoggles.us",Toon Goggles [Geo-blocked] group-title="❌ XUMO"
+https://tg-tg-xumo.otteravision.com/tg/tg/tg.m3u8
+
+#EXTINF:-1,tvg-id="",Top Chef Vault group-title="❌ XUMO"
+https://xumo-xumoent-vc-116-hrcw0.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,tvg-id="TribecaChannel.us",Tribeca Channel [Geo-blocked] group-title="❌ XUMO"
+https://amg02507-giantpictures-tribeca-xumo-ey2b7.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="TBNEast.us",Trinity Broadcast Network group-title="❌ XUMO"
+https://d7ge95bb03xsu.cloudfront.net/out/v1/7ed92615b64b46d6b01e61f17463346e/tbn-xumo.m3u8
+
+#EXTINF:-1,tvg-id="",True History Channel group-title="❌ XUMO"
+https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",TV One Crime & Justice group-title="❌ XUMO"
+https://linear-593.frequency.stream/dist/xumo/593/hls/master/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",UFC group-title="❌ XUMO"
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Universal Action group-title="❌ XUMO"
+https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,tvg-id="",Universal Crime group-title="❌ XUMO"
+https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,tvg-id="",Universal Monsters group-title="❌ XUMO"
+https://xumo-xumoent-ch824-d4q5c.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,tvg-id="",Universal Westerns group-title="❌ XUMO"
+https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,tvg-id="USATODAY.us",USA Today News [Geo-blocked] group-title="❌ XUMO"
+https://usatodaynews-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="WaypointTV.us",WaypointTV group-title="❌ XUMO"
+https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",Wild West TV group-title="❌ XUMO"
+https://linear-799.frequency.stream/dist/xumo/799/hls/master/playlist.m3u8
+
+#EXTINF:-1,tvg-id="WildEarth.uk",WildEarth group-title="❌ XUMO"
+https://wildearth-xumo.amagi.tv/master.m3u8
+
+#EXTINF:-1,tvg-id="",WMX Hip-Hop group-title="❌ XUMO"
+https://wmx-hiphop-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",WMX Pop group-title="❌ XUMO"
+https://wmx-pop-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="",WMX Rock group-title="❌ XUMO"
+https://wmxrock-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="WomensSportsNetwork.us",Women's Sports Network [Geo-blocked] group-title="❌ XUMO"
+https://womensnetwork-xumo.amagi.tv/playlist.m3u8 group-title="❌ XUMO"
+
+#EXTINF:-1,tvg-id="WorldPokerTour.us",World Poker Tour group-title="❌ XUMO"
+https://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="XploreTV.us",Xplore,group-title="❌ XUMO"
+https://xplore-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-id="DoctorWho",group-title="📩 VARIOS",Doctor Who
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1,group-title="📩 VARIOS",DOCTOR WHO CLASSIC
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ce4475cd43850831ca91ce7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=532&terminate=false&userId=
+
+#EXTINF:-1,group-title="📩 VARIOS",CNN ON HLN
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1,group-title="📩 VARIOS",ION
+https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
+
+#EXTINF:-1,group-title="📩 VARIOS",FAMILY TIES
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77939a630f530007dde654/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1,group-title="📩 VARIOS",PLUTO NBC NEWS NOW
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5df97894467dfa00091c873c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=213&terminate=false&userId=
+
+#EXTINF:-1,group-title="📩 VARIOS",PLUTO TV STAR TREK
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1,group-title="📩 VARIOS",PLUTO TV STAR TREK 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/634dacf51d90320007fcd5fa/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1,group-title="📩 VARIOS",TBS EAST VPN
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1,group-title="📩 VARIOS",TBS WEST VPN
+https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1,group-title="📩 VARIOS",TCM EAST VPN
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1,group-title="📩 VARIOS",TCM WEST VPN
+https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1,group-title="📩 VARIOS",DOCTOR WHO CLASSIC
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ce4475cd43850831ca91ce7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=532&terminate=false&userId=
+
+#EXTINF:-1,tvg-logo="https://www.liblogo.com/img-logo/hl6410h1ae-hln-logo-hln-logos.png?width=200&height=200" group-title="📩 VARIOS",CNN ON HLN
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1,group-title="📩 VARIOS",ION
+https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
+
+#EXTINF:-1,group-title="📩 VARIOS",FAMILY TIES
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77939a630f530007dde654/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1,group-title="📩 VARIOS",PLUTO NBC NEWS NOW
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5df97894467dfa00091c873c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=213&terminate=false&userId=
+
+#EXTINF:-1,group-title="📩 VARIOS",PLUTO TV STAR TREK
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1,group-title="📩 VARIOS",PLUTO TV STAR TREK 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/634dacf51d90320007fcd5fa/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1,group-title="📩 VARIOS",TBS EAST VPN
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1,group-title="📩 VARIOS",TBS WEST VPN
+https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1,group-title="📩 VARIOS",TCM EAST VPN
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1,group-title="📩 VARIOS",TCM WEST VPN
+https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1,tvg-id="TNT EAST" tvg-logo="https://image.pngaaa.com/498/307498-middle.png?width=200&height=200" group-title="🇺🇸 TV USA",TNT EAST
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1,tvg-id="TNT WEST" tvg-logo="https://image.pngaaa.com/498/307498-middle.png?width=200&height=200" group-title="🇺🇸 TV USA",TNT WEST
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1,tvg-id="TRUTV EAST" tvg-logo="https://logodix.com/logo/963036.jpg?width=200&height=200" group-title="🇺🇸 TV USA",TRUTV EAST
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1,tvg-id="WGN CHICAGO" tvg-logo="https://logodix.com/logo/304410.jpg?width=200&height=200" group-title="🇺🇸 TV USA", WGN CHICAGO - VPN
+https://cdn1-8p.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8
+
+#EXTINF:-1,tvg-id="TELEMUNDO PR" tvg-logo="http://2.bp.blogspot.com/-fCeyxYpQ39I/UifzTS9k9RI/AAAAAAAAoJA/PvOV2vGbdyk/s1600/Telemundo+Puerto++Rico+grande.png?width=200&height=200" group-title="🇺🇸 TV USA", TELEMUNDO PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1,tvg-id="bein sport extra" tvg-logo="" group-title="📺 TV",BEIN SPORT EXTRA
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+
+#EXTINF:-1,ADN40
+https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/ajJQI39aQd69Omr0hRZw9Q/stream/d09a9bf0-efee-4182-bf96-8434a060cd4a:CBF2/master.m3u8?aid=5fea0f3673148d5d52cf6a76&adInsertionGoogleStreamId=d09a9bf0-efee-4182-bf96-8434a060cd4a%3ACBF2&pid=CymsRLfPUSZaSpXrDCij6xBgdlrsVZau&sid=GaRqVmaKVydfT0JwtF21fRCOcz0pPKM4&uid=Sj0inpE65P386Tjj2zpLzxoIAVj24zHh&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1745151854292&ot=tiYMeJ6o1cxr_ROmos8azA&proto=https&pz=us
+
+#EXTINF:-1,CANAL ONCE
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b2098304.m3u8
+
+#EXTINF:-1,HISPAN TV
+https://live.presstv.ir/hls/hispantv.m3u8
+
+#EXTINF:-1,UNIVISION
+https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist_1280x720.m3u8
+
+#EXTINF:-1,ESTRELLA NEWS
+https://estrellanews-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,TELEMUNDO FLORIDA
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+
+#EXTINF:-1,TV5 MONDE
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+
+#EXTINF,CNBC EUROPE
+https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
+
+#EXTINF:-1,CANNES LERINS TV
+https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
+
+#EXTINF:-1,BOM RADIO
+https://helm.bomradio.com
+
+#EXTINF:-1,RELAX FM
+https://28513.live.streamtheworld.com/RELAX_FM.mp3
+
+#EXTINF:-1,TBS EAST
+http://143.244.60.30/TBS/index.m3u8
+
+#EXTINF:-1,SKY NEWS
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
