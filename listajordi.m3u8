@@ -2209,6 +2209,13 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b2098304.m3u8
 #EXTINF:-1,HISPAN TV
 https://live.presstv.ir/hls/hispantv.m3u8
 
+
+#EXTINF:-1,tvg-id:"HISPAN" tvg-logo="https://davidrajadel.com/wp-content/uploads/2019/06/logo_hispanTV_bw.jpg?width=200&height=200" group-title=" 📡 TV INT'L",HISPAN TV
+https://live.presstv.ir/hls/hispantv.m3u8
+
+
+
+
 #EXTINF:-1,tvg-id="UNIVISION" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Univision-Logo-2013.png?width=200&height=200" group-title="🇺🇸 TV USA”,UNIVISION
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist_1280x720.m3u8
 
