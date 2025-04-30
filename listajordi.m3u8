@@ -229,7 +229,6 @@ http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1 tvg-logo="https://eloutput.com/wp-content/uploads/2024/02/laliga-tv-inside-logo.jpg?width=200&height=200" group-title=" 📡 TV INT'L",LA LIGA INSIDE
 https://daiconnect.com/live/hls/tvup/rk-ligainside/.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://www.fahrenheit211.net/wp-content/uploads/2020/10/sky-logo.png?width=200&height=200" group-title=" 📡 TV INT'L",SKY NEWS
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
@@ -2210,37 +2209,36 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b2098304.m3u8
 #EXTINF:-1,HISPAN TV
 https://live.presstv.ir/hls/hispantv.m3u8
 
-#EXTINF:-1,UNIVISION
+#EXTINF:-1,tvg-id="UNIVISION" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Univision-Logo-2013.png?width=200&height=200" group-title="🇺🇸 TV USA”,UNIVISION
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist_1280x720.m3u8
 
-#EXTINF:-1,ESTRELLA NEWS
+#EXTINF:-1,tvg-id="ESTRELLA" tvg-logo="https://estrellamedia.com/wp-content/uploads/2023/03/Estrella_News_Logo_Final_BLACK-2.png?width=200&height=200" group-title="🇺🇸 TV USA”,ESTRELLA NEWS
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,TELEMUNDO FLORIDA
+#EXTINF:-1,tvg-id="TELEMUNDO.TV" tvg-logo="https://logos-world.net/wp-content/uploads/2024/01/Telemundo-Logo-500x281.png?width=200&height=200" group-title="🇺🇸 TV USA”,TELEMUNDO FLORIDA
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
-#EXTINF:-1,TV5 MONDE
+#EXTINF:-1,tvg-id:"TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/1200px-Logo_TV5_Monde_-_2021.svg.png?width=200&height=200" group-title=" 📡 TV INT'L",TV5 MONDE
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 
-#EXTINF,CNBC EUROPE
+#EXTINF:-1,tvg-id:"CNBC.TV" tvg-logo="https://alchetron.com/cdn/cnbc-europe-2ab450ab-a4a9-4579-9f14-556b49dabfb-resize-750.png?width=200&height=200" group-title=" 📡 TV INT'L",CNBC EUROPE
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
 
-#EXTINF:-1,CANNES LERINS TV
+#EXTINF:-1,tvg-id:"LERINS" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/06/Entete-Lerins-TV.png?width=200&height=200" group-title=" 📡 TV INT'L",CANNES LERINS TV
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 
-#EXTINF:-1,BOM RADIO
+#EXTINF:-1,tvg-id="BOM RADIO" tvg-logo="https://cdn-profiles.tunein.com/s285231/images/logog.png?width=200&height=200" group-title="📻 RADIO",BOM RADIO
 https://helm.bomradio.com
 
-#EXTINF:-1,RELAX FM
+#EXTINF:-1,tvg-id="RELAX FM" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2019/10/relax-fm-espana.jpg?width=200&height=200" group-title="📻 RADIO",RELAX FM
 https://28513.live.streamtheworld.com/RELAX_FM.mp3
 
-#EXTINF:-1,TBS EAST
+#EXTINF:-1,tvg-id="TBS.EAST" tvg-logo="https://www.nicepng.com/png/detail/177-1773667_tbs-logo.png?width=200&height=200" group-title="🇺🇸 TV USA",TBS EAST
 http://143.244.60.30/TBS/index.m3u8
 
-#EXTINF:-1,SKY NEWS
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Sky-News-Logo-2008.png" group-title=" 📡 TV INT'L",SKY NEWS
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
-#EXTINF:-1, VERBENA FM
+#EXTINF:-1,tvg-id="VERBENA FM" tvg-logo="https://rommurcia.es/wp-content/uploads/2021/12/VERBENA1-7813773-882x600.jpg?width=200&height=200" group-title="📻 RADIO",VERBENA FM
 https://streaming12.elitecomunicacion.es:8222/stream
-
 
