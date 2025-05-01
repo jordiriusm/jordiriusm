@@ -27,7 +27,7 @@ http://185.189.225.150:85/Antena3HD/index.m3u8
 #EXTINF:-1,tvg-id="NOVA.TV" tvg-logo="https://fotografias.antena3.com/clipping/cmsimages01/2015/03/06/AB8DB790-3557-4F20-95C3-830A2A8A3970/58.jpg?width=200&height=200" group-title="📺 TV",NOVA
 http://185.189.225.150:85/nova/index.m3u8
 
-#EXTINF:-1,tvg-id="NEOX.TV" tvg-logo="https://static.grupojoly.com/clip/6dd1583c-1648-46ec-a6c3-04a88a13d9a0_source-aspect-ratio_default_0.jpg?width=200&height=200" group-title="📺 TV",NEOX
+#EXTINF:-1,tvg-id="NEOX.TV" tvg-logo="https://prnoticias.com/wp-content/uploads/2023/04/neox-new-logo-1.jpg?width=200&height=200" group-title="📺 TV",NEOX
 http://185.189.225.150:85/neox/index.m3u8
 
 #EXTINF:-1,tvg-id="MEGA.TV" tvg-logo="http://arabast.com/wp-content/uploads/2015/06/Logotipo-de-Mega.jpg?width=200&height=200" group-title="📺 TV",MEGA
@@ -133,7 +133,7 @@ https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
 #EXTINF:-1,tvg-id="APUNT.TV" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title="📺 TV",À Punt
 https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
 
-#EXTINF:-1,tvg-id="BONDIA.TV" tvg-logo="https://diretele.com/wp-content/uploads/2020/09/bon-dia-tv.png?width=200&height=200" group-title="📺 TV",Bon Dia TV
+#EXTINF:-1,tvg-id="BONDIA.TV" tvg-logo="https://iteleflix.com/archivos/Logo-Bon-Dia-TV-1.png?width=200&height=200" group-title="📺 TV",Bon Dia TV
 https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
 
 #EXTINF:-1,tvg-id="7Televalencia.TV" tvg-logo="https://pbs.twimg.com/profile_images/1876660632478437376/rbEqYeqC_200x200.jpg" group-title="📺 TV",7 TeleValencia
@@ -2201,7 +2201,7 @@ https://cdn1-8p.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8
 #EXTINF:-1,tvg-id="TELEMUNDO PR" tvg-logo="http://2.bp.blogspot.com/-fCeyxYpQ39I/UifzTS9k9RI/AAAAAAAAoJA/PvOV2vGbdyk/s1600/Telemundo+Puerto++Rico+grande.png?width=200&height=200" group-title="🇺🇸 TV USA", TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1,tvg-id="bein sport extra" tvg-logo="" group-title="📺 TV",BEIN SPORT EXTRA
+#EXTINF:-1,tvg-id="bein sport extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_español_logo.svg/1200px-Bein_Sport_en_español_logo.svg.png?width=200&height=200" group-title="📺 TV",BEIN SPORT EXTRA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
 #EXTINF:-1,ADN40
