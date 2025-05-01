@@ -190,7 +190,7 @@ https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiRVBGT1giLCJ2Ijoi
 #EXTINF:-1,tvg-id="NBCNewsNOW.us" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2019/05/nbc-news-now-logo.jpg?width=200&height=200" group-title=" 📡 TV INT'L",NBC News Now
 https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
 
-#EXTINF:-1,tvg-id="NBCNewsNOW.us" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2019/05/nbc-news-now-logo.jpg?width=200&height=200" group-title=" 📡 TV INT'L",NBC News Now (iHeart)
+#EXTINF:-1,tvg-id="NBCNewsNOW.us" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2019/05/nbc-news-now-logo.jpg?width=200&height=200" group-title=" 📻 RADIO",NBC News Now (iHeart)
 https://n06b-e2.revma.ihrhls.com/zc6043/hls.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title=" 📡 TV INT'L",FOX NEWS
@@ -259,7 +259,7 @@ https://cvtv.cvalley.net/hls/KMBCMeTV/live/pkgKMBCMeTVLo.m3u8
 #EXTINF:-1,tvg-id="ION PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png?width=200&height=200" group-title=" 📡 TV INT'L",ION PLUS
 http://fl3.moveonjoy.com/ION_Plus/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM PARIS
+#EXTINF:-1 tvg-id=BFM.TV" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png?width=200&height=200" group-title=" 📡 TV INT'L",BFM PARIS
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
 
 #EXTINF:-1,tvg-id="RNE.Radio" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="📻 RADIO",RADIO Nacional
@@ -2203,10 +2203,6 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 
 #EXTINF:-1,tvg-id="bein sport extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_español_logo.svg/1200px-Bein_Sport_en_español_logo.svg.png?width=200&height=200" group-title="📺 TV",BEIN SPORT EXTRA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-
-#EXTINF:-1,ADN40
-https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/ajJQI39aQd69Omr0hRZw9Q/stream/d09a9bf0-efee-4182-bf96-8434a060cd4a:CBF2/master.m3u8?aid=5fea0f3673148d5d52cf6a76&adInsertionGoogleStreamId=d09a9bf0-efee-4182-bf96-8434a060cd4a%3ACBF2&pid=CymsRLfPUSZaSpXrDCij6xBgdlrsVZau&sid=GaRqVmaKVydfT0JwtF21fRCOcz0pPKM4&uid=Sj0inpE65P386Tjj2zpLzxoIAVj24zHh&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1745151854292&ot=tiYMeJ6o1cxr_ROmos8azA&proto=https&pz=us
-
 
 #EXTINF:-1,tvg-id:"ONCE" tvg-logo="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2014/10/Qck6zu9S_400x400.png?width=200&height=200" group-title=" 📡 TV INT'L",CANAL ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b2098304.m3u8
