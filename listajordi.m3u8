@@ -2258,15 +2258,15 @@ https://icecast.rte.ie/radio1
 #EXTINF:-1,tvg-id="VATICAN" tvg-logo="https://media.vaticannews.va/media/content/dam-archive/vaticannews/multimedia/2021/02/09/2021.02.09-Logo-Radio-Vaticana.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg?width=200&height=200" group-title="📻 RADIO",RADIO VATICANA - ES
 https://radio.vaticannews.va/stream-es-b
 
-CANAL+ FRANCE
+#EXTINF:-1,tvg-id="CANAL+" group-title=" 📡 TV INT'L",CANAL+ FRANCE
 https://live-c2.cf.dmcdn.net/sec2(228zX-DE6W1MIrGrOJr4fdvPhV254AtsnAO4BSK731h0xWn3xbf5RJACPVCNJHvJejEsNJoL4A0K5-OT6pBL7ITQt0R8oepas16LFUnwzA7f8wj8_OJ3WfuaPc_jBPvh)/cloud/3/x5idy49/d/live-1080@60.m3u8
 
-TMC
+EXTINF:-1, tvg-id="TMC" group-title=" 📡 TV INT'L",TMC
 https://live-tmc-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI3OC4yMDkuOS4yMjkiLCJjbWNkIjoiIiwiZXhwIjoxNzQ2NjUyNzQxLCJnaWQiOiJiM2MyZjI5OTAwNTU0NTZmYWY4ZWFiNjkyYTVlOGU4NCIsImlhdCI6MTc0NjYzODM0MSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS80NGZjYjFjNzc2Mjg0ZjJkYTdjMTFlZjk0OGQ3ZWYzNC90bWMtY21hZiIsInN1YiI6ImIzYzJmMjk5MDA1NTQ1NmZhZjhlYWI2OTJhNWU4ZTg0In0.9PuevfTA65nt_f_LIIPHIl434xrwmL2DpoN6MGdi9UY/out/v1/44fcb1c776284f2da7c11ef948d7ef34/tmc-cmaf/index_2.m3u8
 
-TF1
+EXTINF:-1, tvg-id="TF1" group-title=" 📡 TV INT'L",TF1
 https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIyMTcuMTI4LjE5Ni4xMDEiLCJjbWNkIjoiIiwiZXhwIjoxNzQ2NjU2NDg3LCJnaWQiOiJjNDM1YjMyOWJjYjY0MTYzOThjMTMyMWU1ZWE5MmQwNyIsImlhdCI6MTc0NjY0MjA4NywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS83ODA1NDJmNTE2ZjE0M2ZjOGFkOWJmMTQ2MjIzMTZlNy90ZjEtY21hZiIsInN1YiI6ImM0MzViMzI5YmNiNjQxNjM5OGMxMzIxZTVlYTkyZDA3In0.1WYoaVla6lzzTuYKhtbheKVEBF-URimhCgXfNaxh0AE/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index_1.m3u8
 
-GULLI
+EXTINF:-1, tvg-id="GULLI" group-title=" 📡 TV INT'L",GULLI
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
 
