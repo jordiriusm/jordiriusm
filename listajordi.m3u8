@@ -2270,7 +2270,7 @@ https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJj
 #EXTINF:-1,tvg-id="GULLI.TV" group-title=" 📡 TV INT'L",GULLI
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
 
-#EXTINF:-1,tvg-id="TFX.TV" group-title=" 📡 TV INT'L",tfx
+#EXTINF:-1,tvg-id="TFX.TV" group-title=" 📡 TV INT'L",TFX
 https://live-tfx-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5Mi45NC43MC4zOCIsImNtY2QiOiIiLCJleHAiOjE3NDY2NTYzMTIsImdpZCI6ImIzYzJmMjk5MDA1NTQ1NmZhZjhlYWI2OTJhNWU4ZTg0IiwiaWF0IjoxNzQ2NjQxOTEyLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzU0NDA4ZDBlMzkzMDQ3NzZiZjdiMmNlNGIxNTk5MTIzL3RmeC1jbWFmIiwic3ViIjoiYjNjMmYyOTkwMDU1NDU2ZmFmOGVhYjY5MmE1ZThlODQifQ.SIe-Fnb6vwX5Xnvr7Ynxs431UxgyCWDh5xFCeDoksfs/out/v1/54408d0e39304776bf7b2ce4b1599123/tfx-cmaf/index_1.m3u8
 
 #EXTINF:-1,tvg-id="TF1SERIES" group-title=" 📡 TV INT'L",TF1 SÉRIES
@@ -2281,3 +2281,18 @@ https://28513.live.streamtheworld.com/SER_VALENCIA.mp3
 
 #EXTINF:-1,tvg-id="RADIOVALENCIAMÁS" group-title="📻 RADIO",RADIO VALENCIA MÁS
 https://28503.live.streamtheworld.com/SER_CAT_ALT1AAC.aac
+
+#EXTINF:-1,tvg-id="RMCS.TV" group-title=" 📡 TV INT'L",RMC STORY
+https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
+
+#EXTINF:-1,tvg-id="RMCD.TV" group-title=" 📡 TV INT'L",RMC DÉCOUVERTE
+https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
+
+#EXTINF:-1,tvg-id="CHERIE25.TV" group-title=" 📡 TV INT'L",CHÉRIE 25
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+
+#EXTINF:-1,tvg-id="LCI.TV" group-title=" 📡 TV INT'L",LCI
+https://live-lci-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIyMC4xNjEuNzcuMjM4IiwiY21jZCI6IiIsImV4cCI6MTc0NjcxMDg5NCwiZ2lkIjoiZTgyODEzMzgtMzRkZS00NTA3LTgyNzgtZjEyOGEwYWRmOTIyIiwiaWF0IjoxNzQ2Njk2NDk0LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjIwMDAwMDAsInN0ZW0iOiIvb3V0L3YxLzkxN2FhZDRmYTcyZjQyZjdiYTdmNDg2MjI2ZjU0YmM0L2xjaS1jbWFmIiwic3ViIjoiZTgyODEzMzgtMzRkZS00NTA3LTgyNzgtZjEyOGEwYWRmOTIyIn0.hhJLbPHw2gutxIs2k6rhc2FnRYFPJIJBvQXftfknKgE/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index_1.m3u8
+
+#EXTINF:-1,tvg-id="FRANCEINFO.TV" group-title=" 📡 TV INT'L",FRANCE INFO
+https://live-b.cf.dmcdn.net/sec2(-U3Cf3cabfZpBE2moNkTSwpn5-UR0_tjBzjDL7twU297l21SMVab1VqdlywZH7Vck9ts4Wzx6ENan1HI2sRUbkBFuFPs0q35fjIb1PJl9A6FbzdtJHmHdfxv7BOFRweK)/dm/3/x4rdeu6/d/live-720.m3u8
