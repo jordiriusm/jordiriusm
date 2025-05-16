@@ -193,7 +193,7 @@ https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
 #EXTINF:-1,tvg-id="NBCNewsNOW.us" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2019/05/nbc-news-now-logo.jpg?width=200&height=200" group-title="📻 RADIO",NBC News Now (iHeart)
 https://n06b-e2.revma.ihrhls.com/zc6043/hls.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title=" 📡 TV INT'L",FOX NEWS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title=" 📡 TV INT'L",LIVENOW FROM FOX
 https://livetv-fa.tubi.video/fox-live-now/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title=" 📡 TV INT'L",LIVENOW FROM FOX
@@ -243,12 +243,6 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 #EXTINF:-1,tvg-id="AFGAN" tvg-logo="https://i0.wp.com/www.afghanlive.tv/wp-content/uploads/2020/05/afghanistan-international-tv.png?width=200&height=200" group-title=" 📡 TV INT'L",Afganistán International
 https://hls.afintl.com/hls/stream.m3u8
-
-#EXTINF:-1,tvg-id="UniversalCinema.us" tvg-logo="https://i.imgur.com/XxfET68.png?width=200&height=200" group-title="🎬 CINE",Universal Cinema
-http://190.2.212.209:8050/play/a0q3
-
-#EXTINF:-1,tvg-id="SundanceTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png?width=200&height=200" group-title="🎬 CINE",Sundance TV East
-http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
 
 #EXTINF:-1,tvg-id="TMZ" tvg-logo="https://www.kindpng.com/picc/m/403-4034745_tmz-logo-png-transparent-png.png?width=200&height=200" group-title=" 📡 TV INT'L",TMZ
 https://apollo.production-public.tubi.io/live/ac-tmz.m3u8
@@ -1312,36 +1306,6 @@ https://tvpass.org/live/yes-network/sd
 #EXTINF:-1,tvg-id="yes-network" Yes Network HD" group-title="🇺🇸 TV USA",Yes Network HD
 https://tvpass.org/live/yes-network/hd
 
-#EXTINF:-1,tvg-id="Flooxer.TV" tvg-logo="https://img.europapress.net/fotoweb/fotonoticia_20151117160020_1280.jpg?width=200&height=200" group-title="📶 FAST",flooxer
-https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
-
-#EXTINF:-1,tvg-id="A3P_Clasicos.TV" tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="📶 FAST",Atresplayer Clásicos
-https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
-
-#EXTINF:-1,tvg-id="A3P_Comedia.TV" tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="📶 FAST",Atresplayer Comedia
-https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
-
-#EXTINF:-1,tvg-id="A3P_MentesInqui.TV" tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="📶 FAST",Atresplayer Mentes Inquietas
-https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
-
-#EXTINF:-1,tvg-id="A3P_Multicine.TV" tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="📶 FAST",Atresplayer Multicine
-https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
-
-#EXTINF:-1,tvg-id="A3P_Hormiguero.TV" tvg-logo="https://graph.facebook.com/elhormiguero/picture?width=200&height=200" group-title="📶 FAST",El Hormiguero
-https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
-
-#EXTINF:-1,tvg-id="A3P_ClubComedia.TV" tvg-logo="https://graph.facebook.com/ElClubDeLaComediaEnlaSexta/picture?width=200&height=200" group-title="📶 FAST",El club de la comedia
-https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
-
-#EXTINF:-1,tvg-id="A3P_EqInvestigacion.TV" tvg-logo="https://graph.facebook.com/EqInvestigacion/picture?width=200&height=200" group-title="📶 FAST",Equipo de investigación
-https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
-
-#EXTINF:-1,tvg-id="A3P_AquiNoHayQ.TV" tvg-logo="https://graph.facebook.com/AQUINHQV/picture?width=200&height=200" group-title="📶 FAST",Aquí no hay quién viva
-https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
-
-#EXTINF:-1,tvg-id="A3P_FisicaOQuimica.TV" tvg-logo="https://graph.facebook.com/fisicaoquimica/picture?width=200&height=200" group-title="📶 FAST",Física o química
-https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61.m3u8
-
 #EXTINF:-1,tvg-id="RTVE_Estrellas.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="📶 FAST",RTVE La Moderna
 https://ztnr.rtve.es/ztnr/2472038.m3u8
 
@@ -1354,7 +1318,7 @@ https://ztnr.rtve.es/ztnr/6909845.m3u8
 #EXTINF:-1,tvg-id="RTVE_Promesa.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="📶 FAST",RTVE La promesa
 https://ztnr.rtve.es/ztnr/2472039.m3u8
 
-#EXTINF:-1,tvg-id="RTVE_Epoca.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="📶 FAST",RTVE Maestros de la Moda
+#EXTINF:-1,tvg-id="RTVE_Euro.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="📶 FAST",RTVE Eurovision
 https://ztnr.rtve.es/ztnr/2472035.m3u8
 
 #EXTINF:-1,tvg-id="RTVE_Series.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="📶 FAST",RTVE Saber y ganar
@@ -1553,7 +1517,7 @@ http://185.189.225.150:85/NationalGeographic/index.m3u8
 #EXTINF:-1,group-title="🛰️ GRUPO",MTV
 http://185.189.225.150:85/MTV/index.m3u8
 
-#EXTINF:-1,group-title="🛰️ GRUPO",TV2
+#EXTINF:-1,group-title="🛰️ GRUPO",LA 2
 http://185.189.225.150:85/TV2/index.m3u8
 
 #EXTINF:-1,group-title="🛰️ GRUPO",CCTV
@@ -2258,23 +2222,8 @@ https://icecast.rte.ie/radio1
 #EXTINF:-1,tvg-id="VATICAN" tvg-logo="https://media.vaticannews.va/media/content/dam-archive/vaticannews/multimedia/2021/02/09/2021.02.09-Logo-Radio-Vaticana.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg?width=200&height=200" group-title="📻 RADIO",RADIO VATICANA - ES
 https://radio.vaticannews.va/stream-es-b
 
-#EXTINF:-1,tvg-id="CANAL+" group-title=" 📡 TV INT'L",CANAL+ FRANCE
-https://live-c2.cf.dmcdn.net/sec2(228zX-DE6W1MIrGrOJr4fdvPhV254AtsnAO4BSK731h0xWn3xbf5RJACPVCNJHvJejEsNJoL4A0K5-OT6pBL7ITQt0R8oepas16LFUnwzA7f8wj8_OJ3WfuaPc_jBPvh)/cloud/3/x5idy49/d/live-1080@60.m3u8
-
-#EXTINF:-1,tvg-id="TMC.TV" group-title=" 📡 TV INT'L",TMC
-https://live-tmc-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI3OC4yMDkuOS4yMjkiLCJjbWNkIjoiIiwiZXhwIjoxNzQ2NjUyNzQxLCJnaWQiOiJiM2MyZjI5OTAwNTU0NTZmYWY4ZWFiNjkyYTVlOGU4NCIsImlhdCI6MTc0NjYzODM0MSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS80NGZjYjFjNzc2Mjg0ZjJkYTdjMTFlZjk0OGQ3ZWYzNC90bWMtY21hZiIsInN1YiI6ImIzYzJmMjk5MDA1NTQ1NmZhZjhlYWI2OTJhNWU4ZTg0In0.9PuevfTA65nt_f_LIIPHIl434xrwmL2DpoN6MGdi9UY/out/v1/44fcb1c776284f2da7c11ef948d7ef34/tmc-cmaf/index_2.m3u8
-
-#EXTINF:-1,tvg-id="TF1.TV" group-title=" 📡 TV INT'L",TF1
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIyMTcuMTI4LjE5Ni4xMDEiLCJjbWNkIjoiIiwiZXhwIjoxNzQ2NjU2NDg3LCJnaWQiOiJjNDM1YjMyOWJjYjY0MTYzOThjMTMyMWU1ZWE5MmQwNyIsImlhdCI6MTc0NjY0MjA4NywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS83ODA1NDJmNTE2ZjE0M2ZjOGFkOWJmMTQ2MjIzMTZlNy90ZjEtY21hZiIsInN1YiI6ImM0MzViMzI5YmNiNjQxNjM5OGMxMzIxZTVlYTkyZDA3In0.1WYoaVla6lzzTuYKhtbheKVEBF-URimhCgXfNaxh0AE/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index_1.m3u8
-
 #EXTINF:-1,tvg-id="GULLI.TV" group-title=" 📡 TV INT'L",GULLI
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
-
-#EXTINF:-1,tvg-id="TFX.TV" group-title=" 📡 TV INT'L",TFX
-https://live-tfx-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5Mi45NC43MC4zOCIsImNtY2QiOiIiLCJleHAiOjE3NDY2NTYzMTIsImdpZCI6ImIzYzJmMjk5MDA1NTQ1NmZhZjhlYWI2OTJhNWU4ZTg0IiwiaWF0IjoxNzQ2NjQxOTEyLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzU0NDA4ZDBlMzkzMDQ3NzZiZjdiMmNlNGIxNTk5MTIzL3RmeC1jbWFmIiwic3ViIjoiYjNjMmYyOTkwMDU1NDU2ZmFmOGVhYjY5MmE1ZThlODQifQ.SIe-Fnb6vwX5Xnvr7Ynxs431UxgyCWDh5xFCeDoksfs/out/v1/54408d0e39304776bf7b2ce4b1599123/tfx-cmaf/index_1.m3u8
-
-#EXTINF:-1,tvg-id="TF1SERIES" group-title=" 📡 TV INT'L",TF1 SÉRIES
-https://live-tsf-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5Mi45NC43MC4zOCIsImNtY2QiOiIiLCJleHAiOjE3NDY2NTYzMTUsImdpZCI6ImIzYzJmMjk5MDA1NTQ1NmZhZjhlYWI2OTJhNWU4ZTg0IiwiaWF0IjoxNzQ2NjQxOTE1LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzk5OTA2NzFiOTY2MzRkNzk5NTUyMzU4MzUyYjI1NzBhL3RmMS1zZXJpZXMtZmlsbS1jbWFmIiwic3ViIjoiYjNjMmYyOTkwMDU1NDU2ZmFmOGVhYjY5MmE1ZThlODQifQ.2FIbsB8mgcWb-Q8WnqqwiUIse_10qRJhRjLgq3I88l4/out/v1/9990671b96634d799552358352b2570a/tf1-series-film-cmaf/index_1.m3u8
 
 #EXTINF:-1,tvg-id="RADIOVALENCIA" group-title="📻 RADIO",RADIO VALENCIA
 https://28513.live.streamtheworld.com/SER_VALENCIA.mp3
@@ -2291,8 +2240,3 @@ https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1,tvg-id="CHERIE25.TV" group-title=" 📡 TV INT'L",CHÉRIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 
-#EXTINF:-1,tvg-id="LCI.TV" group-title=" 📡 TV INT'L",LCI
-https://live-lci-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIyMC4xNjEuNzcuMjM4IiwiY21jZCI6IiIsImV4cCI6MTc0NjcxMDg5NCwiZ2lkIjoiZTgyODEzMzgtMzRkZS00NTA3LTgyNzgtZjEyOGEwYWRmOTIyIiwiaWF0IjoxNzQ2Njk2NDk0LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjIwMDAwMDAsInN0ZW0iOiIvb3V0L3YxLzkxN2FhZDRmYTcyZjQyZjdiYTdmNDg2MjI2ZjU0YmM0L2xjaS1jbWFmIiwic3ViIjoiZTgyODEzMzgtMzRkZS00NTA3LTgyNzgtZjEyOGEwYWRmOTIyIn0.hhJLbPHw2gutxIs2k6rhc2FnRYFPJIJBvQXftfknKgE/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index_1.m3u8
-
-#EXTINF:-1,tvg-id="FRANCE2.TV" group-title=" 📡 TV INT'L",FRANCE 2
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/F-38jp3T4DpWi4c3tz-c6r5IhsV9jx7sAlxhkM4N82is-hYR5sS0uFP6LcDEchVnP_Ha_zpwCAcKAk89Ul9O-02H3RtX5QEfyMqsIAazs_GZ7YXkvApavtSgQ4tVLrW1TIABxZEDp0C6YAhNIeaCa8jqhjzv-x48xFSzLHfSS6M/hls/index.m3u8
