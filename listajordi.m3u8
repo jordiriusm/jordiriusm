@@ -2281,3 +2281,18 @@ http://tsfdirecto.tsf.pt/tsfdirecto.mp3
 
 #EXTINF:-1,tvg-id="COMERCIAL" tvg-logo="https://fotos.web.sapo.io/i/G63176dae/21209766_vpgJO.png?width=200&height=200" group-title="📻 RADIO",RÁDIO COMERCIAL
 http://mcrscast1.mcr.iol.pt/comercial.mp3
+
+#EXTINF:0,France Culture - direct
+http://direct.franceculture.fr/live/franceculture-midfi.mp3
+
+#EXTINF:0,France Inter
+http://icecast.radiofrance.fr/franceinter-hifi.aac?id=radiofrance
+
+#EXTINF:0,France Musique
+http://direct.francemusique.fr/live/francemusique-midfi.mp3
+
+#EXTINF:0,France Info
+https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8
+
+#EXTINF:0,France Culture - alternative link
+https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8?id=radiofrance
