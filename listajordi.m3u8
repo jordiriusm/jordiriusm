@@ -2263,3 +2263,21 @@ https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 
 #EXTINF:-1,tvg-id="TVI FICÇAO" group-title=" 📡 TV INT'L",TVI FICÇAO
 https://video-auth1.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+
+#EXTINF:-1,tvg-id="ANTENA 1" tvg-logo="https://cdn-radiotime-logos.tunein.com/s8592d.png?width=200&height=200" group-title="📻 RADIO",ANTENA 1
+http://radiocast.rtp.pt/antena180a.mp3
+
+#EXTINF:-1,tvg-id="ANTENA 2" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena2_negativo_vert_RGB.png?width=200&height=200" group-title="📻 RADIO",ANTENA 2
+http://radiocast.rtp.pt/antena280a.mp3
+
+#EXTINF:-1,tvg-id="ANTENA 3" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena3_positivo_vert_RGB.png?width=200&height=200" group-title="📻 RADIO",ANTENA 3
+https://radiocast.rtp.pt/antena380a.mp3
+
+#EXTINF:-1,tvg-id="RENASCENÇA" tvg-logo="https://cdn.sintonizate.net/r/Renascenca.png?width=200&height=200" group-title="📻 RADIO",RÁDIO RENASCENÇA
+http://23603.live.streamtheworld.com/RADIO_RENASCENCA.mp3
+
+#EXTINF:-1,tvg-id="TSF" tvg-logo="https://www.eurotopics.net/cache/images/3/183303-medium_logo-teaser300.png?width=200&height=200" group-title="📻 RADIO",TSF RÁDIO NOTÍCIAS
+http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+
+#EXTINF:-1,tvg-id="COMERCIAL" tvg-logo="https://fotos.web.sapo.io/i/G63176dae/21209766_vpgJO.png?width=200&height=200" group-title="📻 RADIO",RÁDIO COMERCIAL
+http://mcrscast1.mcr.iol.pt/comercial.mp3
