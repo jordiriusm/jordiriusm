@@ -226,6 +226,9 @@ https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png" group-title=" 📡 TV INT'L",BBC NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
 
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title=" 📡 TV INT'L",NHK WORLD
+https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
+
 #EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20121007054058/disney/images/3/3a/2000px-ESPN_Deportes_logo.png?width=200&height=200" group-title=" 📡 TV INT'L",ESPN DEPORTES
 http://190.92.10.66:4000/play/a003/index.m3u8
 
@@ -2240,3 +2243,23 @@ https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1,tvg-id="CHERIE25.TV" group-title=" 📡 TV INT'L",CHÉRIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 
+#EXTINF:-1,tvg-id="TVI AFRICA" group-title=" 📡 TV INT'L",TVI ÁFRICA
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+
+#EXTINF:-1,tvg-id="SICINTL" group-title=" 📡 TV INT'L",SIC INTERNACIONAL
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+
+#EXTINF:-1,tvg-id="RTP3" group-title=" 📡 TV INT'L",RTP3
+https://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-id="PORTO" group-title=" 📡 TV INT'L",PORTO CANAL
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-id="SICNOTICIAS" group-title=" 📡 TV INT'L",SIC NOTÍCIAS
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+
+#EXTINF:-1,tvg-id="TVI REALITY" group-title=" 📡 TV INT'L",TVI REALITY
+https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
+
+#EXTINF:-1,tvg-id="TVI FICÇAO" group-title=" 📡 TV INT'L",TVI FICÇAO
+https://video-auth1.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
