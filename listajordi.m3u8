@@ -2357,7 +2357,7 @@ https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1_4.m3u8
 #EXTINF:-1,FOX 13 group-title=" 📡 TV INT'L"
 https://apollo.production-public.tubi.io/live/ac-kcpq.m3u8?ap.debug=0&ap.pt=0&ap.sid=1ce8023c-9ddd-4765-839e-72ff627f67db&ap.skip_fallback=0
 
-#EXTINF:-1,AMILY TIES group-title=" 📡 TV SERIES"
+#EXTINF:-1,FAMILY TIES group-title=" 📡 TV SERIES"
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77939a630f530007dde654/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca60-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2d96a4ae-0762-4da9-b4eb-3198467ed4a1
 
 #EXTINF:-1,CHEERS group-title=" 📡 TV SERIES"
@@ -2381,7 +2381,7 @@ http://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8
 #EXTINF:-1,DISTRITO TV group-title="📺 TV"
 https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/fragments/live-2000/index.m3u8
 
-#EXTINF:-1,CORTS VALENCIANES
+#EXTINF:-1,CORTS VALENCIANES group-title="📺 TV"
 https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8
 
 #EXTINF:-1,TELECLÁSICA group-title=" 📡 TV INT'L"
