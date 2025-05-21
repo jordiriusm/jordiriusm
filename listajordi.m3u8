@@ -2282,20 +2282,50 @@ http://tsfdirecto.tsf.pt/tsfdirecto.mp3
 #EXTINF:-1,tvg-id="COMERCIAL" tvg-logo="https://fotos.web.sapo.io/i/G63176dae/21209766_vpgJO.png?width=200&height=200" group-title="📻 RADIO",RÁDIO COMERCIAL
 http://mcrscast1.mcr.iol.pt/comercial.mp3
 
-#EXTINF:-1,France Culture - direct
+#EXTINF:-1,France Culture - direct group-title="📻 RADIO"
 http://direct.franceculture.fr/live/franceculture-midfi.mp3
 
-#EXTINF:-1,France Inter
+#EXTINF:-1,France Inter group-title="📻 RADIO"
 http://icecast.radiofrance.fr/franceinter-hifi.aac?id=radiofrance
 
-#EXTINF:-1,France Musique
+#EXTINF:-1,France Musique group-title="📻 RADIO"
 http://direct.francemusique.fr/live/francemusique-midfi.mp3
 
-#EXTINF:-1,France Info
+#EXTINF:-1,France Info group-title="📻 RADIO"
 https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8
 
-#EXTINF:-1,France Culture - alternative link
+#EXTINF:-1,France Culture - alternative link group-title="📻 RADIO"
 https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8?id=radiofrance
 
-#EXTINF:-1,SUR PRUEBA
-https://www.youtube-nocookie.com/embed/gtGqtw82lRE?autoplay=1&mute=1
+#EXTINF:-1,TRAVEL XP group-title=" 📡 TV INT'L"
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,ACTION HOLLYWOOD MOVIES group-title=" 📡 TV INT'L"
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+#EXTINF:-1,WOMEN SPORTS NETWORK group-title=" 📡 TV INT'L"
+https://csm-e-cetubiausw2live-0454b42cc435a781e.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8?yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
+
+#EXTINF:-1,SOLO CALCIO group-title=" 📡 TV INT'L"
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
+
+#EXTINF:-1,GLOBAL NEWS group-title=" 📡 TV INT'L"
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+
+#EXTINF:-1,ACCUWEATHER group-title=" 📡 TV INT'L"
+https://amg00684-accuweather-accuweather-plex-jbd2s.amagi.tv/playlist/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1
+
+#EXTINF:-1,RUV 1 group-title=" 📡 TV INT'L"
+https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
+
+#EXTINF:-1,RUV 2 group-title=" 📡 TV INT'L"
+https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
+
+#EXTINF:-1,DAS ERSTE group-title=" 📡 TV INT'L"
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+
+#EXTINF:-1,ABC NEWS AUSTRALIA group-title=" 📡 TV INT'L"
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+
+#EXTINF:-1,BLOOMBERG QUICKTAKE
+https://www.bloomberg.com/media-manifest/streams/qt.m3u8 group-title=" 📡 TV INT'L"
