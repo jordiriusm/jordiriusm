@@ -2336,94 +2336,94 @@ https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 #EXTINF:-1,AFGHANISTAN INTERNATIONAL group-title=" 📡 TV INT'L"
 https://hls.afintl.com/hls/stream.m3u8
 
-SAMUEL GOLDWIN CLASSICS
+SAMUEL GOLDWIN CLASSICS group-title="🎬 CINE"
 https://samuelgoldwyn-classics-1-us.roku.wurl.tv/2000.m3u8
 
-STARZ ENCORE CLASSICS
+STARZ ENCORE CLASSICS group-title="🎬 CINE"
 http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 
-FREEBIE TV
+FREEBIE TV group-title=" 📡 TV INT'L"
 https://d26pp4b7ojtlyn.cloudfront.net/scheduler/scheduleMaster/187.m3u8
 
-LIFETIME
+LIFETIME group-title="🎬 CINE"
 https://fl3.moveonjoy.com/LIFETIME/index.m3u8
 
-OXYGEN
+OXYGEN group-title=" 📡 TV INT'L"
 http://fl3.moveonjoy.com/OXYGEN/index.m3u8
 
-NBCLX
+NBCLX group-title=" 📡 TV INT'L"
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1_4.m3u8
 
-FOX 13
+FOX 13 group-title=" 📡 TV INT'L"
 https://apollo.production-public.tubi.io/live/ac-kcpq.m3u8?ap.debug=0&ap.pt=0&ap.sid=1ce8023c-9ddd-4765-839e-72ff627f67db&ap.skip_fallback=0
 
-FAMILY TIES
+FAMILY TIES group-title=" 📡 TV SERIES"
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77939a630f530007dde654/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca60-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2d96a4ae-0762-4da9-b4eb-3198467ed4a1
 
-CHEERS
+CHEERS group-title=" 📡 TV SERIES"
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e7f224676bf00076a4d8d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cee87-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=24ad2bd4-299f-4716-aef9-02a85807bad5
 
-MATLOCK
+MATLOCK group-title=" 📡 TV SERIES"
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f754f98185580007eb0754/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29b4c4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d5919973-30db-4595-8199-595f82332246
 
-PARAMOUNT NETWORK USA
+PARAMOUNT NETWORK USA group-title="🎬 CINE"
 http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
-STAR TREK
+STAR TREK group-title="🎬 CINE"
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d71afd5b-b301-46b0-bf30-b8f1833c66d5
 
-SHOWTIME
+SHOWTIME group-title="🎬 CINE"
 http://fl3.moveonjoy.com/SHOWTIME/index.m3u8
 
 SHOWTIME 2
-http://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8
+http://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8 group-title="🎬 CINE"
 
-DISTRITO TV
+DISTRITO TV group-title="📺 TV"
 https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/fragments/live-2000/index.m3u8
 
 CORTS VALENCIANES
 https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8
 
 TELECLÁSICA
-https://ssh101.bozztv.com/ssh101/teleclasik/chunks.m3u8
+https://ssh101.bozztv.com/ssh101/teleclasik/chunks.m3u8 group-title=" 📡 TV INT'L"
 
-ORF 2
-https://strm.hdtvizlecanli.com/live/orf2.m3u8
+ORF 2 group-title=" 📡 TV INT'L"
+https://strm.hdtvizlecanli.com/live/orf2.m3u8 group-title=" 📡 TV INT'L"
 
-DR1
-https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/6.m3u8
+DR1 group-title=" 📡 TV INT'L"
+https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/6.m3u8 group-title=" 📡 TV INT'L"
 
-FRANCE 2
-http://69.64.57.208/france2/mono.m3u8
+FRANCE 2 group-title=" 📡 TV INT'L"
+http://69.64.57.208/france2/mono.m3u8 group-title=" 📡 TV INT'L"
 
-FRANCE 5
-http://69.64.57.208/france5/mono.m3u8
+FRANCE 5 group-title=" 📡 TV INT'L"
+http://69.64.57.208/france5/mono.m3u8 group-title=" 📡 TV INT'L"
 
-TG4
-https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
+TG4 group-title=" 📡 TV INT'L"
+https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8 group-title=" 📡 TV INT'L"
 
-RAI 1 - VPN
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5
+RAI 1 - VPN group-title=" 📡 VPN"
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5 
 
-RAI 2 - VPN
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=rainet/4.0.5
+RAI 2 - VPN group-title=" 📡 VPN"
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=rainet/4.0.5 
 
-RAI 3 - VPN
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=rainet/4.0.5
+RAI 3 - VPN group-title=" 📡 VPN"
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=rainet/4.0.5 
 
-RETE 4 - VPN
-https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+RETE 4 - VPN group-title=" 📡 VPN"
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8 
 
-CANALE 5 - VPN
-https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+CANALE 5 - VPN group-title=" 📡 VPN"
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8 
 
-ITALIA 1- VPN
-https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+ITALIA 1- VPN group-title=" 📡 VPN"
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8 
 
-LA 5 - VPN
-https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+LA 5 - VPN group-title=" 📡 VPN"
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8 
 
-AZTECA INTERNACIONAL
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+AZTECA INTERNACIONAL group-title=" 📡 TV INT'L"
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8 
 
 
