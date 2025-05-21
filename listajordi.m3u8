@@ -2369,61 +2369,61 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 PARAMOUNT NETWORK USA group-title="🎬 CINE"
 http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
-STAR TREK group-title="🎬 CINE"
+#EXTINF:-1,STAR TREK group-title=" 📡 TV SERIES"
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d71afd5b-b301-46b0-bf30-b8f1833c66d5
 
-SHOWTIME group-title="🎬 CINE"
+#EXTINF:-1,SHOWTIME group-title="🎬 CINE"
 http://fl3.moveonjoy.com/SHOWTIME/index.m3u8
 
-SHOWTIME 2 group-title="🎬 CINE"
+#EXTINF:-1,SHOWTIME 2 group-title="🎬 CINE"
 http://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8 
 
-DISTRITO TV group-title="📺 TV"
+#EXTINF:-1,DISTRITO TV group-title="📺 TV"
 https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/fragments/live-2000/index.m3u8
 
-CORTS VALENCIANES
+#EXTINF:-1,CORTS VALENCIANES
 https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8
 
-TELECLÁSICA group-title=" 📡 TV INT'L"
+#EXTINF:-1,TELECLÁSICA group-title=" 📡 TV INT'L"
 https://ssh101.bozztv.com/ssh101/teleclasik/chunks.m3u8 
 
-ORF 2 group-title=" 📡 TV INT'L"
+#EXTINF:-1,ORF 2 group-title=" 📡 TV INT'L"
 https://strm.hdtvizlecanli.com/live/orf2.m3u8 group-title=" 📡 TV INT'L"
 
-DR1 group-title=" 📡 TV INT'L"
+#EXTINF:-1,DR1 group-title=" 📡 TV INT'L"
 https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/6.m3u8 group-title=" 📡 TV INT'L"
 
-FRANCE 2 group-title=" 📡 TV INT'L"
+#EXTINF:-1,FRANCE 2 group-title=" 📡 TV INT'L"
 http://69.64.57.208/france2/mono.m3u8 group-title=" 📡 TV INT'L"
 
-FRANCE 5 group-title=" 📡 TV INT'L"
+#EXTINF:-1,FRANCE 5 group-title=" 📡 TV INT'L"
 http://69.64.57.208/france5/mono.m3u8 group-title=" 📡 TV INT'L"
 
-TG4 group-title=" 📡 TV INT'L"
+#EXTINF:-1,TG4 group-title=" 📡 TV INT'L"
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8 group-title=" 📡 TV INT'L"
 
-RAI 1 - VPN group-title=" 📡 VPN"
+#EXTINF:-1,RAI 1 - VPN group-title=" 📡 VPN"
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5 
 
-RAI 2 - VPN group-title=" 📡 VPN"
+#EXTINF:-1,RAI 2 - VPN group-title=" 📡 VPN"
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=rainet/4.0.5 
 
-RAI 3 - VPN group-title=" 📡 VPN"
+#EXTINF:-1,RAI 3 - VPN group-title=" 📡 VPN"
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=rainet/4.0.5 
 
-RETE 4 - VPN group-title=" 📡 VPN"
+#EXTINF:-1,RETE 4 - VPN group-title=" 📡 VPN"
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8 
 
-CANALE 5 - VPN group-title=" 📡 VPN"
+#EXTINF:-1,CANALE 5 - VPN group-title=" 📡 VPN"
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8 
 
-ITALIA 1- VPN group-title=" 📡 VPN"
+#EXTINF:-1,ITALIA 1- VPN group-title=" 📡 VPN"
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8 
 
-LA 5 - VPN group-title=" 📡 VPN"
+#EXTINF:-1,LA 5 - VPN group-title=" 📡 VPN"
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8 
 
-AZTECA INTERNACIONAL group-title=" 📡 TV INT'L"
+#EXTINF:-1,AZTECA INTERNACIONAL group-title=" 📡 TV INT'L"
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8 
 
 
