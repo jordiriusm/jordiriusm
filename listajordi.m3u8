@@ -2375,8 +2375,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 SHOWTIME group-title="🎬 CINE"
 http://fl3.moveonjoy.com/SHOWTIME/index.m3u8
 
-SHOWTIME 2
-http://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8 group-title="🎬 CINE"
+SHOWTIME 2 group-title="🎬 CINE"
+http://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8 
 
 DISTRITO TV group-title="📺 TV"
 https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/fragments/live-2000/index.m3u8
@@ -2384,8 +2384,8 @@ https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/fragments/live-2000/in
 CORTS VALENCIANES
 https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8
 
-TELECLÁSICA
-https://ssh101.bozztv.com/ssh101/teleclasik/chunks.m3u8 group-title=" 📡 TV INT'L"
+TELECLÁSICA group-title=" 📡 TV INT'L"
+https://ssh101.bozztv.com/ssh101/teleclasik/chunks.m3u8 
 
 ORF 2 group-title=" 📡 TV INT'L"
 https://strm.hdtvizlecanli.com/live/orf2.m3u8 group-title=" 📡 TV INT'L"
