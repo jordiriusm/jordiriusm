@@ -2336,37 +2336,37 @@ https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 #EXTINF:-1,AFGHANISTAN INTERNATIONAL group-title=" 📡 TV INT'L"
 https://hls.afintl.com/hls/stream.m3u8
 
-SAMUEL GOLDWIN CLASSICS group-title="🎬 CINE"
+#EXTINF:-1,SAMUEL GOLDWIN CLASSICS group-title="🎬 CINE"
 https://samuelgoldwyn-classics-1-us.roku.wurl.tv/2000.m3u8
 
-STARZ ENCORE CLASSICS group-title="🎬 CINE"
+#EXTINF:-1,STARZ ENCORE CLASSICS group-title="🎬 CINE"
 http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 
-FREEBIE TV group-title=" 📡 TV INT'L"
+#EXTINF:-1,FREEBIE TV group-title=" 📡 TV INT'L"
 https://d26pp4b7ojtlyn.cloudfront.net/scheduler/scheduleMaster/187.m3u8
 
-LIFETIME group-title="🎬 CINE"
+#EXTINF:-1,LIFETIME group-title="🎬 CINE"
 https://fl3.moveonjoy.com/LIFETIME/index.m3u8
 
-OXYGEN group-title=" 📡 TV INT'L"
+#EXTINF:-1,OXYGEN group-title=" 📡 TV INT'L"
 http://fl3.moveonjoy.com/OXYGEN/index.m3u8
 
-NBCLX group-title=" 📡 TV INT'L"
+#EXTINF:-1,NBCLX group-title=" 📡 TV INT'L"
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1_4.m3u8
 
-FOX 13 group-title=" 📡 TV INT'L"
+#EXTINF:-1,FOX 13 group-title=" 📡 TV INT'L"
 https://apollo.production-public.tubi.io/live/ac-kcpq.m3u8?ap.debug=0&ap.pt=0&ap.sid=1ce8023c-9ddd-4765-839e-72ff627f67db&ap.skip_fallback=0
 
-FAMILY TIES group-title=" 📡 TV SERIES"
+#EXTINF:-1,AMILY TIES group-title=" 📡 TV SERIES"
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77939a630f530007dde654/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca60-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2d96a4ae-0762-4da9-b4eb-3198467ed4a1
 
-CHEERS group-title=" 📡 TV SERIES"
+#EXTINF:-1,CHEERS group-title=" 📡 TV SERIES"
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e7f224676bf00076a4d8d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cee87-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=24ad2bd4-299f-4716-aef9-02a85807bad5
 
-MATLOCK group-title=" 📡 TV SERIES"
+#EXTINF:-1,MATLOCK group-title=" 📡 TV SERIES"
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f754f98185580007eb0754/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29b4c4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d5919973-30db-4595-8199-595f82332246
 
-PARAMOUNT NETWORK USA group-title="🎬 CINE"
+#EXTINF:-1,PARAMOUNT NETWORK USA group-title="🎬 CINE"
 http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
 #EXTINF:-1,STAR TREK group-title=" 📡 TV SERIES"
@@ -2425,5 +2425,4 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 
 #EXTINF:-1,AZTECA INTERNACIONAL group-title=" 📡 TV INT'L"
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8 
-
 
