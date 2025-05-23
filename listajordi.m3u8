@@ -2432,7 +2432,7 @@ http://143.244.60.30/NBC_EAST/index.m3u8
 #EXTINF:-1,tvg-logo="https://i.pinimg.com/originals/0d/76/b4/0d76b4a20b2310ee0c5eadb9eedd60c9.jpg?width=200&height=200", TBS
 http://143.244.60.30/TBS/index.m3u8
 
-#EXTINF:-1,tvg-logo="", TCM USA group-title="🎬 CINE"
+#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-FE4voNt8CyU/YTB5OjwRRlI/AAAAAAAAAps/e3GEB4pu1WIUOe7TBsbkvF1cP-1nBcM0gCLcBGAsYHQ/s1280/tcm%2Btvlaint.png?width=200&height=200", TCM USA group-title="🎬 CINE"
 http://143.244.60.30/TCM/index.m3u8
 
 #EXTINF:-1,tvg-logo="", NICK DEUTSCHLAND
