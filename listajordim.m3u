@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:3
+#EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg" group-title="📺 TV" tvg-name="La 1",La 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
