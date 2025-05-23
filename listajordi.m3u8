@@ -2423,10 +2423,10 @@ https://tvradio-1-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1,PBS group-title=" 📡 VPN"
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 
-#EXTINF:-1,tvg-logo="", ABC group-title="🌎 NETWORKS" 
+#EXTINF:-1,tvg-logo="https://www.famouslogos.org/wp-content/uploads/2012/02/abc-current-logo1-300x300.png?width=200&height=200", ABC group-title="🌎 NETWORKS" 
 http://143.244.60.30/ABC_EAST/index.m3u8
 
-#EXTINF:-1,tvg-logo="", NBC group-title="🌎 NETWORKS"
+#EXTINF:-1,tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/09/NBC-Simbolo-650x366.png?width=200&height=200", NBC group-title="🌎 NETWORKS"
 http://143.244.60.30/NBC_EAST/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://i.pinimg.com/originals/0d/76/b4/0d76b4a20b2310ee0c5eadb9eedd60c9.jpg?width=200&height=200", TBS
