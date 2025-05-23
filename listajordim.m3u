@@ -48,9 +48,6 @@ http://185.189.225.150:85/LaSexta/index.m3u8
 #EXTINF:-1,tvg-id="Telemadrid.TV" tvg-logo="https://tmbroadcast.es/wp-content/uploads/2020/02/Logo-telemadrid.jpg?width=200&height=200" group-title="📺 TV",Telemadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 
-#EXTINF:-1,tvg-id="Telemadrid.TV" tvg-logo="https://tmbroadcast.es/wp-content/uploads/2020/02/Logo-telemadrid.jpg?width=200&height=200" group-title="📺 TV",LaOtra
-https://laotra-1-23-secure2.akamaized.net/master.m3u8
-
 #EXTINF:-1,tvg-id="8madridTV.es" tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg?width=200&height=200" group-title="🎬 CINE",8madrid TV
 http://185.189.225.150:85/8madrid/index.m3u8
 
