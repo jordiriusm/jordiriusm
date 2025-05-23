@@ -2441,7 +2441,7 @@ http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1,UNIVISION group-title="🌎 NETWORKS"
 http://200.229.147.142:8000/play/a052/index.m3u8
 
-#EXTINF:-1,A3 tvg-logo="https://fotografias.atrescine.com/clipping/cmsimages01/2018/07/10/EA7F0376-261F-4246-92A2-588246AADB63/58.jpg?width=200&height=200" group-title="🎬 CINE",A3 CINE
+#EXTINF:-1,A3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png?width=200&height=200" group-title="🎬 CINE",A3 CINE
 http://38.44.109.41:8003/play/a01k/index.m3u8
 
 #EXTINF:-1,tvg-id="MSNBC.us" tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/MSNBC-Emblem-500x281.png?width=200&height=200" MSNBC group-title=" 📡 TV INT'L"
