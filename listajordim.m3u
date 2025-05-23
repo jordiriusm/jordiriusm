@@ -275,7 +275,7 @@ https://rtvelivestream.rtve.es/rtvesec/rne/rne_r5_madrid_main.m3u8
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_re_main_720.m3u8
 
 #EXTINF:-1,tvg-id="RNEClasica.Radio" tvg-logo="https://graph.facebook.com/radioclasicartve/picture?width=200&height=200" group-title="🎵 MÚSICA",Radio Clásica RNE
-https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r2_main.m3u8
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main.m3u8
 
 #EXTINF:-1,tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="📻 RADIO",SER
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
