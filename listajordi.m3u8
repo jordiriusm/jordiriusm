@@ -1,15 +1,15 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg" group-title="📺 TV" tvg-name="La 1",La 1
+#EXTINF:-1,tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg" group-title="📺 TV" tvg-name="La 1",La 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="📺 TV" tvg-name="La 2",La 2
+#EXTINF:-1,tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="📺 TV" tvg-name="La 2",La 2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="La2_CAT.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="📺 TV" tvg-name="La 2 Catalunya",La 2 Catalunya
+#EXTINF:-1,tvg-id="La2_CAT.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="📺 TV" tvg-name="La 2 Catalunya",La 2 Catalunya
 https://ztnr.rtve.es/ztnr/3987218.m3u8
 
-#EXTINF:-1 tvg-id="TVE_INTER.TV" tvg-logo="https://graph.facebook.com/tveInternacional/picture?width=200&height=200" group-title="📺 TV" tvg-name="TVE Int. Europa",TVE Int. Europa
+#EXTINF:-1,tvg-id="TVE_INTER.TV" tvg-logo="https://graph.facebook.com/tveInternacional/picture?width=200&height=200" group-title="📺 TV" tvg-name="TVE Int. Europa",TVE Int. Europa
 https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8
 
 #EXTINF:-1,tvg-id="TVE_INTER.TV" tvg-logo="https://graph.facebook.com/tveInternacional/picture?width=200&height=200" group-title="📺 TV",TVE Int Asia-Oceanía
@@ -63,10 +63,10 @@ https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/livel
 #EXTINF:-1,tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="📺 TV",El Toro TV
 https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="📺 TV" tvg-name="RNE para todos",RNE para todos
+#EXTINF:-1,tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="📺 TV" tvg-name="RNE para todos",RNE para todos
 https://ztnr.rtve.es/ztnr/6688753.m3u8
 
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="📺 TV" tvg-name="24h",24h
+#EXTINF:-1,tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="📺 TV" tvg-name="24h",24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1,tvg-id="24H.TV" tvg-logo="https://imagenes.heraldo.es/files/image_990_v3/uploads/imagenes/2022/09/14/24h.jpeg?width=200&height=200" group-title="📺 TV",24h Int'l
@@ -184,22 +184,22 @@ https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
 #EXTINF:-1,tvg-id="NBCNewsNOW.us" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2019/05/nbc-news-now-logo.jpg?width=200&height=200" group-title="📻 RADIO",NBC News Now (iHeart)
 https://n06b-e2.revma.ihrhls.com/zc6043/hls.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title=" 📡 TV INT'L",LIVENOW FROM FOX
+#EXTINF:-1,tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title=" 📡 TV INT'L",LIVENOW FROM FOX
 https://livetv-fa.tubi.video/fox-live-now/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title=" 📡 TV INT'L",LIVENOW FROM FOX
+#EXTINF:-1,tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title=" 📡 TV INT'L",LIVENOW FROM FOX
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
 
 #EXTINF:-1,tvg-id="CheddarNews.us" tvg-logo="https://i.imgur.com/tuP9GW8.png?width=200&height=200" group-title=" 📡 TV INT'L",Cheddar News
 https://cheddar-us.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" user-agent="Star Wars",group-title=" 📡 TV INT'L",CNN INT
+#EXTINF:-1,tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" user-agent="Star Wars",group-title=" 📡 TV INT'L",CNN INT
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" user-agent="Star Wars",group-title=" 📡 TV INT'L",CNN FAST
+#EXTINF:-1,tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" user-agent="Star Wars",group-title=" 📡 TV INT'L",CNN FAST
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title=" 📡 TV INT'L",CNN EN ESPAÑOL
+#EXTINF:-1,tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title=" 📡 TV INT'L",CNN EN ESPAÑOL
 https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8
 
 #EXTINF:-1,tvg-id="France24English.fr" tvg-logo="https://i.imgur.com/B76eSg2.png?width=200&height=200" group-title=" 📡 TV INT'L",France 24 English
@@ -214,19 +214,19 @@ https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00
 #EXTINF:-1,tvg-id="France24French.fr" tvg-logo="https://i.imgur.com/u8N6uoj.png?width=200&height=200" group-title=" 📡 TV INT'L",France 24 French
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png" group-title=" 📡 TV INT'L",BBC NEWS
+#EXTINF:-1,tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png" group-title=" 📡 TV INT'L",BBC NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title=" 📡 TV INT'L",NHK WORLD
+#EXTINF:-1,tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title=" 📡 TV INT'L",NHK WORLD
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 
-#EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20121007054058/disney/images/3/3a/2000px-ESPN_Deportes_logo.png?width=200&height=200" group-title=" 📡 TV INT'L",ESPN DEPORTES
+#EXTINF:-1,tvg-logo="http://img2.wikia.nocookie.net/__cb20121007054058/disney/images/3/3a/2000px-ESPN_Deportes_logo.png?width=200&height=200" group-title=" 📡 TV INT'L",ESPN DEPORTES
 http://190.92.10.66:4000/play/a003/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://eloutput.com/wp-content/uploads/2024/02/laliga-tv-inside-logo.jpg?width=200&height=200" group-title=" 📡 TV INT'L",LA LIGA INSIDE
+#EXTINF:-1,tvg-logo="https://eloutput.com/wp-content/uploads/2024/02/laliga-tv-inside-logo.jpg?width=200&height=200" group-title=" 📡 TV INT'L",LA LIGA INSIDE
 https://daiconnect.com/live/hls/tvup/rk-ligainside/.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fahrenheit211.net/wp-content/uploads/2020/10/sky-logo.png?width=200&height=200" group-title=" 📡 TV INT'L",SKY NEWS
+#EXTINF:-1,tvg-logo="https://www.fahrenheit211.net/wp-content/uploads/2020/10/sky-logo.png?width=200&height=200" group-title=" 📡 TV INT'L",SKY NEWS
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
 #EXTINF:-1,tvg-id="BBCNewsNorthAmerica.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png?width=200&height=200" group-title=" 📡 TV INT'L",BBC News North America
@@ -247,7 +247,7 @@ https://cvtv.cvalley.net/hls/KMBCMeTV/live/pkgKMBCMeTVLo.m3u8
 #EXTINF:-1,tvg-id="ION PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png?width=200&height=200" group-title=" 📡 TV INT'L",ION PLUS
 http://fl3.moveonjoy.com/ION_Plus/index.m3u8
 
-#EXTINF:-1 tvg-id=BFM.TV" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png?width=200&height=200" group-title=" 📡 TV INT'L",BFM PARIS
+#EXTINF:-1,tvg-id=BFM.TV" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png?width=200&height=200" group-title=" 📡 TV INT'L",BFM PARIS
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
 
 #EXTINF:-1,tvg-id="RNE.Radio" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="📻 RADIO",RADIO Nacional
@@ -2195,7 +2195,7 @@ https://28513.live.streamtheworld.com/RELAX_FM.mp3
 #EXTINF:-1,tvg-id="TBS.EAST" tvg-logo="https://www.nicepng.com/png/detail/177-1773667_tbs-logo.png?width=200&height=200" group-title="🇺🇸 TV USA",TBS EAST
 http://143.244.60.30/TBS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Sky-News-Logo-2008.png" group-title=" 📡 TV INT'L",SKY NEWS
+#EXTINF:-1,tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Sky-News-Logo-2008.png" group-title=" 📡 TV INT'L",SKY NEWS
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
 #EXTINF:-1,tvg-id="VERBENA FM" tvg-logo="https://rommurcia.es/wp-content/uploads/2021/12/VERBENA1-7813773-882x600.jpg?width=200&height=200" group-title="📻 RADIO",VERBENA FM
@@ -2447,16 +2447,15 @@ http://38.44.109.41:8003/play/a01k/index.m3u8
 #EXTINF:-1,tvg-id="MSNBC.us" tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/MSNBC-Emblem-500x281.png?width=200&height=200" MSNBC group-title=" 📡 TV INT'L"
 http://41.205.93.154/MSNBC/index.m3u8
 
-#EXTINF:-1 tvg-id="ESBC2700011AZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20241022T050514SQUARE.png?width=200&height=200" group-title="🎬 CINE",tvg-name="Cines VERDI TV",Cines VERDI TV
+#EXTINF:-1,tvg-id="ESBC2700011AZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20241022T050514SQUARE.png?width=200&height=200" group-title="🎬 CINE",tvg-name="Cines VERDI TV",Cines VERDI TV
 https://jmp2.uk/sam-ESBC2700011AZ.m3u8
 
-#EXTINF:-1 tvg-id="ESBC2700012RP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png?width=200&height=200" group-title="🎬 CINE",tvg-name="Feel Good VERDI TV",Feel Good VERDI TV
+#EXTINF:-1,tvg-id="ESBC2700012RP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png?width=200&height=200" group-title="🎬 CINE",tvg-name="Feel Good VERDI TV",Feel Good VERDI TV
 https://jmp2.uk/sam-ESBC2700012RP.m3u8
 
-#EXTINF:-1 tvg-id="ES3000008O8" tvg-logo="https://fotografias.atrescine.com/clipping/cmsimages01/2018/07/10/EA7F0376-261F-4246-92A2-588246AADB63/58.jpg?width=200&height=200" group-title="🎬 CINE",tvg-name="Cine Español - Rakuten",Cine Español - Rakuten
+#EXTINF:-1,tvg-id="ES3000008O8" tvg-logo="https://fotografias.atrescine.com/clipping/cmsimages01/2018/07/10/EA7F0376-261F-4246-92A2-588246AADB63/58.jpg?width=200&height=200" group-title="🎬 CINE",tvg-name="Cine Español - Rakuten",Cine Español - Rakuten
 https://jmp2.uk/sam-ES3000008O8.m3u8
 
 #EXTINF:0,group-title="🎬 CINE",tvg-name="Cine en Español - Pluto tvg-logo=""
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=5d9cd8e2-dd04-11eb-990c-d7728814a60c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0c6cb070-0cfd-4d6c-ad81-c614133fd44b 
-
 
