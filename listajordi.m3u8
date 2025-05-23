@@ -2441,7 +2441,7 @@ http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1,UNIVISION group-title="🌎 NETWORKS"
 http://200.229.147.142:8000/play/a052/index.m3u8
 
-#EXTINF:-1,tvg-id="A3CINE.TV" tvg-logo="https://fotografias.atrescine.com/clipping/cmsimages01/2018/07/10/EA7F0376-261F-4246-92A2-588246AADB63/58.jpg?width=200&height=200" group-title="🎬 CINE",tvg-name="A3 CINE",A3 CINE
+#EXTINF:-1,tvg-id="A3CINE.TV" tvg-logo="https://fotografias.atrescine.com/clipping/cmsimages01/2018/07/10/EA7F0376-261F-4246-92A2-588246AADB63/58.jpg?width=200&height=200" group-title="🎬 CINE",A3 CINE
 http://38.44.109.41:8003/play/a01k/index.m3u8
 
 #EXTINF:-1,tvg-id="MSNBC.us" tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/MSNBC-Emblem-500x281.png?width=200&height=200" MSNBC group-title=" 📡 TV INT'L"
@@ -2455,3 +2455,8 @@ https://jmp2.uk/sam-ESBC2700012RP.m3u8
 
 #EXTINF:-1 tvg-id="ES3000008O8" tvg-logo="https://fotografias.atrescine.com/clipping/cmsimages01/2018/07/10/EA7F0376-261F-4246-92A2-588246AADB63/58.jpg?width=200&height=200" group-title="🎬 CINE",tvg-name="Cine Español - Rakuten",Cine Español - Rakuten
 https://jmp2.uk/sam-ES3000008O8.m3u8
+
+#EXTINF:0,group-title="🎬 CINE",tvg-name="Cine en Español - Pluto tvg-logo=""
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=5d9cd8e2-dd04-11eb-990c-d7728814a60c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0c6cb070-0cfd-4d6c-ad81-c614133fd44b 
+
+
