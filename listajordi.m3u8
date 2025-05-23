@@ -2423,25 +2423,25 @@ https://tvradio-1-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1,PBS group-title=" 📡 VPN"
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 
-#EXTINF:-1,tvg-logo="", ABC 
+#EXTINF:-1,tvg-logo="", ABC group-title="🌎 NETWORKS" 
 http://143.244.60.30/ABC_EAST/index.m3u8
 
-#EXTINF:-1,tvg-logo="", NBC
+#EXTINF:-1,tvg-logo="", NBC group-title="🌎 NETWORKS" group-title="🎬 CINE"
 http://143.244.60.30/NBC_EAST/index.m3u8
 
 #EXTINF:-1,tvg-logo="", TBS
 http://143.244.60.30/TBS/index.m3u8
 
-#EXTINF:-1,tvg-logo="", TCM USA
+#EXTINF:-1,tvg-logo="", TCM USA group-title="🎬 CINE"
 http://143.244.60.30/TCM/index.m3u8
 
 #EXTINF:-1,tvg-logo="", NICK USA
 http://143.244.60.30/NICKELODEON/index.m3u8
 
-#EXTINF:-1,UNIVISION
+#EXTINF:-1,UNIVISION group-title="🌎 NETWORKS"
 http://200.229.147.142:8000/play/a052/index.m3u8
 
-#EXTINF:-1,A3 CINE
+#EXTINF:-1,A3 CINE group-title="🎬 CINE"
 http://38.44.109.41:8003/play/a01k/index.m3u8
 
 
