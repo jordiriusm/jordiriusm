@@ -2456,5 +2456,5 @@ https://jmp2.uk/sam-ES3000008O8.m3u8
 #EXTINF:-1,tvg-name="Cine en Español - Pluto" tvg-logo="" group-title="🎬 CINE",Cine en español - Pluto
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=5d9cd8e2-dd04-11eb-990c-d7728814a60c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0c6cb070-0cfd-4d6c-ad81-c614133fd44b 
 
-#EXTINF:-1,tvg-logo="https://www.funcinema.com.ar/wp-content/uploads/2020/05/atrescine.jpg?width=200&height=200", A3 CINE group-title="🎬 CINE"
+#EXTINF:-1,tvg-logo="https://www.funcinema.com.ar/wp-content/uploads/2020/05/atrescine.jpg", A3 CINE group-title="🎬 CINE"
 http://38.44.109.41:8003/play/a01k/index.m3u8
