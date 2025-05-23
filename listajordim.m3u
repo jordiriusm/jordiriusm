@@ -1,25 +1,22 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg" group-title="📺 TV" tvg-name="La 1",La 1
-https://ztnr.rtve.es/ztnr/1688877.m3u8
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="📺 TV" tvg-name="La 2",La 2
-https://ztnr.rtve.es/ztnr/1688885.m3u8
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="La2_CAT.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="📺 TV" tvg-name="La 2 Catalunya",La 2 Catalunya
 https://ztnr.rtve.es/ztnr/3987218.m3u8
 
 #EXTINF:-1 tvg-id="TVE_INTER.TV" tvg-logo="https://graph.facebook.com/tveInternacional/picture?width=200&height=200" group-title="Int. Europa" tvg-name="TVE Int. Europa",TVE Int. Europa
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
-
-#EXTINF:-1,tvg-id="TVE_INTER.TV" tvg-logo="https://graph.facebook.com/tveInternacional/picture?width=200&height=200" group-title="📺 TV",TVE Int Europa-Asia
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
+https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8
 
 #EXTINF:-1,tvg-id="TVE_INTER.TV" tvg-logo="https://graph.facebook.com/tveInternacional/picture?width=200&height=200" group-title="📺 TV",TVE Int Asia-Oceanía
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
+https://rtvelivestream.rtve.es/rtvesec/int/tvei_asia_main.m3u8
 
 #EXTINF:-1,tvg-id="Star.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png?width=200&height=200" group-title="📺 TV",Star TVE
-https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+https://rtvelivestream.rtve.es/rtvesec/int/star_main.m3u8
 
 #EXTINF:-1,tvg-id="Antena3.TV" tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg?width=200&height=200" group-title="📺 TV",Antena 3
 http://185.189.225.150:85/Antena3HD/index.m3u8
@@ -76,7 +73,7 @@ https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_para_todos_main.m3u8
 
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="📺 TV" tvg-name="24h",24h
-https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1,tvg-id="24H.TV" tvg-logo="https://imagenes.heraldo.es/files/image_990_v3/uploads/imagenes/2022/09/14/24h.jpeg?width=200&height=200" group-title="📺 TV",24h Int'l
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_576.m3u8
