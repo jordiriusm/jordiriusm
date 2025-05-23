@@ -2438,7 +2438,7 @@ http://143.244.60.30/TCM/index.m3u8
 #EXTINF:-1,tvg-logo="", NICK DEUTSCHLAND
 http://143.244.60.30/NICKELODEON/index.m3u8
 
-#EXTINF:-1,UNIVISION group-title="🌎 NETWORKS"
+#EXTINF:-1,UNIVISION TVG-LOGO="https://variety.com/wp-content/uploads/2018/02/univision-logo.jpg?width=200&height=200", UNIVISION group-title="🌎 NETWORKS"
 http://200.229.147.142:8000/play/a052/index.m3u8
 
 #EXTINF:-1,tvg-id="MSNBC.us" tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/MSNBC-Emblem-500x281.png?width=200&height=200" MSNBC group-title=" 📡 TV INT'L",MSNBC
