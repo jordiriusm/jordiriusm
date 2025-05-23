@@ -2426,16 +2426,16 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1,tvg-logo="", ABC group-title="🌎 NETWORKS" 
 http://143.244.60.30/ABC_EAST/index.m3u8
 
-#EXTINF:-1,tvg-logo="", NBC group-title="🌎 NETWORKS" group-title="🎬 CINE"
+#EXTINF:-1,tvg-logo="", NBC group-title="🌎 NETWORKS"
 http://143.244.60.30/NBC_EAST/index.m3u8
 
-#EXTINF:-1,tvg-logo="", TBS
+#EXTINF:-1,tvg-logo="https://i.pinimg.com/originals/0d/76/b4/0d76b4a20b2310ee0c5eadb9eedd60c9.jpg?width=200&height=200", TBS
 http://143.244.60.30/TBS/index.m3u8
 
 #EXTINF:-1,tvg-logo="", TCM USA group-title="🎬 CINE"
 http://143.244.60.30/TCM/index.m3u8
 
-#EXTINF:-1,tvg-logo="", NICK USA
+#EXTINF:-1,tvg-logo="", NICK DEUTSCHLAND
 http://143.244.60.30/NICKELODEON/index.m3u8
 
 #EXTINF:-1,UNIVISION group-title="🌎 NETWORKS"
@@ -2444,4 +2444,5 @@ http://200.229.147.142:8000/play/a052/index.m3u8
 #EXTINF:-1,A3 CINE group-title="🎬 CINE"
 http://38.44.109.41:8003/play/a01k/index.m3u8
 
-
+#EXTINF:-1 tvg-id="MSNBC.us",tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/MSNBC-Emblem-500x281.png??width=200&height=200" MSNBC group-title=" 📡 TV INT'L"
+http://41.205.93.154/MSNBC/index.m3u8
