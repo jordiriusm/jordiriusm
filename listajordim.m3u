@@ -260,19 +260,19 @@ http://fl3.moveonjoy.com/ION_Plus/index.m3u8
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
 
 #EXTINF:-1,tvg-id="RNE.Radio" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="📻 RADIO",RADIO Nacional
-https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r1_main.m3u8
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8
 
 #EXTINF:-1,tvg-id="RNE3.Radio" tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="🎵 MÚSICA",RADIO 3 RNE
-https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r3_main.m3u8
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8
 
 #EXTINF:-1,tvg-id="RADIO4RNE.Radio" tvg-logo="https://graph.facebook.com/Radio4RNE/picture?width=200&height=200" group-title="📻 RADIO",Ràdio 4 RNE
-https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r4_main.m3u8
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r4_main.m3u8
 
 #EXTINF:-1,tvg-id="RNE5.Radio" tvg-logo="https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg" group-title="📻 RADIO",RADIO 5 RNE
-https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r5_madrid_main.m3u8
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r5_madrid_main.m3u8
 
 #EXTINF:-1,tvg-logo="https://graph.facebook.com/RadioExterior/picture?width=200&height=200" group-title="📻 RADIO",Radio Exterior
-https://rtvelivestream.akamaized.net/rtvesec/rne/rne_re_main.m3u8
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_re_main_720.m3u8
 
 #EXTINF:-1,tvg-id="RNEClasica.Radio" tvg-logo="https://graph.facebook.com/radioclasicartve/picture?width=200&height=200" group-title="🎵 MÚSICA",Radio Clásica RNE
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r2_main.m3u8
