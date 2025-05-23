@@ -2372,7 +2372,7 @@ http://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8
 #EXTINF:-1,DISTRITO TV tvg-logo="https://image.roku.com/developer_channels/prod/d0c9d4c785e314ec931517ff1e2dcd910a736527c659ecefe4bcd657ba315bf7.png?width=200&height=200" group-title="📺 TV"
 https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/fragments/live-2000/index.m3u8
 
-#EXTINF:-1,CORTS VALENCIANES tvg-logo"https://i.pinimg.com/originals/4e/9a/86/4e9a86c93430a4429f4780b41539a7a0.jpg?width=200&height=200" group-title="📺 TV"
+#EXTINF:-1,CORTS VALENCIANES tvg-logo="https://i.pinimg.com/originals/4e/9a/86/4e9a86c93430a4429f4780b41539a7a0.jpg?width=200&height=200" group-title="📺 TV"
 https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8
 
 #EXTINF:-1,TELECLÁSICA group-title=" 📡 TV INT'L"
