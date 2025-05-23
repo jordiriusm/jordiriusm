@@ -2453,7 +2453,7 @@ https://jmp2.uk/sam-ESBC2700011AZ.m3u8
 #EXTINF:-1,tvg-id="ESBC2700012RP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png?width=200&height=200" group-title="🎬 CINE",tvg-name="Feel Good VERDI TV",Feel Good VERDI TV
 https://jmp2.uk/sam-ESBC2700012RP.m3u8
 
-#EXTINF:-1,tvg-id="ES3000008O8" tvg-logo="https://fotografias.atrescine.com/clipping/cmsimages01/2018/07/10/EA7F0376-261F-4246-92A2-588246AADB63/58.jpg?width=200&height=200" group-title="🎬 CINE",tvg-name="Cine Español - Rakuten",Cine Español - Rakuten
+#EXTINF:-1,tvg-id="ES3000008O8" tvg-logo="" group-title="🎬 CINE",tvg-name="Cine Español - Rakuten",Cine Español - Rakuten
 https://jmp2.uk/sam-ES3000008O8.m3u8
 
 #EXTINF:-1,tvg-name="Cine en Español - Pluto" tvg-logo="" group-title="🎬 CINE",Cine en español - Pluto
