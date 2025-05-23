@@ -30,9 +30,6 @@ http://185.189.225.150:85/neox/index.m3u8
 #EXTINF:-1,tvg-id="MEGA.TV" tvg-logo="http://arabast.com/wp-content/uploads/2015/06/Logotipo-de-Mega.jpg?width=200&height=200" group-title="📺 TV",MEGA
 http://185.189.225.150:85/mega/index.m3u8
 
-#EXTINF:-1,tvg-id="ATRESERIES.TV" tvg-logo="https://fotografias.atresmediapublicidad.com/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B/58.jpg?width=200&height=200" group-title="📺 TV",ATRESERIES
-http://181.78.109.48:8000/play/a00l/index.m3u8
-
 #EXTINF:-1,tvg-id="Cuatro.TV" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_circular_500_-1_d4a5.png?width=200&height=200" group-title="📺 TV",Cuatro
 http://185.189.225.150:85/CuatroHD/index.m3u8
 
