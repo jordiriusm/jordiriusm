@@ -2450,7 +2450,10 @@ https://jmp2.uk/sam-ESBC2700012RP.m3u8
 #EXTINF:-1,tvg-id="ES3000008O8" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/fe99ab67-7935-40ad-aedb-010a73e70df8-cine-espanol-rakuten-tv-1628175641.jpeg?width=200&height=200" group-title="🎬 CINE",tvg-name="Cine Español - Rakuten",Cine Español - Rakuten
 https://jmp2.uk/sam-ES3000008O8.m3u8
 
-#EXTINF:-1,tvg-name="Cine en Español - Pluto" tvg-logo="" group-title="🎬 CINE",Cine en español - Pluto
+https://storage.googleapis.com/broadcastdialogue.com/uploads/2022/09/PlutoTV_Logo_Black.jpg
+
+
+#EXTINF:-1,tvg-logo="https://storage.googleapis.com/broadcastdialogue.com/uploads/2022/09/PlutoTV_Logo_Black.jpg?width=200&height=200" group-title="🎬 CINE" tvg-name="Cine en Español - Pluto", Cine en español - Pluto
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=5d9cd8e2-dd04-11eb-990c-d7728814a60c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0c6cb070-0cfd-4d6c-ad81-c614133fd44b 
 
 #EXTINF:-1,tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg62zQjQhVMZynj_h_k2VQazcaMYjvLE6DvKcLDah5LbdHwEHkl3jIj0KvhCvxAPGuegemjzWsPyv-FH54kYEuvUaxIpWI9jhBvewjV7gWQGyAUYPZsKDKpBPg49JERuXgSbJd_QACyIya9WErrf0iUgLu5Fxsd5keyzW0wtGZx1zwgY55bc9MZ3UqX=s245", A3 CINE group-title="🎬 CINE"
