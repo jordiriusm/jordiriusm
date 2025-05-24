@@ -2327,7 +2327,7 @@ https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 #EXTINF:-1,AFGHANISTAN INTERNATIONAL group-title=" 📡 TV INT'L"
 https://hls.afintl.com/hls/stream.m3u8
 
-#EXTINF:-1,SAMUEL GOLDWIN CLASSICS group-title="🎬 CINE"
+#EXTINF:-1,tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/756b95569dfa5c23ac4986d4ca9378ea/images/titan/assets/aHR0cHM6Ly9kM2JkMHRneWszNjh6MS5jbG91ZGZyb250Lm5ldC9mZWVkcy9jb25maWdzL3Jva3UtaW1hZ2VzL3NhbXVlbF9nb2xkd3luL3NhbXVlbF9nb2xkd3luX2NsYXNzaWNzX2NoYW5uZWxfdGh1bWJuYWlsLmpwZw.jpg?width=200&height=200” group-title="🎬 CINE", tvg-name="SAMUEL GOLDWIN CLASSICS",SAMUEL GOLDWIN CLASSICS  
 https://samuelgoldwyn-classics-1-us.roku.wurl.tv/2000.m3u8
 
 #EXTINF:-1,tvg-logo="https://images.seeklogo.com/logo-png/45/1/starz-encore-classic-logo-png_seeklogo-452935.png?width=200&height=200” group-title="🎬 CINE",tvg-name"STARZ ENCORE CLASSIC",STARZ ENCORE CLASSIC
