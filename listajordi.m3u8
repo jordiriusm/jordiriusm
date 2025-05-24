@@ -2330,7 +2330,7 @@ https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1,SAMUEL GOLDWIN CLASSICS group-title="🎬 CINE"
 https://samuelgoldwyn-classics-1-us.roku.wurl.tv/2000.m3u8
 
-#EXTINF:-1,tvg-logo="https://images.seeklogo.com/logo-png/45/1/starz-encore-classic-logo-png_seeklogo-452935.png?width=200&height=200” group-title="🎬 CINE",STARZ ENCORE CLASSIC
+#EXTINF:-1,tvg-logo="https://images.seeklogo.com/logo-png/45/1/starz-encore-classic-logo-png_seeklogo-452935.png?width=200&height=200” group-title="🎬 CINE",tvg-name"STARZ ENCORE CLASSIC",STARZ ENCORE CLASSIC
 http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8 
 
 #EXTINF:-1,FREEBIE TV group-title=" 📡 TV INT'L"
