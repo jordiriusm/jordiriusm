@@ -2366,7 +2366,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 #EXTINF:-1,SHOWTIME tvg-logo="https://logodix.com/logo/824990.jpg?width=200&height=200",SHOWTIME group-title="🎬 CINE"
 http://fl3.moveonjoy.com/SHOWTIME/index.m3u8
 
-#EXTINF:-1,SHOWTIME 2 group-title="🎬 CINE"
+#EXTINF:-1,SHOWTIME 2 tvg-logo="https://logodix.com/logo/825044.png?width=200&height=200", SHOWTIME 2 group-title="🎬 CINE"
 http://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8 
 
 #EXTINF:-1,DISTRITO TV tvg-logo="https://image.roku.com/developer_channels/prod/d0c9d4c785e314ec931517ff1e2dcd910a736527c659ecefe4bcd657ba315bf7.png?width=200&height=200" group-title="📺 TV"
