@@ -2336,8 +2336,8 @@ http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 #EXTINF:-1,FREEBIE TV group-title=" 📡 TV INT'L"
 https://d26pp4b7ojtlyn.cloudfront.net/scheduler/scheduleMaster/187.m3u8
 
-#EXTINF:-1,LIFETIME group-title="🎬 CINE"
-https://fl3.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1,tvg-id="LIFETIME.TV" tvg-logo="https://logowiki.net/wp-content/uploads/imgp/Lifetime-TV-Logo-1-1705.jpg?width=200&height=200” group-title="🎬 CINE" tvg-name"LIFETIME",LIFETIME
+https://fl3.moveonjoy.com/LIFETIME/index.m3u8 
 
 #EXTINF:-1,OXYGEN group-title=" 📡 TV INT'L"
 http://fl3.moveonjoy.com/OXYGEN/index.m3u8
