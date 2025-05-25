@@ -2456,34 +2456,34 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629
 #EXTINF:-1,tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg62zQjQhVMZynj_h_k2VQazcaMYjvLE6DvKcLDah5LbdHwEHkl3jIj0KvhCvxAPGuegemjzWsPyv-FH54kYEuvUaxIpWI9jhBvewjV7gWQGyAUYPZsKDKpBPg49JERuXgSbJd_QACyIya9WErrf0iUgLu5Fxsd5keyzW0wtGZx1zwgY55bc9MZ3UqX=s245", A3 CINE group-title="🎬 CINE"
 http://38.44.109.41:8003/play/a01k/index.m3u8
 
-DAS ERSTE
+#EXTINF:-1,DAS ERSTE
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 
-YLE TV1
+#EXTINF:-1,YLE TV1
 https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
 
-YLE TV2
+#EXTINF:-1,YLE TV2
 https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8
 
-RAI NEWS 24 
+#EXTINF:-1,RAI NEWS 24 
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 
-WDR
+#EXTINF:-1,WDR
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
 
-NDR
+#EXTINF:-1,NDR
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
 
-TV BERLIN
+#EXTINF:-1,TV BERLIN
 https://58de7a369a9c4.streamlock.net/tvb/7649_7Bpr2XK4zCR6jNV/playlist.m3u8
 
-EBS LIVE
+#EXTINF:-1,EBS LIVE
 https://streams.prd.commavservices.eu/live/ebs/index.m3u8
 
-SWR 4 BADEN-WURTNBERG
+#EXTINF:-1,SWR 4 BADEN-WURTNBERG
 https://f111.rndfnk.com/ard/swr/swr4/bw/mp3/128/stream.mp3?cid=01FC1X86VT36Q01G4NBJ3Q4R1Z&sid=2xXMQxroTlFgHQV3fZVqWUvbiTy&token=bzr8N8Jr3eROg8l4jPWl8RrSZuj4sOnC3imaHc5Y7S8&tvf=PXtokRmBQhhmMTExLnJuZGZuay5jb20
 
-#EXTINF:-1 tvg-id="US1400001WV" tvg-name="US1400001WV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400001WV_20241028T235657SQUARE.png" group-title=" 📡 TV INT'L" , MLB Channel
+#EXTINF:-1,#EXTINF:-1 tvg-id="US1400001WV" tvg-name="US1400001WV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400001WV_20241028T235657SQUARE.png" group-title=" 📡 TV INT'L" , MLB Channel
 https://jmp2.uk/sam-US1400001WV.m3u8
 
 #EXTINF:-1 tvg-id="USBD420002446" tvg-name="USBD420002446" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD420002446_20250204T014255SQUARE.png" group-title=" 📡 TV INT'L" , NBC Sports NOW
