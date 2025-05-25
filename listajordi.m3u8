@@ -2483,3 +2483,6 @@ https://streams.prd.commavservices.eu/live/ebs/index.m3u8
 SWR 4 BADEN-WURTNBERG
 https://f111.rndfnk.com/ard/swr/swr4/bw/mp3/128/stream.mp3?cid=01FC1X86VT36Q01G4NBJ3Q4R1Z&sid=2xXMQxroTlFgHQV3fZVqWUvbiTy&token=bzr8N8Jr3eROg8l4jPWl8RrSZuj4sOnC3imaHc5Y7S8&tvf=PXtokRmBQhhmMTExLnJuZGZuay5jb20
 
+#EXTINF:-1 tvg-id="US1400001WV" tvg-name="US1400001WV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400001WV_20241028T235657SQUARE.png" group-title=" 📡 TV INT'L" , MLB Channel
+https://jmp2.uk/sam-US1400001WV.m3u8
+
