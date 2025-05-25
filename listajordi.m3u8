@@ -248,7 +248,7 @@ https://cvtv.cvalley.net/hls/KMBCMeTV/live/pkgKMBCMeTVLo.m3u8
 http://fl3.moveonjoy.com/ION_Plus/index.m3u8
 
 #EXTINF:-1,tvg-id=BFM.TV" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png?width=200&height=200" group-title=" 📡 TV INT'L",BFM PARIS
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
+https://d133u1kwyeqhav.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cfh0ys5588w7f/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FRBD410000783
 
 #EXTINF:-1,tvg-id="RNE.Radio" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="📻 RADIO",RADIO Nacional
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8
@@ -2485,4 +2485,23 @@ https://f111.rndfnk.com/ard/swr/swr4/bw/mp3/128/stream.mp3?cid=01FC1X86VT36Q01G4
 
 #EXTINF:-1 tvg-id="US1400001WV" tvg-name="US1400001WV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400001WV_20241028T235657SQUARE.png" group-title=" 📡 TV INT'L" , MLB Channel
 https://jmp2.uk/sam-US1400001WV.m3u8
+
+#EXTINF:-1 tvg-id="USBD420002446" tvg-name="USBD420002446" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD420002446_20250204T014255SQUARE.png" group-title=" 📡 TV INT'L" , NBC Sports NOW
+https://jmp2.uk/sam-USBD420002446.m3u8
+
+#EXTINF:-1 tvg-id="US2200005Y2" tvg-name="US2200005Y2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200005Y2_20241112T001006SQUARE.png" group-title=" 📡 TV INT'L" , Canal ViX
+https://jmp2.uk/sam-US2200005Y2.m3u8
+
+#EXTINF:-1 tvg-id="USBD1700014QU" tvg-name="USBD1700014QU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700014QU_20241228T011529SQUARE.png" group-title=" 📡 TV INT'L" , Noticias Univision 24/7
+https://jmp2.uk/sam-USBD1700014QU.m3u8
+
+#EXTINF:-1 tvg-id="ITBA33000374G" tvg-name="ITBA33000374G" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000374G_20241022T043949SQUARE.png" group-title=" 📡 TV INT'L" , 5-Minuti Creativi
+https://jmp2.uk/sam-ITBA33000374G.m3u8
+
+#EXTINF:-1 tvg-id="IT9000060Q" tvg-name="IT9000060Q" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000060Q_20250408T021504SQUARE.png" group-title=" 📡 TV INT'L" , NOVE
+https://jmp2.uk/sam-IT9000060Q.m3u8
+
+#EXTINF:-1 tvg-id="IT900012M7" tvg-name="IT900012M7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900012M7_20250408T021510SQUARE.png" group-title=" 📡 TV INT'L" , WBTV
+https://jmp2.uk/sam-IT900012M7.m3u8
+
 
