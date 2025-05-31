@@ -2522,3 +2522,65 @@ https://live-tmc-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJj
 #EXTINF:-1,LCI
 https://live-lci-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIyMC4yNS4xOTIuMTQyIiwiY21jZCI6IiIsImV4cCI6MTc0ODY5NzkyNiwiZ2lkIjoiMmE5NTQzYWMtMzU3MC00OWYzLWFmYTUtNGVlOGM1Y2E3M2Q4IiwiaWF0IjoxNzQ4NjgzNTI2LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjIwMDAwMDAsInN0ZW0iOiIvb3V0L3YxLzkxN2FhZDRmYTcyZjQyZjdiYTdmNDg2MjI2ZjU0YmM0L2xjaS1jbWFmIiwic3ViIjoiMmE5NTQzYWMtMzU3MC00OWYzLWFmYTUtNGVlOGM1Y2E3M2Q4In0.BkyOCcRFR81dza6r9IY-MkDzm9ClnQKeytnIWvbPWa4/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index_4.m3u8
 
+#EXTINF:-1,LRT
+https://stream-secure.lrt.lt/lrt_hd/stream03/streamPlaylist.m3u8
+
+#EXTINF:-1,TVP 1
+https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
+
+#EXTINF:-1,HBO FAMILY
+http://212.102.60.231/HBO_FAMILY/index.m3u8
+
+#EXTINF:-1,CNN CHILE
+https://jireh-6-hls-video-us-isp.dps.live/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?dpssid=32d0be78a4794198c9828c966ca83d54&sid=ba5t1l1xb21811590938683ad20383736&ndvc=0
+
+#EXTINF:-1,RAI UNO (no VPN)
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+
+#EXTINF:-1,RAI TRE (no VPN)
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+
+#EXTINF:-1,FOX5 NY
+http://143.244.60.30/FOX_EAST/index.m3u8
+
+#EXTINF:-1,TCM
+http://143.244.60.30/TCM/index.m3u8
+
+#EXTINF:-1,TBS
+http://fl1.moveonjoy.com/TBS/index.m3u8
+
+#EXTINF:-1,ABC7 EAST
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+
+#EXTINF:-1,RTL Luxembourg
+https://stream.rtl.lu/data/live/tele/channel1/1080p.m3u8
+
+#EXTINF:-1,CMT
+http://fl3.moveonjoy.com/CMT/index.m3u8
+
+#EXTINF:-1,Cooking Channel
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+
+#EXTINF:-1,Cozi TV
+http://fl3.moveonjoy.com/COZI_TV/index.m3u8
+
+#EXTINF:-1,News 12
+https://aegis-cloudfront-1.tubi.video/1568cc70-2bf5-4f52-805b-42e0e514a77a/playlist.m3u8
+
+#EXTINF:-1,Freeform
+http://212.102.60.231/FREE_FORM/index.m3u8
+
+#EXTINF:-1,WE TV
+http://fl1.moveonjoy.com/WE_TV/index.m3u8
+
+#EXTINF:-1,MSG
+http://fl3.moveonjoy.com/MSG/index.m3u8
+
+#EXTINF:-1,TVN
+https://marine2.miplay.cl/tvnchile/index.m3u8
+
+#EXTINF:-1,Boomerang
+https://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+
+#EXTINF:-1,Das Erste
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
