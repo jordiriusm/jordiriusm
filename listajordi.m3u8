@@ -2477,10 +2477,10 @@ https://58de7a369a9c4.streamlock.net/tvb/7649_7Bpr2XK4zCR6jNV/playlist.m3u8
 #EXTINF:-1,EBS LIVE
 https://streams.prd.commavservices.eu/live/ebs/index.m3u8
 
-#EXTINF:-1,SWR 4 BADEN-WURTNBERG
+#EXTINF:-1,SWR 4 BADEN-WURTENBERG
 https://f111.rndfnk.com/ard/swr/swr4/bw/mp3/128/stream.mp3?cid=01FC1X86VT36Q01G4NBJ3Q4R1Z&sid=2xXMQxroTlFgHQV3fZVqWUvbiTy&token=bzr8N8Jr3eROg8l4jPWl8RrSZuj4sOnC3imaHc5Y7S8&tvf=PXtokRmBQhhmMTExLnJuZGZuay5jb20
 
-#EXTINF:-1,#EXTINF:-1 tvg-id="US1400001WV" tvg-name="US1400001WV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400001WV_20241028T235657SQUARE.png" group-title=" 📡 TV INT'L" , MLB Channel
+#EXTINF:-1,tvg-id="US1400001WV" tvg-name="US1400001WV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400001WV_20241028T235657SQUARE.png" group-title=" 📡 TV INT'L" , MLB Channel
 https://jmp2.uk/sam-US1400001WV.m3u8
 
 #EXTINF:-1 tvg-id="USBD420002446" tvg-name="USBD420002446" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD420002446_20250204T014255SQUARE.png" group-title=" 📡 TV INT'L" , NBC Sports NOW
@@ -2489,18 +2489,33 @@ https://jmp2.uk/sam-USBD420002446.m3u8
 #EXTINF:-1 tvg-id="US2200005Y2" tvg-name="US2200005Y2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200005Y2_20241112T001006SQUARE.png" group-title=" 📡 TV INT'L" , Canal ViX
 https://jmp2.uk/sam-US2200005Y2.m3u8
 
-#EXTINF:-1 tvg-id="USBD1700014QU" tvg-name="USBD1700014QU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700014QU_20241228T011529SQUARE.png" group-title=" 📡 TV INT'L" , Noticias Univision 24/7
+#EXTINF:-1,tvg-id="USBD1700014QU" tvg-name="USBD1700014QU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700014QU_20241228T011529SQUARE.png" group-title=" 📡 TV INT'L" , Noticias Univision 24/7
 https://jmp2.uk/sam-USBD1700014QU.m3u8
 
-#EXTINF:-1 tvg-id="ITBA33000374G" tvg-name="ITBA33000374G" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000374G_20241022T043949SQUARE.png" group-title=" 📡 TV INT'L" , 5-Minuti Creativi
+#EXTINF:-1, tvg-id="ITBA33000374G" tvg-name="ITBA33000374G" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000374G_20241022T043949SQUARE.png" group-title=" 📡 TV INT'L" , 5-Minuti Creativi
 https://jmp2.uk/sam-ITBA33000374G.m3u8
 
-#EXTINF:-1 tvg-id="IT9000060Q" tvg-name="IT9000060Q" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000060Q_20250408T021504SQUARE.png" group-title=" 📡 TV INT'L" , NOVE
+#EXTINF:-1, tvg-id="IT9000060Q" tvg-name="IT9000060Q" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000060Q_20250408T021504SQUARE.png" group-title=" 📡 TV INT'L" , NOVE
 https://jmp2.uk/sam-IT9000060Q.m3u8
 
-#EXTINF:-1 tvg-id="IT900012M7" tvg-name="IT900012M7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900012M7_20250408T021510SQUARE.png" group-title=" 📡 TV INT'L" , WBTV
+#EXTINF:-1, tvg-id="IT900012M7" tvg-name="IT900012M7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900012M7_20250408T021510SQUARE.png" group-title=" 📡 TV INT'L" , WBTV
 https://jmp2.uk/sam-IT900012M7.m3u8
 
-#EXTINF:-1 tvg-id="5cb0cae7a461406ffe3f5213" tvg-name="Paramount Movie Channel" tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="🎬 CINE" tvg-chno="200", Paramount Movie Channel
+#EXTINF:-1, tvg-id="5cb0cae7a461406ffe3f5213" tvg-name="Paramount Movie Channel" tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="🎬 CINE" tvg-chno="200", Paramount Movie Channel
 https://stitcher.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4f641e5e-37b0-11f0-b708-2606a4f5874f
+
+#EXTINF:-1,TF1
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI4OS45NS41OS4xMDIiLCJjbWNkIjoiIiwiZXhwIjoxNzQ4NjkzOTE3LCJnaWQiOiJiM2MyZjI5OTAwNTU0NTZmYWY4ZWFiNjkyYTVlOGU4NCIsImlhdCI6MTc0ODY3OTUxNywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS83ODA1NDJmNTE2ZjE0M2ZjOGFkOWJmMTQ2MjIzMTZlNy90ZjEtY21hZiIsInN1YiI6ImIzYzJmMjk5MDA1NTQ1NmZhZjhlYWI2OTJhNWU4ZTg0In0.TviGncCu0B91zk_2Le61n-uwMw07VahGXxoh7vH9Das/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index_2.m3u8
+
+#EXTINF:-1,CANAL+
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(JP4eB_DQk3n7JAy2y_2Pyuo9JtoiIlF5sZhtDRWLEuxQGrtV53EHFRRu6jWlzPXdqL8JQ9rGCCGLVX2s0h2Cby6firTuF-0wpxgMuihYlpYkk66-Hp26MR5hVp8WkiM0)/cloud/3/x5gv6be/d/live-1080@60.m3u8
+
+#EXTINF:-1,arte
+https://live-art-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI4OS45NS41OS4xMDIiLCJjbWNkIjoiIiwiZXhwIjoxNzQ4Njk0MDIxLCJnaWQiOiJiM2MyZjI5OTAwNTU0NTZmYWY4ZWFiNjkyYTVlOGU4NCIsImlhdCI6MTc0ODY3OTYyMSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS82N2Q3MTIxN2ViNGY0YzE3ODUzM2E0Nzc1NWEwYWVjMi9hcnQtY21hZiIsInN1YiI6ImIzYzJmMjk5MDA1NTQ1NmZhZjhlYWI2OTJhNWU4ZTg0In0.dsH90moAAOcvoYGhCeZFYWEt-oo_snAVb8bjYwqJcn4/out/v1/67d71217eb4f4c178533a47755a0aec2/art-cmaf/index_2.m3u8
+
+#EXTINF:-1,TMC
+https://live-tmc-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI4OS45NS41OS4xMDIiLCJjbWNkIjoiIiwiZXhwIjoxNzQ4NjkzOTMxLCJnaWQiOiJiM2MyZjI5OTAwNTU0NTZmYWY4ZWFiNjkyYTVlOGU4NCIsImlhdCI6MTc0ODY3OTUzMSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS80NGZjYjFjNzc2Mjg0ZjJkYTdjMTFlZjk0OGQ3ZWYzNC90bWMtY21hZiIsInN1YiI6ImIzYzJmMjk5MDA1NTQ1NmZhZjhlYWI2OTJhNWU4ZTg0In0.xcuASxcDMbPrASroX4wPHufGDiIjjKb0wGXc08iAguw/out/v1/44fcb1c776284f2da7c11ef948d7ef34/tmc-cmaf/index_2.m3u8
+
+#EXTINF:-1,LCI
+https://live-lci-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIyMC4yNS4xOTIuMTQyIiwiY21jZCI6IiIsImV4cCI6MTc0ODY5NzkyNiwiZ2lkIjoiMmE5NTQzYWMtMzU3MC00OWYzLWFmYTUtNGVlOGM1Y2E3M2Q4IiwiaWF0IjoxNzQ4NjgzNTI2LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjIwMDAwMDAsInN0ZW0iOiIvb3V0L3YxLzkxN2FhZDRmYTcyZjQyZjdiYTdmNDg2MjI2ZjU0YmM0L2xjaS1jbWFmIiwic3ViIjoiMmE5NTQzYWMtMzU3MC00OWYzLWFmYTUtNGVlOGM1Y2E3M2Q4In0.BkyOCcRFR81dza6r9IY-MkDzm9ClnQKeytnIWvbPWa4/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index_4.m3u8
 
