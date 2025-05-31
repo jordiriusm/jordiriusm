@@ -175,9 +175,6 @@ http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1,tvg-id="USANOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png?width=200&height=200" group-title=" 📡 TV INT'L",Fox Live Now
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,tvg-id="USANOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png?width=200&height=200" group-title=" 📡 TV INT'L",Fox Live Now 2
-https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiRVBGT1giLCJ2IjoiYWRzdHczZzBQajI4UDJBVyIsImFudmFjayI6IjdiNFdKbDM1emFIUndXemhrVWV3V1pKaUQzSk9tQWpHIiwic2hhcmVMaW5rIjoiaHR0cHM6Ly93My5tcC5sdXJhLmxpdmUvcGxheWVyL3Byb2QvdjMvYW52bG9hZC5odG1sP2tleT1leUp0SWpvaVJWQkdUMWdpTENKMklqb2lZV1J6ZEhjelp6QlFhakk0VURKQlZ5SXNJblJ2YTJWdUlqb2laWGxLTUdWWVFXbFBhVXBMVmpGUmFVeERTbWhpUjJOcFQybEtTVlY2U1RGT2FVbzVMbVY1U2pKaFYxRnBUMmxLYUZwSVRqQmtlazV1VFVaQ2NVMXFhRkZOYTBaWVNXbDNhV0ZZVG5wSmFtOXBUakpKTUZZd2NITk5lbFkyV1ZWb1UyUXhaRFpoUjNSV1dsaGtXRmRyY0hCU1JFNUxWREl4UW1GclkybG1VUzVMWDJkU05IRlBTRTFPY1VoQ1JVTk1Ua1UyZUhkTFpFdzVhR0Y0ZUZKMk56QTJORU5KVUZsUFlUYzRJaXdpWVc1MllXTnJJam9pTjJJMFYwcHNNelY2WVVoU2QxZDZhR3RWWlhkWFdrcHBSRE5LVDIxQmFrY2lmUSUzRCUzRCIsInBsdWdpbnMiOnt9LCJodG1sNSI6dHJ1ZSwidG9rZW4iOiJleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjkuZXlKMmFXUWlPaUpoWkhOMGR6Tm5NRkJxTWpoUU1rRlhJaXdpYVhOeklqb2lOMkkwVjBwc016VjZZVWhTZDFkNmFHdFZaWGRYV2twcFJETktUMjFCYWtjaWZRLktfZ1I0cU9ITU5xSEJFQ0xORTZ4d0tkTDloYXh4UnY3MDY0Q0lQWU9hNzgifQ%3D%3D
-
 #EXTINF:-1,tvg-id="NBCNewsNOW.us" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2019/05/nbc-news-now-logo.jpg?width=200&height=200" group-title=" 📡 TV INT'L",NBC News Now
 https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
 
@@ -237,9 +234,6 @@ https://hls.afintl.com/hls/stream.m3u8
 
 #EXTINF:-1,tvg-id="TMZ" tvg-logo="https://www.kindpng.com/picc/m/403-4034745_tmz-logo-png-transparent-png.png?width=200&height=200" group-title=" 📡 TV INT'L",TMZ
 https://apollo.production-public.tubi.io/live/ac-tmz.m3u8
-
-#EXTINF:-1,tvg-id="ME TV" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/2/21/MeTV_logo_2014.png/revision/latest??width=200&height=200" group-title=" 📡 TV INT'L",ME TV
-https://cvtv.cvalley.net/hls/KMBCMeTV/live/pkgKMBCMeTVLo.m3u8
 
 #EXTINF:-1,tvg-id="ION PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png?width=200&height=200" group-title=" 📡 TV INT'L",ION PLUS
 http://fl3.moveonjoy.com/ION_Plus/index.m3u8
@@ -2020,9 +2014,6 @@ https://xumo-xumoent-vc-116-hrcw0.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1,tvg-id="TribecaChannel.us",Tribeca Channel [Geo-blocked] group-title="❌ XUMO"
 https://amg02507-giantpictures-tribeca-xumo-ey2b7.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,tvg-id="TBNEast.us",Trinity Broadcast Network group-title="❌ XUMO"
-https://d7ge95bb03xsu.cloudfront.net/out/v1/7ed92615b64b46d6b01e61f17463346e/tbn-xumo.m3u8
 
 #EXTINF:-1,tvg-id="",True History Channel group-title="❌ XUMO"
 https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8
