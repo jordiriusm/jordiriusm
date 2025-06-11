@@ -48,7 +48,7 @@ http://185.189.225.150:85/LaSexta/index.m3u8
 #EXTINF:-1,tvg-id="Telemadrid.TV" tvg-logo="https://tmbroadcast.es/wp-content/uploads/2020/02/Logo-telemadrid.jpg?width=200&height=200" group-title="📺 TV",Telemadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 
-#EXTINF:-1,tvg-id="DMAX.es" group-title="📺 TV",DMAX
+#EXTINF:-1,tvg-id="DMAX.es" tvg-logo="https://tvtvtv.ru/icons/dmax_it.png?width=200&height=200" group-title="📺 TV",DMAX
 https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkzODAzNzUsIm5iZiI6MTc0OTM4MDM3NSwiZXhwIjoxNzQ5MzgwNzM1LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODEuNDQuMTg2LjEwNCJ9.8wooB2D43brAMcJmm1QzAHxFbOUGIP2kBEQLDoDSz1M/live/es/b9243cdb24df40128098f3ea25fcf47d/index_2.m3u8
 
 #EXTINF:-1,tvg-id="8madridTV.es" tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg?width=200&height=200" group-title="🎬 CINE",8madrid TV
