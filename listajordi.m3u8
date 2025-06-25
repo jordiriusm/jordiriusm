@@ -2489,6 +2489,9 @@ https://jmp2.uk/sam-US2200005Y2.m3u8
 #EXTINF:-1,tvg-id="USBD1700014QU" tvg-name="USBD1700014QU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700014QU_20241228T011529SQUARE.png" group-title=" 📡 TV INT'L" , Noticias Univision 24/7
 https://jmp2.uk/sam-USBD1700014QU.m3u8
 
+#EXTINF:-1,tvg-id="RTL102.5" tvg-name="RTL102.5" tvg-logo="https://thumbs.dreamstime.com/b/rtl-logo-131095391.jpg?width=200&height=200" group-title=" 📡 TV INT'L", RTL 102,5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S12772175/FmIo5I5kmwTy/playlist_video.m3u8
+
 #EXTINF:-1, tvg-id="ITBA33000374G" tvg-name="ITBA33000374G" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000374G_20241022T043949SQUARE.png" group-title=" 📡 TV INT'L" , 5-Minuti Creativi
 https://jmp2.uk/sam-ITBA33000374G.m3u8
 
