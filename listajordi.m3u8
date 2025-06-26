@@ -2572,3 +2572,27 @@ https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/mas
 
 #EXTINF:-1,RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+
+#EXTINF:-1,RAI ITALIA AMERICAS
+https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
+
+#EXTINF:-1,RAI ITALIA EUROPE-AFRICA
+https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
+
+#EXTINF:-1,RAI ITALIA WORLD PREMIUM
+https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
+
+#EXTINF:-1,MEDIASET ITALIA
+https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
+
+#EXTINF:-1,LA 7
+https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
+
+#EXTINF:-1,RAI 1
+https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
+
+#EXTINF:-1,RAI 2
+https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
+
+#EXTINF:-1,RAI 3
+https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
