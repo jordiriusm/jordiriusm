@@ -49,7 +49,7 @@ http://185.189.225.150:85/LaSexta/index.m3u8
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1,tvg-id="DMAX.es" tvg-logo="https://tvtvtv.ru/icons/dmax_it.png?width=200&height=200" group-title="📺 TV",DMAX
-https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkzODAzNzUsIm5iZiI6MTc0OTM4MDM3NSwiZXhwIjoxNzQ5MzgwNzM1LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODEuNDQuMTg2LjEwNCJ9.8wooB2D43brAMcJmm1QzAHxFbOUGIP2kBEQLDoDSz1M/live/es/b9243cdb24df40128098f3ea25fcf47d/index_2.m3u8
+https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE0NTcwMjAsIm5iZiI6MTc1MTQ1NzAyMCwiZXhwIjoxNzUxNDU3MzgwLCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODguMjcuOTIuMTkxIn0.YjHOfWKfaxO_-eWXv8N153jgVfwOVw3_nENxH05X_Mw/live/es/b9243cdb24df40128098f3ea25fcf47d/index_2.m3u8
 
 #EXTINF:-1,tvg-id="8madridTV.es" tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg?width=200&height=200" group-title="🎬 CINE",8madrid TV
 http://185.189.225.150:85/8madrid/index.m3u8
@@ -2596,3 +2596,23 @@ https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
 
 #EXTINF:-1,RAI 3
 https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
+
+#EXTINF:-1,RIOJA TV
+https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
+
+#EXTINF:-1,GB NEWS
+https://live-gbnews-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live/index.m3u8
+
+#EXTINF:-1,SKY NEWS WEATHER
+https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
+
+#EXTINF:-1,ABC EAST
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+
+#EXTINF:-1,NBC EAST
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+
+#EXTINF:-1,FOX EAST
+http://143.244.60.30/FOX_EAST/index.m3u8
+
+
