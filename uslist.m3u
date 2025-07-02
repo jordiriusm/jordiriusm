@@ -18,7 +18,6 @@ https://livetv-fa.tubi.video/fox-live-now/index.m3u8
 #EXTINF:-1,tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title=" 📡 TV INT'L",LIVENOW FROM FOX
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
 
-
 #EXTINF:-1,tvg-id="NBCNewsNOW.us" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2019/05/nbc-news-now-logo.jpg?width=200&height=200" group-title=" 📡 TV INT'L",NBC News Now
 https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
 
@@ -1107,10 +1106,10 @@ http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:-1,tvg-id="US1400001WV" tvg-name="US1400001WV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400001WV_20241028T235657SQUARE.png" group-title=" 📡 TV INT'L" , MLB Channel
 https://jmp2.uk/sam-US1400001WV.m3u8
 
-#EXTINF:-1 tvg-id="USBD420002446" tvg-name="USBD420002446" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD420002446_20250204T014255SQUARE.png" group-title=" 📡 TV INT'L" , NBC Sports NOW
+#EXTINF:-1,tvg-id="USBD420002446" tvg-name="USBD420002446" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD420002446_20250204T014255SQUARE.png" group-title=" 📡 TV INT'L" , NBC Sports NOW
 https://jmp2.uk/sam-USBD420002446.m3u8
 
-#EXTINF:-1 tvg-id="US2200005Y2" tvg-name="US2200005Y2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200005Y2_20241112T001006SQUARE.png" group-title=" 📡 TV INT'L" , Canal ViX
+#EXTINF:-1,tvg-id="US2200005Y2" tvg-name="US2200005Y2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200005Y2_20241112T001006SQUARE.png" group-title=" 📡 TV INT'L" , Canal ViX
 https://jmp2.uk/sam-US2200005Y2.m3u8
 
 #EXTINF:-1,ABC EAST
@@ -1121,3 +1120,5 @@ http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 
 #EXTINF:-1,FOX EAST
 http://143.244.60.30/FOX_EAST/index.m3u8
+
+
