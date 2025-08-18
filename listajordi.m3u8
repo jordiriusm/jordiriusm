@@ -18,47 +18,8 @@ https://rtvelivestream.rtve.es/rtvesec/int/tvei_asia_main.m3u8
 #EXTINF:-1,tvg-id="Star.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png?width=200&height=200" group-title="📺 TV",Star TVE
 https://rtvelivestream.rtve.es/rtvesec/int/star_main.m3u8
 
-#EXTINF:-1,tvg-id="Antena3.TV" tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg?width=200&height=200" group-title="📺 TV",Antena 3
-http://185.189.225.150:85/Antena3HD/index.m3u8
-
-#EXTINF:-1,tvg-id="NOVA.TV" tvg-logo="https://fotografias.antena3.com/clipping/cmsimages01/2015/03/06/AB8DB790-3557-4F20-95C3-830A2A8A3970/58.jpg?width=200&height=200" group-title="📺 TV",NOVA
-http://185.189.225.150:85/nova/index.m3u8
-
-#EXTINF:-1,tvg-id="NEOX.TV" tvg-logo="https://prnoticias.com/wp-content/uploads/2023/04/neox-new-logo-1.jpg?width=200&height=200" group-title="📺 TV",NEOX
-http://185.189.225.150:85/neox/index.m3u8
-
-#EXTINF:-1,tvg-id="MEGA.TV" tvg-logo="http://arabast.com/wp-content/uploads/2015/06/Logotipo-de-Mega.jpg?width=200&height=200" group-title="📺 TV",MEGA
-http://185.189.225.150:85/mega/index.m3u8
-
-#EXTINF:-1,tvg-id="Cuatro.TV" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_circular_500_-1_d4a5.png?width=200&height=200" group-title="📺 TV",Cuatro
-http://185.189.225.150:85/CuatroHD/index.m3u8
-
-#EXTINF:-1,tvg-id="Telecinco.TV" tvg-logo="https://estaticos-cdn.prensaiberica.es/clip/d2cc7e1c-0945-40f3-b587-7abf2f36d608_16-9-discover-aspect-ratio_default_0.jpg?width=200&height=200" group-title="📺 TV",Telecinco
-http://185.189.225.150:85/TeleCincoHD/index.m3u8
-
-#EXTINF:-1,tvg-id="FDF.TV" tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2009/08/factoria_de_ficcion_logo.jpg?width=200&height=200" group-title="📺 TV",FDF
-http://185.189.225.150:85/fdf/index.m3u8
-
-#EXTINF:-1,tvg-id="Boing.TV" tvg-logo="http://www.ocendi.com/wp-content/themes/ocendi/style/post/2010/09/Logo_boing.jpg?width=200&height=200" group-title="📺 TV",BOING
-http://185.189.225.150:85/boing/index.m3u8
-
-#EXTINF:-1,tvg-id="LaSexta.TV" tvg-logo="https://i.imgur.com/aKV5voq.png?width=200&height=200" group-title="📺 TV",La Sexta
-http://185.189.225.150:85/LaSexta/index.m3u8
-
 #EXTINF:-1,tvg-id="Telemadrid.TV" tvg-logo="https://tmbroadcast.es/wp-content/uploads/2020/02/Logo-telemadrid.jpg?width=200&height=200" group-title="📺 TV",Telemadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
-
-#EXTINF:-1,tvg-id="DMAX.es" tvg-logo="https://tvtvtv.ru/icons/dmax_it.png?width=200&height=200" group-title="📺 TV",DMAX
-https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE0NTcwMjAsIm5iZiI6MTc1MTQ1NzAyMCwiZXhwIjoxNzUxNDU3MzgwLCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODguMjcuOTIuMTkxIn0.YjHOfWKfaxO_-eWXv8N153jgVfwOVw3_nENxH05X_Mw/live/es/b9243cdb24df40128098f3ea25fcf47d/index_2.m3u8
-
-#EXTINF:-1,tvg-id="8madridTV.es" tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg?width=200&height=200" group-title="🎬 CINE",8madrid TV
-http://185.189.225.150:85/8madrid/index.m3u8
-
-#EXTINF:-1,tvg-id="BomCine.es" tvg-logo="https://i.imgur.com/65OX8Gj.png?width=200&height=200" group-title="🎬 CINE",Bom Cine
-http://185.189.225.150:85/BOM/index.m3u8
-
-#EXTINF:-1,tvg-id="AMC.es" tvg-logo="https://logo-marque.com/wp-content/uploads/2022/01/AMC-Logo-2002-2013.jpg?width=200&height=200" group-title="🎬 CINE",AMC
-http://vegafibratv.com:8085/AMC/index.m3u8
 
 #EXTINF:-1,tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="📺 TV",TRECE
 https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
@@ -85,10 +46,10 @@ https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 
 #EXTINF:-1,tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="📺 TV",Teledeporte
-https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
+https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main_dvr.m3u8?hdnts=exp%3D1755539998%7Ehmac%3Dfe98421c72d1195b7199745b64a32f5f6dbe17db3297c1dd66aad01793a27619&idasset=1712295
 
 #EXTINF:-1,tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="📺 TV",Clan
-https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
+https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8?idasset=5466990
 
 #EXTINF:-1,tvg-id="Paramount.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png?width=200&height=200" group-title="📺 TV",Paramount Network 
 http://185.189.225.150:85/Paramount/index.m3u8
