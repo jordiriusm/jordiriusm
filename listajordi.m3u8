@@ -253,8 +253,11 @@ https://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="📻 RADIO",Canal Extremadura Radio
 https://ingest2-video.streaming-pro.com/icecast/canalextremadura/playlist.m3u8
 
-#EXTINF:-1,tvg-logo="https://graph.facebook.com/rfienespanol/picture?width=200&height=200" group-title="📻 RADIO" RADIO,Radio Francia Internacional
+#EXTINF:-1,tvg-logo="https://graph.facebook.com/rfienespanol/picture?width=200&height=200" group-title="📻 RADIO",Radio Francia Internacional
 https://rfienespagnol64k.ice.infomaniak.ch/rfienespagnol-64.mp3
+
+#EXTINF:-1,tvg-logo="https://radioconvos.com.ar/wp-content/themes/radioconvos-child/images/brand.jpg?width=200&height=200" group-title="📻 RADIO" Radio Con Vos
+https://server1.stweb.tv/rcvos/live/playlist.m3u8
 
 #EXTINF:-1,tvg-logo="https://graph.facebook.com/radioenlacemadrid/picture?width=200&height=200" group-title="📻 RADIO",Radio Enlace
 https://cervera.eldialdigital.com:25121/stream
@@ -269,7 +272,7 @@ https://stream.revma.ihrhls.com/zc6043
 https://19313.live.streamtheworld.com/NBC_MSNBCAAC/HLS/playlist.m3u8
 
 #EXTINF:-1,tvg-logo="https://cdn-profiles.tunein.com/s15289/images/logog.png?width=200&height=200" group-title="📻 RADIO",AFN ROTA
-http://27823.live.streamtheworld.com:3690/AFNE_RTA_SC
+http://94.23.159.187:9958/;stream.mp3
 
 #EXTINF:-1,tvg-logo="https://los40ar00.epimg.net/los40/imagenes/2024/01/19/actualidad/1705690603_054172_1705690808_noticia_normal.jpg?width=200&height=200" group-title="📻 RADIO",LOS 40 USA
 https://streams.streamkast.co/streamkast/los40/icecast.audio
