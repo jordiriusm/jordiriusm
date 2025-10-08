@@ -6,6 +6,9 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8?hdnts=exp%3D1756668
 #EXTINF:-1,tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="📺 TV" tvg-name="La 2",La 2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 
+#EXTINF:-1,tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="📺 TV" tvg-name="La 2",2CAT
+https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_720.m3u8
+
 #EXTINF:-1,tvg-id="La2_CAT.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="📺 TV" tvg-name="La 2 Catalunya",La 2 Catalunya
 https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main.m3u8?hdnts=exp%3D1756668547%7Ehmac%3Dc36632b44d7ef970585095cad28c3959320e8783134d62898b48c9641895fff1&idasset=3987218
 
@@ -50,6 +53,9 @@ https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
 
 #EXTINF:-1,tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="📺 TV",Canal Parlamento
 https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.senado.es/web/wcm/idc/web/wcm/idc/groups/public/@cta_imagenes/documents/digitalmedia/mdaw/mjqx/~edisp/senpre_556539.jpg?width=200&height=200" group-title="📺 TV",Senado
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve04_main_720.m3u8
 
 #EXTINF:-1,tvg-id="CanalSurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="📺 TV",Canal Sur Andalucía
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
@@ -1235,7 +1241,7 @@ https://ztnr.rtve.es/ztnr/2472038.m3u8
 https://ztnr.rtve.es/ztnr/6909843.m3u8
 
 #EXTINF:-1,tvg-id="RTVE_SomosCine.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="📶 FAST",RTVE Somos Cine
-https://ztnr.rtve.es/ztnr/6909845.m3u8
+https://rtvelivestream.rtve.es/eventual/gofast/playm6_main.m3u8
 
 #EXTINF:-1,tvg-id="RTVE_Promesa.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="📶 FAST",RTVE La promesa
 https://ztnr.rtve.es/ztnr/2472039.m3u8
