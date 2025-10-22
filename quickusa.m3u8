@@ -1,5 +1,54 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTINF:-1,tvg-id="WNBCDT1.us@SD" tvg-name="La 1",La 1
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8?hdnts=exp%3D1756668515%7Ehmac%3Db0d17e0e2787d927a9ab73a4bc82a66c5e9271b0e4dad54add8bf8f4ac103fea&idasset=1688877
+#EXTINF:-1,tvg-id="WNBCDT1.us@SD", WNBC - DT1
+https://fl41.moveonjoy.com/NBC_EAST/index.m3u8
+
+#EXTINF:-1 tvg-id="WCBSDT1.us@SD",WCBS-DT1 (720p)
+https://fl41.moveonjoy.com/CBSEAST/index.m3u8
+
+#EXTINF:-1 tvg-id="WOFLDT1.us@SD",WOFL-DT1 (720p)
+https://fl41.moveonjoy.com/FOX_EAST/index.m3u8
+
+#EXTINF:-1 tvg-id="WFTSDT1.us@SD",WFTS-DT1
+https://fl41.moveonjoy.com/FL_Tampa_ABC/index.m3u8
+
+#EXTINF:-1 tvg-id="CHBLTV.ca@SD",CHBL-TV
+https://fl41.moveonjoy.com/CA_GLOBAL/index.m3u8
+
+#EXTINF:-1 tvg-id="AMC.us@East",AMC East (1080p)
+https://fl41.moveonjoy.com/AMC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="Bravo.us@East",Bravo East
+https://fl41.moveonjoy.com/BRAVO/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+https://fl41.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="",Fox Sports 1
+https://fl41.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+#EXTINF:-1 tvg-id="FX.us@East",FX East
+https://fl41.moveonjoy.com/FX/index.m3u8
+
+#EXTINF:-1 tvg-id="MLBNetwork.us@SD",MLB Network
+https://fl41.moveonjoy.com/MLB_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="NBATV.us@SD",NBA TV
+https://fl41.moveonjoy.com/NBA_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="NFLNetwork.us@SD",NFL Network
+https://fl41.moveonjoy.com/NFL_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="NHLNetwork.us@SD",NHL Network (720p)
+https://fl41.moveonjoy.com/NHL_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="TVLand.us@East",TV Land
+https://fl41.moveonjoy.com/TV_LAND/index.m3u8
+
+#EXTINF:-1 tvg-id="USANetwork.us@East",USA Network (720p)
+http://fl41.moveonjoy.com/USA_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="WGNDT1.us@SD",WGN-DT1 (720p)
+https://fl41.moveonjoy.com/WGN/index.m3u8
+
 
