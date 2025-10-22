@@ -1,33 +1,33 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTINF:-1,tvg-id="WNBCDT1.us@SD", WNBC - DT1
+#EXTINF:-1,tvg-id="WNBCDT1.us@SD", NBC
 https://fl41.moveonjoy.com/NBC_EAST/index.m3u8
 
-#EXTINF:-1 tvg-id="WCBSDT1.us@SD",WCBS-DT1 (720p)
+#EXTINF:-1 tvg-id="WCBSDT1.us@SD",CBS
 https://fl41.moveonjoy.com/CBSEAST/index.m3u8
 
-#EXTINF:-1 tvg-id="WOFLDT1.us@SD",WOFL-DT1 (720p)
+#EXTINF:-1 tvg-id="WOFLDT1.us@SD",FOX
 https://fl41.moveonjoy.com/FOX_EAST/index.m3u8
 
-#EXTINF:-1 tvg-id="WFTSDT1.us@SD",WFTS-DT1
+#EXTINF:-1 tvg-id="WFTSDT1.us@SD",ABC
 https://fl41.moveonjoy.com/FL_Tampa_ABC/index.m3u8
 
-#EXTINF:-1 tvg-id="CHBLTV.ca@SD",CHBL-TV
+#EXTINF:-1 tvg-id="CHBLTV.ca@SD",GLOBAL
 https://fl41.moveonjoy.com/CA_GLOBAL/index.m3u8
 
-#EXTINF:-1 tvg-id="AMC.us@East",AMC East (1080p)
+#EXTINF:-1 tvg-id="AMC.us@East",AMC
 https://fl41.moveonjoy.com/AMC_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="Bravo.us@East",Bravo East
+#EXTINF:-1 tvg-id="Bravo.us@East",Bravo
 https://fl41.moveonjoy.com/BRAVO/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News ChanneL
 https://fl41.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="",Fox Sports 1
 https://fl41.moveonjoy.com/FOX_Sports_1/index.m3u8
 
-#EXTINF:-1 tvg-id="FX.us@East",FX East
+#EXTINF:-1 tvg-id="FX.us@East",FX
 https://fl41.moveonjoy.com/FX/index.m3u8
 
 #EXTINF:-1 tvg-id="MLBNetwork.us@SD",MLB Network
@@ -39,16 +39,16 @@ https://fl41.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork.us@SD",NFL Network
 https://fl41.moveonjoy.com/NFL_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="NHLNetwork.us@SD",NHL Network (720p)
+#EXTINF:-1 tvg-id="NHLNetwork.us@SD",NHL NetworK
 https://fl41.moveonjoy.com/NHL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="TVLand.us@East",TV Land
 https://fl41.moveonjoy.com/TV_LAND/index.m3u8
 
-#EXTINF:-1 tvg-id="USANetwork.us@East",USA Network (720p)
+#EXTINF:-1 tvg-id="USANetwork.us@East",USA Network
 http://fl41.moveonjoy.com/USA_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="WGNDT1.us@SD",WGN-DT1 (720p)
+#EXTINF:-1 tvg-id="WGNDT1.us@SD",WGN
 https://fl41.moveonjoy.com/WGN/index.m3u8
 
 
