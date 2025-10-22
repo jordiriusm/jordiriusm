@@ -1,1 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXTINF:-1,tvg-id="WNBCDT1.us@SD" tvg-name="La 1",La 1
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8?hdnts=exp%3D1756668515%7Ehmac%3Db0d17e0e2787d927a9ab73a4bc82a66c5e9271b0e4dad54add8bf8f4ac103fea&idasset=1688877
 
