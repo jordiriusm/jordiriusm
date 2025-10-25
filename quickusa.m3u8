@@ -12,6 +12,9 @@ https://fl41.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="WFTSDT1.us@SD",ABC
 https://fl41.moveonjoy.com/FL_Tampa_ABC/index.m3u8
 
+#EXTINF:-1 tvg-id="WFTSDT1.us@SD",ABC 2
+https://tvpass.org/live/WABCDT1/sd
+
 #EXTINF:-1 tvg-id="CHBLTV.ca@SD",GLOBAL
 https://fl41.moveonjoy.com/CA_GLOBAL/index.m3u8
 
