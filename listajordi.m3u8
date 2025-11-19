@@ -2534,92 +2534,92 @@ http://143.244.60.30/FOX_EAST/index.m3u8
 #EXTINF:-1,WNYC tvg-id="WNYC" tvg-logo="https://media.wnyc.org/i/300/300/c/80/1/wnyc_square_logo.png?width=200&height=200" group-title="📻 RADIO",WNYC
 http://fm939.wnyc.org/wnycfm.aac
 
-#EXTINF:-1,TF1
+#EXTINF:-1,TF1 group-title="POR CLASIFICAR"
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
 
-#EXTINF:-1,M6
+#EXTINF:-1,M6 group-title="POR CLASIFICAR"
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 
-#EXTINF:-1,W9
+#EXTINF:-1,W9 group-title="POR CLASIFICAR"
 https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
 
-#EXTINF:-1,TMC
+#EXTINF:-1,TMC group-title="POR CLASIFICAR"
 https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
 
-#EXTINF:-1,TFX
+#EXTINF:-1,TFX group-title="POR CLASIFICAR"
 https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
 
-#EXTINF:-1,6TER
+#EXTINF:-1,6TER group-title="POR CLASIFICAR"
 https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
 
-#EXTINF:-1,3SAT
+#EXTINF:-1,3SAT group-title="POR CLASIFICAR"
 https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
 
-#EXTINF:-1,BR SUD
+#EXTINF:-1,BR SUD group-title="POR CLASIFICAR"
 https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-HLS8/brhdsud.m3u8
 
-#EXTINF:-1, DAS ERSTE
+#EXTINF:-1, DAS ERSTE group-title="POR CLASIFICAR"
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 
-#EXTINF:-1,MDR
+#EXTINF:-1,MDR group-title="POR CLASIFICAR"
 https://viamotionhsi.netplus.ch/live/eds/mdr/browser-HLS8/mdr.m3u8
 
-#EXTINF:-1,NDR
+#EXTINF:-1,NDR group-title="POR CLASIFICAR"
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 
-#EXTINF:-1, RTL DE
+#EXTINF:-1, RTL DE group-title="POR CLASIFICAR"
 https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
 
-#EXTINF:-1,RTL2
+#EXTINF:-1,RTL2 group-title="POR CLASIFICAR"
 https://strm.hdtvizlecanli.com/live/rtl2.m3u8
 
-#EXTINF:-1,PROSIEBEN
+#EXTINF:-1,PROSIEBEN group-title="POR CLASIFICAR"
 https://strm.hdtvizlecanli.com/live/pro7.m3u8
 
-#EXTINF:-1,NTV
+#EXTINF:-1,NTV group-title="POR CLASIFICAR"
 https://strm.hdtvizlecanli.com/live/ntv.m3u8
 
-#EXTINF:-1,TELE5 DE
+#EXTINF:-1,TELE5 DE group-title="POR CLASIFICAR"
 https://strm.hdtvizlecanli.com/live/tele5.m3u8
 
-#EXTINF:-1,ZDF
+#EXTINF:-1,ZDF group-title="POR CLASIFICAR"
 https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
 
-#EXTINF:-1,VOX
+#EXTINF:-1,VOX group-title="POR CLASIFICAR"
 https://strm.hdtvizlecanli.com/live/vox.m3u8
 
-#EXTINF:-1,RTP 1
+#EXTINF:-1,RTP 1 group-title="POR CLASIFICAR"
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
 
-#EXTINF:-1,SIC
+#EXTINF:-1,SIC group-title="POR CLASIFICAR"
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 
-#EXTINF:-1,BBC TWO
+#EXTINF:-1,BBC TWO group-title="POR CLASIFICAR"
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 
-#EXTINF:-1,CHANNEL 4
+#EXTINF:-1,CHANNEL 4 group-title="POR CLASIFICAR"
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 
-#EXTINF:-1,FILM 4
+#EXTINF:-1,FILM 4 group-title="POR CLASIFICAR"
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 
-#EXTINF:-1,CHANNEL 5
+#EXTINF:-1,CHANNEL 5 group-title="POR CLASIFICAR"
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
 
-#EXTINF:-1,ARTE
+#EXTINF:-1,ARTE group-title="POR CLASIFICAR"
 https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
 
-#EXTINF:-1,BFM TV
+#EXTINF:-1,BFM TV group-title="POR CLASIFICAR"
 https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8
 
-#EXTINF:-1,FRANCE 2
+#EXTINF:-1,FRANCE 2 group-title="POR CLASIFICAR"
 https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
 
-#EXTINF:-1,FRANCE 5
+#EXTINF:-1,FRANCE 5 group-title="POR CLASIFICAR"
 https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
 
-#EXTINF:-1,FRANCE 24 ES
+#EXTINF:-1,FRANCE 24 ES group-title="POR CLASIFICAR"
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_900.m3u8
 
-#EXTINF:-1,LCI
+#EXTINF:-1,LCI group-title="POR CLASIFICAR"
 https://live-lci-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2OC4yMjAuNTcuOTgiLCJjbWNkIjoiIiwiZXhwIjoxNzYzNTgwNTI2LCJnaWQiOiJiMWRjZTBhYS1mMDhiLTQwMTMtOWIyYS1kODQ3NzdhMGE2OTMiLCJpYXQiOjE3NjM1NjYxMjYsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MjAwMDAwMCwic3RlbSI6Ii9vdXQvdjEvOTE3YWFkNGZhNzJmNDJmN2JhN2Y0ODYyMjZmNTRiYzQvbGNpLWNtYWYiLCJzdWIiOiJiMWRjZTBhYS1mMDhiLTQwMTMtOWIyYS1kODQ3NzdhMGE2OTMifQ.HIdWKSWvkshqDOFG9kjMfv5xXPs3wJwICrguYs2RYlQ/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index_1.m3u8
