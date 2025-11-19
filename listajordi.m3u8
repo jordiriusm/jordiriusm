@@ -2674,3 +2674,39 @@ https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
 
 #EXTINF:-1,VOX
 https://strm.hdtvizlecanli.com/live/vox.m3u8
+
+#EXTINF:-1,RTP 1
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+
+#EXTINF:-1,SIC
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
+
+#EXTINF:-1,BBC TWO
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
+
+#EXTINF:-1,CHANNEL 4
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
+
+#EXTINF:-1,FILM 4
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
+
+#EXTINF:-1,CHANNEL 5
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
+
+#EXTINF:-1,ARTE
+https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
+
+#EXTINF:-1,BFM TV
+https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8
+
+#EXTINF:-1,FRANCE 2
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
+
+#EXTINF:-1,FRANCE 5
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
+
+#EXTINF:-1,FRANCE 24 ES
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_900.m3u8
+
+#EXTINF:-1,LCI
+https://live-lci-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2OC4yMjAuNTcuOTgiLCJjbWNkIjoiIiwiZXhwIjoxNzYzNTgwNTI2LCJnaWQiOiJiMWRjZTBhYS1mMDhiLTQwMTMtOWIyYS1kODQ3NzdhMGE2OTMiLCJpYXQiOjE3NjM1NjYxMjYsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MjAwMDAwMCwic3RlbSI6Ii9vdXQvdjEvOTE3YWFkNGZhNzJmNDJmN2JhN2Y0ODYyMjZmNTRiYzQvbGNpLWNtYWYiLCJzdWIiOiJiMWRjZTBhYS1mMDhiLTQwMTMtOWIyYS1kODQ3NzdhMGE2OTMifQ.HIdWKSWvkshqDOFG9kjMfv5xXPs3wJwICrguYs2RYlQ/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index_1.m3u8
