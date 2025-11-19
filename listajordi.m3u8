@@ -139,7 +139,7 @@ https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png" group-title="ITALIA",Rai 1
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rai2.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png" group-title="ITALIA" http-referrer="https://babaktv.com/",Rai 2
+#EXTINF:-1 tvg-id="Rai2.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png" group-title="ITALIA",Rai 2
 https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
 
 #EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png" group-title="ITALIA",Rai 3
@@ -2620,3 +2620,57 @@ http://143.244.60.30/FOX_EAST/index.m3u8
 
 #EXTINF:-1,WNYC tvg-id="WNYC" tvg-logo="https://media.wnyc.org/i/300/300/c/80/1/wnyc_square_logo.png?width=200&height=200" group-title="📻 RADIO",WNYC
 http://fm939.wnyc.org/wnycfm.aac
+
+#EXTINF:-1,TF1
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+
+#EXTINF:-1,M6
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+
+#EXTINF:-1,W9
+https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
+
+#EXTINF:-1,TMC
+https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+
+#EXTINF:-1,TFX
+https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
+
+#EXTINF:-1,6TER
+https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
+
+#EXTINF:-1,3SAT
+https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
+
+#EXTINF:-1,BR SUD
+https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-HLS8/brhdsud.m3u8
+
+#EXTINF:-1, DAS ERSTE
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+
+#EXTINF:-1,MDR
+https://viamotionhsi.netplus.ch/live/eds/mdr/browser-HLS8/mdr.m3u8
+
+#EXTINF:-1,NDR
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+
+#EXTINF:-1, RTL DE
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
+
+#EXTINF:-1,RTL2
+https://strm.hdtvizlecanli.com/live/rtl2.m3u8
+
+#EXTINF:-1,PROSIEBEN
+https://strm.hdtvizlecanli.com/live/pro7.m3u8
+
+#EXTINF:-1,NTV
+https://strm.hdtvizlecanli.com/live/ntv.m3u8
+
+#EXTINF:-1,TELE5 DE
+https://strm.hdtvizlecanli.com/live/tele5.m3u8
+
+#EXTINF:-1,ZDF
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
+
+#EXTINF:-1,VOX
+https://strm.hdtvizlecanli.com/live/vox.m3u8
